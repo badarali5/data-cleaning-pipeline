@@ -4,7 +4,7 @@ A Python-based data cleaning and validation pipeline that transforms messy datas
 
 ## Features
 
-- Import CSV, Excel, and JSON datasets
+- Import CSV datasets
 - Handle missing values
 - Remove duplicate records
 - Standardize column names and text formatting
@@ -110,4 +110,3 @@ validation_report.csv
 - Python
 - Pandas
 - NumPy
-- OpenPyXL
