@@ -1,0 +1,30 @@
+{
+    "rows": 1000,
+    "columns": 10,
+    "missing_values": {
+        "Patient Name": 0,
+        "Age": 0,
+        "Gender": 0,
+        "Condition": 206,
+        "Medication": 0,
+        "Visit Date": 817,
+        "Blood Pressure": 166,
+        "Cholesterol": 0,
+        "Email": 0,
+        "Phone Number": 0
+    },
+    "duplicate_rows": 0,
+    "data_types": {
+        "Patient Name": "str",
+        "Age": "int64",
+        "Gender": "str",
+        "Condition": "str",
+        "Medication": "str",
+        "Visit Date": "str",
+        "Blood Pressure": "str",
+        "Cholesterol": "int64",
+        "Email": "str",
+        "Phone Number": "str"
+    },
+    "validation_passed": false
+}
