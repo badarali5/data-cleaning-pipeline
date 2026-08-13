@@ -2,8 +2,7 @@
 import joblib
 import pandas as pd
  
-from model_training import CATAGORICAL_COLUMNS, NUMERICAL_COLUMNS
- 
+from model_training import CATEGORICAL_COLUMNS, NUMERICAL_COLUMNS
  
 def load_artifacts():
     model = joblib.load('artifacts/best_model.pkl')
@@ -14,7 +13,7 @@ def load_artifacts():
  
  
 def predict_new(raw_row_df, model, scaler, target_encoder, feature_columns):
-    df_encoded = pd.get_dummies(raw_row_df, columns=CATAGORICAL_COLUMNS, drop_first=True)
+    df_encoded = pd.get_dummies(raw_row_df, columns=CATEGORICAL_COLUMNS, drop_first=True)
     # match training columns exactly (fills any missing dummy columns with 0)
     df_encoded = df_encoded.reindex(columns=feature_columns, fill_value=0)
     X_scaled = scaler.transform(df_encoded)
@@ -30,10 +29,8 @@ def predict_new(raw_row_df, model, scaler, target_encoder, feature_columns):
  
  
 def example():
-    # Example new patients — replace with real rows (or load from a CSV/JSON)
     new_patients = pd.DataFrame([
-        {  # looks like Asthma
-            "Age": 30, "Gender": "Male", "Medication": "ALBUTEROL", "Cholesterol": 180,
+        {   "Age": 30, "Gender": "Male", "Medication": "ALBUTEROL", "Cholesterol": 180,
             "Respiratory_Rate": 25, "Oxygen_Saturation": 93.0, "Peak_Expiratory_Flow": 230,
             "Resting_Heart_Rate": 82, "Troponin_Level": 0.01, "Max_Heart_Rate_Achieved": 148,
             "Fasting_Blood_Sugar": 90, "HbA1c": 5.2, "Insulin_Level": 9.0,
