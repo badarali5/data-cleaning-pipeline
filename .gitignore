@@ -6,8 +6,3 @@ venv/
 .vscode/
 .idea/
 
-.env
-
-
-dist/
-build/

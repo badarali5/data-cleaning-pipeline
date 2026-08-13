@@ -67,15 +67,3 @@ def analyze_correlation(df, numerical_columns):
     correlation_matrix = df[numerical_columns].corr()
     print('Correlation Matrix:\n', correlation_matrix)
 
-
-def main():
-    df = load_data()
-    catagorical_columns = get_catagorical_columns()
-    numerical_columns = get_numerical_columns()
-    analyze_catagorical_columns(df, catagorical_columns)
-    analyze_numerical_features(df, numerical_columns)
-    analyze_correlation(df, numerical_columns)
-
-
-if __name__ == "__main__":
-    main()
