@@ -1,6 +1,6 @@
 {
     "rows": 1000,
-    "columns": 10,
+    "columns": 24,
     "missing_values": {
         "Patient Name": 0,
         "Age": 0,
@@ -11,7 +11,21 @@
         "Blood Pressure": 166,
         "Cholesterol": 0,
         "Email": 0,
-        "Phone Number": 0
+        "Phone Number": 0,
+        "Respiratory_Rate": 0,
+        "Oxygen_Saturation": 0,
+        "Peak_Expiratory_Flow": 0,
+        "Resting_Heart_Rate": 0,
+        "Troponin_Level": 0,
+        "Max_Heart_Rate_Achieved": 0,
+        "Fasting_Blood_Sugar": 0,
+        "HbA1c": 0,
+        "Insulin_Level": 0,
+        "Systolic_BP_Reading": 0,
+        "Diastolic_BP_Reading": 0,
+        "Sodium_Level": 0,
+        "Wheezing_Present": 0,
+        "Chest_Pain_Type": 0
     },
     "duplicate_rows": 0,
     "data_types": {
@@ -24,7 +38,21 @@
         "Blood Pressure": "str",
         "Cholesterol": "int64",
         "Email": "str",
-        "Phone Number": "str"
+        "Phone Number": "str",
+        "Respiratory_Rate": "int64",
+        "Oxygen_Saturation": "float64",
+        "Peak_Expiratory_Flow": "int64",
+        "Resting_Heart_Rate": "int64",
+        "Troponin_Level": "float64",
+        "Max_Heart_Rate_Achieved": "int64",
+        "Fasting_Blood_Sugar": "int64",
+        "HbA1c": "float64",
+        "Insulin_Level": "float64",
+        "Systolic_BP_Reading": "int64",
+        "Diastolic_BP_Reading": "int64",
+        "Sodium_Level": "float64",
+        "Wheezing_Present": "str",
+        "Chest_Pain_Type": "str"
     },
     "validation_passed": false
 }

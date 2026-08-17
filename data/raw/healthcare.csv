@@ -1,0 +1,1001 @@
+Patient Name,Age,Gender,Condition,Medication,Visit Date,Blood Pressure,Cholesterol,Email,Phone Number,Respiratory_Rate,Oxygen_Saturation,Peak_Expiratory_Flow,Resting_Heart_Rate,Troponin_Level,Max_Heart_Rate_Achieved,Fasting_Blood_Sugar,HbA1c,Insulin_Level,Systolic_BP_Reading,Diastolic_BP_Reading,Sodium_Level,Wheezing_Present,Chest_Pain_Type
+David Lee,25,Other,Heart Disease,METFORMIN,2020-01-15T00:00:00.000,140/90,200,name@hospital.org,555-555-5555,18,96.2,529,103,0.068,129,106,5.2,12.2,138,89,140.1,No,Typical Angina
+Emily Davis,35,Male,Diabetes,NONE,,120/80,200,Unknown,Not Provided,16,95.4,430,103,0.002,144,105,8.9,8.2,116,76,134.6,No,Non-Anginal
+Laura Martinez,35,Other,Asthma,METFORMIN,,110/70,160,contact@domain.com,Not Provided,26,93.1,272,81,0.012,139,83,4.9,5.6,93,77,136.6,No,Asymptomatic
+Michael Wilson,35,Male,Diabetes,ALBUTEROL,2020-01-15T00:00:00.000,110/70,180,name@hospital.org,555-555-5555,20,97.7,369,70,0.016,151,153,9.7,21.8,135,69,141.4,No,Asymptomatic
+David Lee,35,Female,Asthma,NONE,,110/70,180,Unknown,,23,92.2,197,94,0.011,151,99,5.3,3.6,117,78,135.5,Yes,Asymptomatic
+Mary Clark,35,Male,Hypertension,METFORMIN,,140/90,180,Unknown,Not Provided,16,97,456,66,0.012,126,130,5.5,13.3,161,96,150.5,No,Non-Anginal
+Robert Brown,35,Male,Hypertension,LISINOPRIL,,120/80,180,name@hospital.org,Not Provided,22,97.2,512,68,0.018,125,97,5.6,13.5,175,99,145.3,No,Asymptomatic
+David Lee,60,Other,,NONE,,,180,name@hospital.org,Not Provided,19,94.5,450,73,0.014,97,78,5.2,23.6,124,90,140.3,Yes,Atypical Angina
+Laura Martinez,60,Other,Heart Disease,NONE,2020-01-15T00:00:00.000,140/90,180,name@hospital.org,Not Provided,17,93.4,493,84,0.059,109,89,5.2,12.5,152,77,137.4,No,Atypical Angina
+Michael Wilson,35,Female,,ALBUTEROL,,140/90,220,patient@example.com,555-555-5555,17,97.8,449,81,0.014,142,96,8.9,8.3,125,99,143.6,No,Non-Anginal
+Emily Davis,25,Male,Asthma,ATORVASTATIN,,120/80,200,Unknown,,22,98.1,268,94,0.021,135,110,5.8,11.4,119,80,137.5,Yes,Non-Anginal
+Laura Martinez,35,Male,,ATORVASTATIN,,130/85,200,name@hospital.org,,22,96.8,419,69,0.104,150,96,5.2,18.1,112,87,138.5,No,Asymptomatic
+Laura Martinez,35,Male,Diabetes,ALBUTEROL,,140/90,180,Unknown,123-456-7890,20,95.9,413,60,0.008,127,197,9,9.9,106,78,141.9,No,Atypical Angina
+Robert Brown,25,Female,Asthma,ALBUTEROL,,130/85,180,name@hospital.org,Not Provided,29,94.6,261,76,0.015,129,101,4.6,9.8,142,82,139.1,Yes,Asymptomatic
+Sarah Johnson,70,Female,Hypertension,ALBUTEROL,,130/85,220,Unknown,Not Provided,10,97.9,506,62,0.014,137,123,5.8,7.8,167,92,141.7,No,Asymptomatic
+Michael Wilson,35,Female,Heart Disease,ATORVASTATIN,,110/70,180,Unknown,123-456-7890,19,94.9,434,93,0.108,93,92,5.5,11.3,164,74,136.4,No,Non-Anginal
+Jane Smith,60,Female,Asthma,ALBUTEROL,,120/80,200,Unknown,,23,92.5,202,91,0.004,149,106,6,9.1,124,72,140,Yes,Asymptomatic
+Laura Martinez,70,Female,Asthma,METFORMIN,,130/85,160,contact@domain.com,098-765-4321,23,92.2,203,80,0.005,126,80,5.2,13.8,130,76,140.3,No,Asymptomatic
+Sarah Johnson,25,Other,Diabetes,NONE,2020-01-15T00:00:00.000,120/80,180,name@hospital.org,098-765-4321,12,96.8,489,93,0.01,168,159,8.4,23.2,123,72,140.6,No,Asymptomatic
+Jane Smith,70,Male,Heart Disease,NONE,,110/70,160,contact@domain.com,,21,96.4,418,105,0.069,124,92,5.8,8.3,127,86,141.6,No,Typical Angina
+Michael Wilson,35,Male,Hypertension,LISINOPRIL,,120/80,180,Unknown,Not Provided,17,98,430,95,0.012,176,107,5.5,4.5,142,91,151.6,No,Non-Anginal
+John Doe,25,Male,Asthma,LISINOPRIL,2020-01-15T00:00:00.000,140/90,200,contact@domain.com,098-765-4321,25,92.4,268,72,0.026,146,98,5.4,9.3,104,70,137.7,Yes,Asymptomatic
+Mary Clark,70,Male,Asthma,NONE,,130/85,220,Unknown,555-555-5555,25,94.3,109,72,0.022,94,83,5.6,9.3,122,75,145.5,Yes,Asymptomatic
+Sarah Johnson,60,Male,Diabetes,METFORMIN,,120/80,160,Unknown,555-555-5555,18,97.8,550,81,0.014,173,180,8.3,18.9,125,92,144.8,No,Asymptomatic
+James Taylor,60,Male,,ATORVASTATIN,,,220,Unknown,123-456-7890,22,97.3,518,92,0.016,137,113,9.4,4.2,137,74,141.6,No,Typical Angina
+John Doe,35,Male,Hypertension,ATORVASTATIN,,120/80,200,contact@domain.com,,16,97.7,397,90,0.009,99,97,5.2,12.6,149,101,145.5,No,Asymptomatic
+Mary Clark,70,Male,Heart Disease,METFORMIN,,130/85,160,name@hospital.org,,15,94.3,327,96,0.08,99,113,5.4,17.5,138,88,139.1,No,Asymptomatic
+Robert Brown,35,Other,Asthma,ATORVASTATIN,,110/70,220,contact@domain.com,098-765-4321,30,95,285,91,0.011,142,97,5.8,11.8,122,87,140,Yes,Non-Anginal
+David Lee,70,Male,Asthma,ALBUTEROL,,110/70,220,name@hospital.org,Not Provided,24,91.1,209,87,0.006,126,80,5,10.2,115,71,137.6,Yes,Asymptomatic
+Emily Davis,25,Other,Hypertension,NONE,,130/85,160,name@hospital.org,,14,99.4,473,96,0.015,153,117,6.2,11.6,152,91,155.2,No,Asymptomatic
+James Taylor,25,Female,,NONE,2020-01-15T00:00:00.000,140/90,200,Unknown,098-765-4321,15,89.4,329,91,0.036,125,100,4.8,2.9,144,88,142.3,No,Non-Anginal
+Robert Brown,70,Male,Asthma,METFORMIN,2020-01-15T00:00:00.000,140/90,220,contact@domain.com,098-765-4321,20,95.6,312,87,0.013,135,106,4.7,8.1,123,82,142.8,Yes,Asymptomatic
+Michael Wilson,35,Female,Hypertension,ATORVASTATIN,,110/70,180,name@hospital.org,,19,97.5,386,81,0.02,132,88,5.6,16.2,155,107,140.5,No,Non-Anginal
+Robert Brown,60,Female,Diabetes,LISINOPRIL,,110/70,160,Unknown,098-765-4321,14,95.3,481,60,0.011,169,175,7.3,20.6,120,73,140.9,No,Asymptomatic
+David Lee,25,Female,,LISINOPRIL,,130/85,180,name@hospital.org,123-456-7890,25,96.9,250,76,0.015,127,78,6.3,11.5,160,92,137,No,Asymptomatic
+Michael Wilson,60,Other,Heart Disease,ATORVASTATIN,,140/90,180,Unknown,123-456-7890,21,97.2,420,101,0.071,121,81,5.5,7,133,80,135.9,Yes,Typical Angina
+James Taylor,25,Female,Asthma,LISINOPRIL,2020-01-15T00:00:00.000,110/70,200,contact@domain.com,,25,94.2,171,79,0.017,139,101,5.1,13.3,111,76,140.6,Yes,Asymptomatic
+David Lee,35,Female,Hypertension,METFORMIN,,140/90,180,contact@domain.com,Not Provided,20,97.6,539,72,0.017,129,79,5.6,3.3,150,90,142.4,Yes,Non-Anginal
+Jane Smith,35,Female,Diabetes,METFORMIN,2020-01-15T00:00:00.000,110/70,220,contact@domain.com,123-456-7890,13,99.4,470,88,0.008,134,156,9.6,28.7,124,73,140.1,No,Non-Anginal
+Emily Davis,25,Male,Heart Disease,ATORVASTATIN,,120/80,180,name@hospital.org,123-456-7890,12,97.4,575,122,0.085,113,112,5.3,13.8,108,73,146.7,No,Typical Angina
+James Taylor,60,Male,Hypertension,LISINOPRIL,,,200,patient@example.com,,19,96.6,386,84,0.008,153,106,4.9,10.5,134,101,142.7,No,Atypical Angina
+Jane Smith,35,Other,Hypertension,METFORMIN,,120/80,180,name@hospital.org,555-555-5555,15,98.4,483,73,0.021,136,100,6.4,2,148,97,146.9,No,Asymptomatic
+Mary Clark,25,Other,Heart Disease,METFORMIN,2020-01-15T00:00:00.000,110/70,180,name@hospital.org,098-765-4321,13,98.9,473,79,0.033,100,93,5.1,3.6,135,84,132.4,No,Asymptomatic
+James Taylor,35,Male,Diabetes,ALBUTEROL,,,200,Unknown,123-456-7890,14,95.2,424,80,0.019,178,168,7.4,22.9,118,70,138.1,No,Atypical Angina
+Mary Clark,35,Other,Diabetes,ALBUTEROL,,,200,Unknown,555-555-5555,13,97.9,518,88,0.014,153,178,9.8,19.1,114,73,140.9,No,Non-Anginal
+Michael Wilson,25,Male,,METFORMIN,,110/70,220,name@hospital.org,Not Provided,16,95,408,101,0.009,116,92,5.2,13.4,117,74,141.2,No,Typical Angina
+Jane Smith,35,Female,Asthma,ATORVASTATIN,,110/70,200,Unknown,555-555-5555,17,95.2,245,62,0.007,186,82,5.4,14.4,105,75,136.9,Yes,Asymptomatic
+Emily Davis,35,Female,Heart Disease,NONE,,140/90,220,Unknown,,13,95.7,484,98,0.033,132,106,5.2,9.4,113,90,140.4,No,Asymptomatic
+David Lee,70,Other,Heart Disease,NONE,2020-01-15T00:00:00.000,110/70,220,name@hospital.org,Not Provided,19,93.6,394,113,0.083,98,98,5.9,10.6,124,85,139.5,Yes,Atypical Angina
+Laura Martinez,35,Male,Heart Disease,METFORMIN,,130/85,160,patient@example.com,Not Provided,14,94.7,386,78,0.057,109,93,5.2,9.3,149,82,141,No,Atypical Angina
+Robert Brown,35,Male,Diabetes,METFORMIN,2020-01-15T00:00:00.000,110/70,180,Unknown,555-555-5555,17,95,481,69,0.012,160,117,8.8,14.4,119,71,137.9,No,Non-Anginal
+John Doe,35,Other,Asthma,METFORMIN,,130/85,180,contact@domain.com,,29,96.1,167,84,0.016,158,93,5.3,12,113,79,141.9,Yes,Atypical Angina
+Emily Davis,35,Male,,ATORVASTATIN,,110/70,180,name@hospital.org,123-456-7890,14,90.7,287,81,0.011,120,87,5.7,32.8,141,80,143.4,No,Non-Anginal
+Jane Smith,35,Female,Hypertension,ALBUTEROL,2020-01-15T00:00:00.000,140/90,160,name@hospital.org,555-555-5555,16,94.5,441,95,0.02,125,88,6.3,4.1,141,94,148.5,No,Non-Anginal
+Laura Martinez,25,Other,Hypertension,METFORMIN,,130/85,220,Unknown,123-456-7890,18,95.7,454,74,0.013,106,103,5.8,7,141,90,147.1,No,Non-Anginal
+Emily Davis,35,Other,Heart Disease,METFORMIN,,120/80,220,Unknown,555-555-5555,20,99.6,452,111,0.063,118,66,5.8,16.6,120,79,139,No,Non-Anginal
+Jane Smith,35,Male,Asthma,LISINOPRIL,,130/85,200,Unknown,123-456-7890,22,90.1,296,75,0.013,150,74,5.5,10,104,91,143.1,No,Asymptomatic
+Sarah Johnson,35,Other,Diabetes,ATORVASTATIN,,140/90,160,Unknown,555-555-5555,16,96.5,381,97,0.017,175,157,7.6,28.1,117,69,138.2,No,Asymptomatic
+Sarah Johnson,35,Male,Asthma,METFORMIN,,130/85,200,contact@domain.com,Not Provided,20,90.7,271,86,0.006,167,93,5.1,16.7,116,92,143.1,Yes,Asymptomatic
+Mary Clark,35,Male,Asthma,LISINOPRIL,,110/70,160,Unknown,098-765-4321,20,92.2,294,71,0.01,140,88,5.7,7.1,126,76,138.6,Yes,Asymptomatic
+Emily Davis,70,Male,Diabetes,NONE,,110/70,200,Unknown,Not Provided,18,97.3,342,60,0.006,155,118,6.3,20.2,127,80,141.2,No,Non-Anginal
+Sarah Johnson,25,Male,Heart Disease,METFORMIN,,140/90,180,Unknown,123-456-7890,21,95.1,448,105,0,135,88,5.2,9.4,126,72,140.6,No,Typical Angina
+Jane Smith,35,Male,Asthma,METFORMIN,,,180,Unknown,,24,95.9,217,76,0.011,152,96,4.8,2.7,115,72,137.1,Yes,Non-Anginal
+Mary Clark,70,Other,Hypertension,LISINOPRIL,,110/70,180,patient@example.com,Not Provided,20,99.3,426,80,0.018,130,107,5.7,8.8,139,94,147.7,No,Asymptomatic
+Jane Smith,60,Female,Diabetes,ATORVASTATIN,,120/80,220,patient@example.com,098-765-4321,17,93.6,459,85,0.014,139,162,8.1,28,133,72,132.4,No,Typical Angina
+Mary Clark,25,Female,,METFORMIN,2020-01-15T00:00:00.000,140/90,180,name@hospital.org,123-456-7890,22,95.1,218,90,0,157,194,5.9,12.7,163,79,137.8,No,Typical Angina
+Emily Davis,25,Other,Heart Disease,NONE,,130/85,180,name@hospital.org,Not Provided,14,93.2,394,97,0.094,111,92,5.5,11.5,121,76,139.4,Yes,Typical Angina
+Laura Martinez,60,Other,Diabetes,METFORMIN,2020-01-15T00:00:00.000,130/85,220,Unknown,555-555-5555,18,97.3,447,81,0.01,161,133,7.3,20.4,129,85,141.8,No,Asymptomatic
+David Lee,35,Female,,NONE,,120/80,180,Unknown,,27,99.1,390,79,0,145,85,5.2,22.3,163,76,141.8,No,Non-Anginal
+James Taylor,70,Female,,ALBUTEROL,,110/70,180,contact@domain.com,123-456-7890,14,97.6,194,92,0.008,140,159,5.2,19.2,183,74,139.9,No,Atypical Angina
+Laura Martinez,35,Female,Asthma,ALBUTEROL,,140/90,200,contact@domain.com,Not Provided,23,95.4,285,88,0.015,155,104,5.7,2,140,73,137.9,Yes,Atypical Angina
+Michael Wilson,35,Female,Asthma,NONE,,120/80,160,patient@example.com,123-456-7890,21,95.7,233,59,0.016,165,102,5.5,15.2,121,71,139.6,Yes,Asymptomatic
+Jane Smith,35,Female,Asthma,ATORVASTATIN,,110/70,180,name@hospital.org,555-555-5555,25,96.4,290,73,0.008,120,101,5.3,5.2,108,101,137,Yes,Non-Anginal
+Michael Wilson,60,Male,Diabetes,METFORMIN,,140/90,220,patient@example.com,098-765-4321,16,97.1,390,87,0.011,136,166,7.4,18.7,113,100,137.8,No,Atypical Angina
+Laura Martinez,25,Other,Diabetes,METFORMIN,,130/85,180,patient@example.com,Not Provided,23,98.4,380,62,0.02,151,133,7.8,18,141,85,141.5,No,Asymptomatic
+Mary Clark,25,Male,Heart Disease,ALBUTEROL,,140/90,220,name@hospital.org,123-456-7890,14,96.2,530,106,0.039,84,96,5.8,15.4,141,87,134.7,No,Atypical Angina
+James Taylor,35,Female,Asthma,NONE,,,180,contact@domain.com,123-456-7890,21,90.9,267,79,0.013,181,72,5.1,14.5,102,72,142.9,Yes,Non-Anginal
+James Taylor,25,Female,,METFORMIN,,140/90,220,name@hospital.org,123-456-7890,17,99.3,507,93,0.006,111,116,5.2,10.7,125,69,135.3,No,Non-Anginal
+John Doe,25,Female,Hypertension,METFORMIN,,,180,Unknown,098-765-4321,21,96.7,496,69,0.002,164,100,5.4,8.6,151,93,150,No,Atypical Angina
+James Taylor,35,Male,Heart Disease,ATORVASTATIN,2020-01-15T00:00:00.000,140/90,200,Unknown,123-456-7890,15,97.6,376,96,0.008,103,106,5.3,15.1,139,87,138.4,No,Atypical Angina
+David Lee,70,Male,Diabetes,LISINOPRIL,,,180,Unknown,,14,96.9,414,59,0.013,124,203,8.4,30.3,144,74,143.2,No,Atypical Angina
+James Taylor,70,Female,Heart Disease,ALBUTEROL,,130/85,200,Unknown,,15,94.6,455,88,0.058,120,96,6.2,9.8,129,99,143.5,No,Typical Angina
+Laura Martinez,35,Male,Heart Disease,ALBUTEROL,2020-01-15T00:00:00.000,110/70,180,contact@domain.com,123-456-7890,20,94.8,473,86,0.058,112,101,5.8,7.6,113,75,140.8,No,Atypical Angina
+John Doe,60,Male,Heart Disease,LISINOPRIL,,,180,contact@domain.com,,18,94.5,416,93,0.096,124,113,5.8,14.3,96,89,143.6,Yes,Atypical Angina
+Laura Martinez,25,Female,Heart Disease,METFORMIN,,,180,Unknown,Not Provided,15,98.4,397,94,0.11,141,96,6.1,15.2,128,88,146.6,No,Typical Angina
+Laura Martinez,25,Male,Hypertension,ATORVASTATIN,,130/85,160,patient@example.com,,19,96.1,508,92,0.012,102,84,6,5.3,159,102,145.8,No,Typical Angina
+Robert Brown,60,Other,Asthma,ATORVASTATIN,,,220,Unknown,123-456-7890,24,89.3,318,96,0.008,178,113,4.9,5.3,114,73,137.3,Yes,Asymptomatic
+John Doe,70,Other,,ALBUTEROL,,120/80,220,Unknown,555-555-5555,20,97.6,494,71,0.013,143,92,5.9,11.4,128,77,138.3,No,Asymptomatic
+Laura Martinez,35,Other,Heart Disease,ATORVASTATIN,,130/85,220,patient@example.com,Not Provided,16,95.1,512,71,0.039,108,117,6,13.7,140,79,142.5,No,Typical Angina
+Robert Brown,35,Other,Heart Disease,LISINOPRIL,,120/80,200,name@hospital.org,098-765-4321,14,99.6,402,86,0.112,116,97,5,5.6,127,84,142,No,Atypical Angina
+Robert Brown,35,Female,Heart Disease,METFORMIN,,130/85,220,name@hospital.org,123-456-7890,16,94.4,334,71,0.097,124,92,5.7,15.4,133,76,134.9,No,Typical Angina
+John Doe,70,Female,Asthma,LISINOPRIL,,,220,contact@domain.com,098-765-4321,26,93.6,246,68,0.002,187,102,5.4,7.5,118,65,135.5,No,Asymptomatic
+Michael Wilson,70,Female,Diabetes,NONE,,120/80,180,Unknown,555-555-5555,13,97.5,422,72,0.027,133,160,9.1,12.8,113,80,141.2,No,Typical Angina
+Mary Clark,60,Other,Diabetes,ALBUTEROL,,,180,contact@domain.com,098-765-4321,13,97.6,567,82,0.014,170,189,9.7,23.8,117,71,136.9,No,Non-Anginal
+David Lee,25,Other,Hypertension,ATORVASTATIN,,130/85,220,name@hospital.org,123-456-7890,17,96.1,456,77,0.017,135,95,6.1,12.5,160,109,143.8,No,Typical Angina
+Mary Clark,60,Male,Diabetes,NONE,,,160,patient@example.com,123-456-7890,13,95.7,432,74,0.025,114,190,7.9,25.5,125,85,140.1,No,Non-Anginal
+James Taylor,60,Male,Heart Disease,ATORVASTATIN,2020-01-15T00:00:00.000,120/80,220,contact@domain.com,555-555-5555,23,95.4,379,98,0.127,114,110,5.6,12.5,138,75,136.8,No,Typical Angina
+David Lee,70,Other,Heart Disease,METFORMIN,,120/80,200,Unknown,123-456-7890,17,97.6,448,77,0.098,141,114,5.5,7.7,103,85,138.6,No,Typical Angina
+James Taylor,35,Other,Heart Disease,METFORMIN,,,200,Unknown,555-555-5555,14,96.2,510,87,0.1,128,89,5.4,4.4,107,77,142.6,No,Typical Angina
+Laura Martinez,35,Other,Hypertension,METFORMIN,,140/90,200,patient@example.com,555-555-5555,15,98.2,447,77,0.02,147,99,5.5,8.4,136,99,141.9,No,Atypical Angina
+Jane Smith,25,Other,Heart Disease,ATORVASTATIN,,130/85,220,name@hospital.org,123-456-7890,16,97.5,383,94,0.068,143,121,5.6,5.9,130,81,135.9,No,Atypical Angina
+John Doe,70,Male,Diabetes,NONE,2020-01-15T00:00:00.000,130/85,180,Unknown,,15,93.6,470,79,0.014,130,155,7.9,24.5,109,77,134.2,Yes,Non-Anginal
+David Lee,35,Other,Asthma,METFORMIN,,,160,Unknown,555-555-5555,17,94,238,95,0.013,131,100,5.6,12.6,124,85,137.4,Yes,Asymptomatic
+David Lee,35,Male,Asthma,NONE,2020-01-15T00:00:00.000,140/90,220,Unknown,123-456-7890,28,98.5,260,89,0.009,109,115,5.7,10.1,128,69,140.2,Yes,Non-Anginal
+Laura Martinez,35,Other,,ATORVASTATIN,,120/80,180,contact@domain.com,,17,95.9,490,104,0.011,141,84,8.3,15,122,79,142,Yes,Atypical Angina
+Michael Wilson,70,Other,Diabetes,NONE,2020-01-15T00:00:00.000,110/70,180,name@hospital.org,555-555-5555,12,96,495,89,0.008,122,151,9,30.2,123,86,140,No,Non-Anginal
+Robert Brown,35,Other,Heart Disease,ATORVASTATIN,2020-01-15T00:00:00.000,110/70,220,contact@domain.com,,14,93.7,475,98,0.059,130,103,6,7.6,149,87,143.1,Yes,Asymptomatic
+Laura Martinez,25,Male,Asthma,ATORVASTATIN,2020-01-15T00:00:00.000,,220,name@hospital.org,Not Provided,21,97.3,237,90,0.016,161,77,5.5,9.7,130,91,138.6,No,Atypical Angina
+Sarah Johnson,35,Male,Diabetes,ALBUTEROL,,140/90,180,Unknown,Not Provided,16,95.1,500,88,0.019,127,177,7.8,20.4,137,77,142.2,No,Typical Angina
+Robert Brown,70,Female,Asthma,ATORVASTATIN,,140/90,180,Unknown,,22,92,282,74,0,123,65,5.7,4.4,124,74,143.3,Yes,Asymptomatic
+John Doe,70,Other,Heart Disease,ATORVASTATIN,,130/85,180,contact@domain.com,555-555-5555,15,95.1,407,87,0.097,110,104,5.4,11.3,113,85,143.2,No,Asymptomatic
+Robert Brown,35,Female,Asthma,LISINOPRIL,2020-01-15T00:00:00.000,120/80,220,Unknown,123-456-7890,24,95.5,270,81,0.018,138,82,4.9,9.8,120,87,138,No,Asymptomatic
+Michael Wilson,35,Female,,METFORMIN,,140/90,180,name@hospital.org,098-765-4321,28,97.7,475,68,0.021,174,103,10,18.7,138,74,143.1,No,Atypical Angina
+Robert Brown,25,Male,,ALBUTEROL,,110/70,200,contact@domain.com,123-456-7890,13,95.5,190,85,0.109,161,113,6.7,14.2,104,95,146.1,No,Atypical Angina
+John Doe,60,Male,Asthma,ALBUTEROL,2020-01-15T00:00:00.000,120/80,220,contact@domain.com,098-765-4321,24,94,260,72,0.007,143,84,4.8,10.6,129,75,135.3,Yes,Asymptomatic
+Michael Wilson,35,Female,Diabetes,ALBUTEROL,2020-01-15T00:00:00.000,120/80,200,Unknown,098-765-4321,13,95.8,483,74,0.005,157,167,10.1,21.5,130,84,138.6,No,Non-Anginal
+Mary Clark,35,Other,Diabetes,LISINOPRIL,,,180,contact@domain.com,555-555-5555,19,100,465,76,0.017,144,140,10.3,18.9,143,88,143.6,No,Asymptomatic
+David Lee,35,Male,Diabetes,ATORVASTATIN,,140/90,220,Unknown,,18,95.1,532,68,0.015,137,168,7.7,21.7,131,82,135.4,No,Asymptomatic
+David Lee,35,Other,Asthma,METFORMIN,2020-01-15T00:00:00.000,,180,Unknown,123-456-7890,27,94.7,240,72,0.011,156,99,5.3,11.2,129,91,140.5,Yes,Asymptomatic
+James Taylor,70,Other,Diabetes,NONE,2020-01-15T00:00:00.000,140/90,180,Unknown,,14,95.9,477,80,0.014,176,189,9.4,23.1,112,79,136.8,No,Non-Anginal
+Mary Clark,35,Female,Heart Disease,ATORVASTATIN,,130/85,180,name@hospital.org,Not Provided,21,95.8,370,109,0.085,129,83,5.4,12,125,86,137.4,No,Typical Angina
+Mary Clark,35,Female,,LISINOPRIL,,,160,Unknown,555-555-5555,13,94.5,409,99,0.114,173,126,8.8,15.4,167,84,140.5,Yes,Non-Anginal
+Robert Brown,25,Female,Heart Disease,ATORVASTATIN,,,180,Unknown,555-555-5555,21,95.4,474,107,0.107,125,92,5.5,6,124,79,137.1,No,Typical Angina
+David Lee,35,Female,Diabetes,ATORVASTATIN,,110/70,180,patient@example.com,Not Provided,15,95.6,428,72,0.015,143,195,8.4,15,133,74,136,No,Non-Anginal
+John Doe,35,Male,Heart Disease,LISINOPRIL,,,180,patient@example.com,123-456-7890,16,95.1,444,93,0.074,134,108,5.3,13.8,136,87,136,No,Typical Angina
+Emily Davis,60,Male,Diabetes,ALBUTEROL,,140/90,220,contact@domain.com,Not Provided,17,96,422,84,0.024,125,149,8.7,21.6,150,91,133.8,No,Atypical Angina
+Emily Davis,25,Female,Asthma,ALBUTEROL,2020-01-15T00:00:00.000,110/70,180,contact@domain.com,123-456-7890,31,90.6,288,70,0.009,170,88,5.9,13.4,98,82,146.2,Yes,Non-Anginal
+Michael Wilson,25,Male,Heart Disease,METFORMIN,,,160,patient@example.com,098-765-4321,17,98,450,89,0.082,120,110,5.5,13.9,127,80,139.5,No,Non-Anginal
+David Lee,35,Female,Asthma,METFORMIN,,,180,Unknown,555-555-5555,23,92.3,246,68,0.01,161,95,5,7.9,106,77,136.3,Yes,Non-Anginal
+David Lee,35,Other,Asthma,ALBUTEROL,,130/85,180,contact@domain.com,123-456-7890,27,93.9,200,92,0.008,122,95,5.2,13.1,120,79,138.3,Yes,Asymptomatic
+Emily Davis,60,Other,Hypertension,NONE,,,180,Unknown,,19,96.3,534,97,0.018,133,92,5.9,10.7,146,89,148.1,No,Atypical Angina
+David Lee,70,Other,Diabetes,ATORVASTATIN,,120/80,180,Unknown,,14,96,441,64,0.008,148,159,7.8,16.2,123,85,137.9,No,Atypical Angina
+Robert Brown,25,Female,,NONE,2020-01-15T00:00:00.000,110/70,180,Unknown,555-555-5555,18,95.8,322,86,0.009,119,89,5.8,12.9,145,81,148,No,Asymptomatic
+Sarah Johnson,60,Other,Diabetes,ATORVASTATIN,2020-01-15T00:00:00.000,120/80,180,contact@domain.com,Not Provided,13,99.5,442,55,0.008,159,102,7.7,16.9,123,82,140.3,No,Asymptomatic
+Jane Smith,35,Male,,ALBUTEROL,,110/70,160,Unknown,Not Provided,17,99.9,453,83,0.014,151,153,4.9,15.4,118,89,136.6,No,Typical Angina
+Mary Clark,35,Other,Diabetes,METFORMIN,,130/85,220,contact@domain.com,123-456-7890,18,96.4,423,90,0.008,158,182,7.9,29,117,68,140.5,No,Asymptomatic
+James Taylor,25,Other,Asthma,METFORMIN,,,160,contact@domain.com,Not Provided,28,94.4,266,88,0.014,147,97,5.5,17.8,122,82,139.8,Yes,Non-Anginal
+Michael Wilson,35,Other,Heart Disease,NONE,,,200,Unknown,555-555-5555,17,98.9,486,92,0.052,104,90,4.9,11.5,120,79,142.6,No,Asymptomatic
+Sarah Johnson,35,Male,Heart Disease,METFORMIN,,,160,patient@example.com,123-456-7890,21,97.9,348,75,0.089,114,92,5.4,12.7,133,75,143.4,Yes,Typical Angina
+Emily Davis,35,Female,Hypertension,ALBUTEROL,,110/70,180,Unknown,098-765-4321,20,96.6,486,91,0.012,155,72,5.6,12.7,181,106,145,Yes,Atypical Angina
+Mary Clark,70,Male,,NONE,,,220,Unknown,Not Provided,19,91.1,488,82,0.017,117,95,5.9,7.7,127,81,147.1,No,Non-Anginal
+David Lee,70,Female,,ATORVASTATIN,,120/80,180,name@hospital.org,Not Provided,13,91.9,474,113,0.022,72,141,10.4,26.8,133,77,141.1,No,Asymptomatic
+James Taylor,35,Female,,METFORMIN,,,200,Unknown,123-456-7890,21,97.1,491,105,0.06,129,154,4.9,6,111,90,136.6,No,Typical Angina
+David Lee,35,Other,Asthma,LISINOPRIL,2020-01-15T00:00:00.000,130/85,220,contact@domain.com,,33,91.8,327,82,0,163,89,4.8,8.4,99,58,144.7,Yes,Asymptomatic
+John Doe,35,Female,,METFORMIN,2020-01-15T00:00:00.000,120/80,180,contact@domain.com,Not Provided,20,95.5,431,86,0.002,133,86,5.9,7.9,105,82,138.8,No,Typical Angina
+John Doe,60,Male,Heart Disease,ATORVASTATIN,,,160,Unknown,555-555-5555,17,96.9,436,98,0.066,85,97,5.7,13.8,128,87,139.8,Yes,Non-Anginal
+James Taylor,70,Male,Asthma,NONE,,,180,name@hospital.org,Not Provided,22,90.5,210,76,0.009,186,86,5.4,12,137,75,137.6,Yes,Atypical Angina
+James Taylor,60,Female,Diabetes,ATORVASTATIN,,140/90,200,Unknown,098-765-4321,14,98.2,413,82,0.014,132,133,8.6,20,124,82,145.4,Yes,Asymptomatic
+Emily Davis,70,Other,,LISINOPRIL,,110/70,180,name@hospital.org,Not Provided,17,97.7,160,81,0.019,141,131,5.3,19.8,134,80,146.7,No,Atypical Angina
+James Taylor,35,Other,,ALBUTEROL,,120/80,160,name@hospital.org,,18,98.2,462,92,0.014,123,120,6.2,7.8,162,72,147.3,Yes,Atypical Angina
+Robert Brown,35,Male,Diabetes,METFORMIN,,140/90,180,Unknown,Not Provided,18,95,420,71,0.013,150,115,6.8,36.4,103,81,134.6,No,Asymptomatic
+David Lee,25,Other,,NONE,2020-01-15T00:00:00.000,130/85,160,contact@domain.com,123-456-7890,16,96.1,360,96,0.001,147,104,5,20.5,172,62,139.5,No,Asymptomatic
+Sarah Johnson,60,Female,Diabetes,ALBUTEROL,,110/70,220,contact@domain.com,Not Provided,17,99.5,507,82,0.013,131,179,9.6,34.7,124,86,134.1,No,Asymptomatic
+Laura Martinez,35,Female,Asthma,ATORVASTATIN,,120/80,180,name@hospital.org,,27,94.4,201,91,0.012,115,110,5.2,7.2,134,79,137.2,Yes,Atypical Angina
+James Taylor,60,Male,Heart Disease,NONE,,,180,contact@domain.com,123-456-7890,18,95.1,392,101,0.047,111,106,5.4,16.1,139,69,139.6,No,Typical Angina
+Michael Wilson,35,Female,Diabetes,ALBUTEROL,,120/80,180,patient@example.com,555-555-5555,13,96.9,432,90,0.008,151,192,9.1,18.7,129,81,142.3,No,Non-Anginal
+John Doe,35,Male,Hypertension,NONE,,,220,name@hospital.org,123-456-7890,20,97.8,391,87,0.01,117,104,5.9,6.5,144,113,149.9,No,Non-Anginal
+Robert Brown,60,Female,Diabetes,LISINOPRIL,,110/70,200,contact@domain.com,098-765-4321,19,97.1,491,77,0.01,148,143,9.3,23,114,82,135.5,No,Non-Anginal
+Mary Clark,35,Male,,LISINOPRIL,,,160,patient@example.com,123-456-7890,19,96.4,498,93,0.013,137,140,8.1,17.2,128,105,151.1,No,Typical Angina
+Laura Martinez,35,Other,Asthma,METFORMIN,,130/85,180,Unknown,555-555-5555,24,95,188,68,0.026,150,98,5.8,9.7,124,88,138.5,Yes,Asymptomatic
+Sarah Johnson,35,Female,Asthma,METFORMIN,,,220,contact@domain.com,Not Provided,29,92.8,247,80,0.004,140,88,5.5,2.2,123,91,136.5,No,Asymptomatic
+Laura Martinez,25,Female,Diabetes,LISINOPRIL,2020-01-15T00:00:00.000,130/85,200,patient@example.com,123-456-7890,14,95.2,438,75,0.012,122,175,9.7,3.8,141,68,144,No,Atypical Angina
+James Taylor,60,Male,Heart Disease,NONE,,110/70,160,Unknown,123-456-7890,14,99,469,101,0.033,92,108,5.7,18.4,133,79,142.2,No,Atypical Angina
+Emily Davis,35,Male,Hypertension,LISINOPRIL,,110/70,220,Unknown,123-456-7890,20,96.5,477,88,0,134,113,5.8,12,164,91,147.5,No,Non-Anginal
+John Doe,35,Female,Asthma,METFORMIN,2020-01-15T00:00:00.000,120/80,160,patient@example.com,123-456-7890,26,93.5,252,88,0.014,152,94,5.4,9.5,130,93,142.1,Yes,Asymptomatic
+John Doe,35,Male,,LISINOPRIL,,130/85,180,name@hospital.org,555-555-5555,26,97.3,410,73,0.017,141,117,5,8.1,181,84,137,No,Typical Angina
+Mary Clark,35,Female,,LISINOPRIL,,130/85,200,name@hospital.org,,17,91.8,453,91,0.013,148,187,6.2,15.2,116,87,148.8,Yes,Non-Anginal
+Emily Davis,35,Other,Heart Disease,NONE,,140/90,220,contact@domain.com,,13,98.1,421,80,0.068,125,79,5.6,5.7,126,96,141.3,No,Typical Angina
+David Lee,35,Male,Asthma,ALBUTEROL,,140/90,200,Unknown,123-456-7890,24,92.1,258,71,0.002,145,101,5.3,7,120,76,142.6,No,Asymptomatic
+Jane Smith,35,Female,Diabetes,METFORMIN,,140/90,180,name@hospital.org,555-555-5555,17,97.4,438,85,0.008,175,195,9.8,12.4,119,79,139.5,No,Asymptomatic
+Robert Brown,60,Other,,NONE,,,200,name@hospital.org,555-555-5555,21,96.9,513,77,0.021,167,114,7.6,5,137,86,137.7,Yes,Non-Anginal
+John Doe,60,Other,Heart Disease,LISINOPRIL,,140/90,200,Unknown,123-456-7890,19,95.9,396,90,0.119,94,113,5.3,5,135,80,137.5,No,Typical Angina
+Michael Wilson,70,Female,Asthma,LISINOPRIL,,130/85,180,Unknown,098-765-4321,34,93.8,211,51,0.016,157,93,5.3,10.1,115,58,142.8,Yes,Asymptomatic
+John Doe,70,Male,Asthma,ALBUTEROL,,,200,name@hospital.org,123-456-7890,24,93.2,317,101,0.009,145,91,5.7,13.5,120,78,139.8,Yes,Asymptomatic
+Laura Martinez,25,Female,Asthma,METFORMIN,,110/70,160,patient@example.com,098-765-4321,19,95.1,190,91,0.017,152,94,4.8,11.4,121,77,140.9,Yes,Atypical Angina
+John Doe,35,Other,Asthma,METFORMIN,,120/80,220,contact@domain.com,123-456-7890,24,95.6,165,76,0.012,158,95,5.2,10.6,112,79,139.1,Yes,Asymptomatic
+John Doe,60,Female,Asthma,ATORVASTATIN,,140/90,180,name@hospital.org,098-765-4321,21,91.8,203,80,0.017,147,89,5.4,8.5,110,80,142.7,Yes,Asymptomatic
+Jane Smith,35,Male,,METFORMIN,,110/70,220,name@hospital.org,098-765-4321,18,90.6,210,68,0.019,120,94,6.6,13.2,134,75,137.2,No,Asymptomatic
+Jane Smith,35,Other,Heart Disease,ALBUTEROL,,130/85,220,Unknown,123-456-7890,17,94.1,471,97,0.043,128,93,5,2.8,122,88,137.1,No,Typical Angina
+Sarah Johnson,35,Female,Asthma,ATORVASTATIN,,120/80,180,patient@example.com,098-765-4321,25,91.9,301,76,0.014,187,99,5.4,13.1,129,83,137.7,Yes,Non-Anginal
+David Lee,35,Male,Hypertension,ATORVASTATIN,,110/70,180,contact@domain.com,Not Provided,19,99,533,84,0.008,136,90,5.6,8.6,163,107,153.3,No,Asymptomatic
+Michael Wilson,70,Other,Hypertension,LISINOPRIL,2020-01-15T00:00:00.000,120/80,180,name@hospital.org,,16,97.1,457,82,0.009,137,78,4.9,14.7,178,109,146.1,No,Atypical Angina
+John Doe,35,Male,Heart Disease,LISINOPRIL,,140/90,180,contact@domain.com,555-555-5555,19,96.9,446,89,0.084,108,100,6.1,2.5,138,75,135.5,No,Typical Angina
+John Doe,25,Other,Diabetes,METFORMIN,,130/85,180,Unknown,098-765-4321,11,96.9,381,71,0.014,156,192,8.1,25.6,113,78,138.8,No,Asymptomatic
+Robert Brown,35,Female,Diabetes,ATORVASTATIN,,120/80,180,name@hospital.org,098-765-4321,17,97.5,434,83,0.008,137,181,9.2,25.5,124,94,139,No,Atypical Angina
+Jane Smith,70,Male,Diabetes,LISINOPRIL,,110/70,220,name@hospital.org,555-555-5555,16,99.1,400,83,0,165,167,10.4,9.1,123,94,135.9,No,Asymptomatic
+Michael Wilson,35,Other,Hypertension,ALBUTEROL,,140/90,180,Unknown,098-765-4321,16,94,408,83,0.008,129,115,5.7,7.4,159,98,150.4,No,Non-Anginal
+Mary Clark,70,Male,Diabetes,LISINOPRIL,,140/90,220,Unknown,555-555-5555,15,98.8,543,86,0.013,154,192,10,12.5,139,85,142.4,No,Asymptomatic
+Sarah Johnson,25,Male,,LISINOPRIL,2020-01-15T00:00:00.000,110/70,160,name@hospital.org,123-456-7890,16,96.3,369,77,0.017,152,95,5.8,9.1,149,76,151.4,No,Asymptomatic
+David Lee,35,Female,Asthma,ATORVASTATIN,,110/70,220,contact@domain.com,Not Provided,27,96.1,277,88,0.014,131,97,5.4,10.2,111,85,137.3,Yes,Atypical Angina
+Emily Davis,35,Male,Hypertension,ATORVASTATIN,,120/80,160,patient@example.com,Not Provided,18,97.9,475,66,0.013,136,106,5.4,6.1,133,88,144.1,No,Atypical Angina
+David Lee,25,Other,Heart Disease,NONE,,,200,contact@domain.com,,13,97.7,367,97,0.073,138,85,5.7,11.1,123,76,136.5,No,Atypical Angina
+Laura Martinez,70,Other,Heart Disease,ALBUTEROL,,140/90,200,Unknown,098-765-4321,18,95.5,475,100,0.087,110,110,5.9,8.8,138,67,143.3,No,Typical Angina
+John Doe,25,Other,Asthma,ATORVASTATIN,,120/80,160,patient@example.com,,25,93,309,81,0.009,149,103,5,6.8,110,86,137.5,Yes,Asymptomatic
+Sarah Johnson,35,Other,Hypertension,METFORMIN,,110/70,160,contact@domain.com,123-456-7890,14,95.2,368,79,0.024,124,86,6,12.9,156,110,152,No,Asymptomatic
+Laura Martinez,60,Female,Diabetes,ALBUTEROL,,120/80,220,contact@domain.com,Not Provided,16,96.5,390,69,0.017,128,139,9.6,8.7,123,77,139.4,No,Typical Angina
+Michael Wilson,25,Male,Diabetes,ALBUTEROL,,110/70,160,Unknown,123-456-7890,16,95.4,496,71,0.017,147,195,8.9,25.5,118,78,142.3,No,Asymptomatic
+Emily Davis,25,Female,,ATORVASTATIN,,130/85,180,Unknown,123-456-7890,14,99,252,83,0.004,125,158,5.1,13.2,139,103,135.7,No,Typical Angina
+Jane Smith,70,Male,,ALBUTEROL,,110/70,200,Unknown,098-765-4321,20,98.7,428,88,0.021,124,86,5.5,7.5,140,72,138.1,No,Typical Angina
+Sarah Johnson,70,Male,Diabetes,ATORVASTATIN,,110/70,200,patient@example.com,123-456-7890,19,97.7,455,90,0.003,156,155,8.4,5.4,142,88,135.7,No,Asymptomatic
+Sarah Johnson,35,Male,Heart Disease,LISINOPRIL,,110/70,160,Unknown,Not Provided,14,96.4,522,93,0.083,149,113,5.6,13.3,102,86,133.4,No,Non-Anginal
+John Doe,70,Female,Heart Disease,NONE,,,180,Unknown,,21,98.1,470,67,0.066,120,69,5,17.1,119,61,139.2,No,Typical Angina
+James Taylor,35,Male,,LISINOPRIL,,110/70,180,name@hospital.org,Not Provided,22,97.1,246,92,0.013,166,103,5.4,4.1,119,61,141.6,No,Atypical Angina
+Sarah Johnson,35,Female,Asthma,ATORVASTATIN,,140/90,160,name@hospital.org,098-765-4321,18,93.2,217,98,0.011,163,111,5.3,9,121,65,143.7,No,Non-Anginal
+Robert Brown,35,Other,Diabetes,ATORVASTATIN,,140/90,180,patient@example.com,Not Provided,18,97.8,474,83,0.013,141,206,8.9,17.5,108,90,136.4,No,Non-Anginal
+Emily Davis,60,Other,,LISINOPRIL,,120/80,180,name@hospital.org,555-555-5555,13,98.5,233,79,0.058,184,78,5.8,26.1,127,80,147.5,Yes,Atypical Angina
+Emily Davis,60,Male,,METFORMIN,,,160,Unknown,,15,98.4,472,82,0.022,142,156,5.6,7.7,129,83,141.9,No,Typical Angina
+Robert Brown,35,Female,Diabetes,METFORMIN,,120/80,180,patient@example.com,555-555-5555,16,91.9,520,78,0.007,140,139,8.6,28.1,138,73,139.8,No,Asymptomatic
+Mary Clark,60,Other,Diabetes,METFORMIN,,140/90,180,Unknown,555-555-5555,12,96.8,394,79,0.011,162,204,9,6.9,131,90,137.3,No,Asymptomatic
+Robert Brown,35,Female,Heart Disease,ATORVASTATIN,2020-01-15T00:00:00.000,140/90,220,patient@example.com,098-765-4321,23,96.4,468,90,0.071,126,76,5.3,6.4,139,90,139.9,No,Typical Angina
+Robert Brown,70,Female,Asthma,ALBUTEROL,,130/85,180,patient@example.com,123-456-7890,20,92.6,239,84,0.014,135,89,4.9,12.5,112,71,139.1,Yes,Atypical Angina
+Emily Davis,35,Male,Asthma,ATORVASTATIN,,110/70,180,contact@domain.com,555-555-5555,28,94.2,335,67,0.018,150,89,5.3,14.2,125,68,143,Yes,Asymptomatic
+David Lee,60,Other,Diabetes,ALBUTEROL,,140/90,180,contact@domain.com,Not Provided,16,98,394,75,0.012,166,186,9.4,13.1,121,69,141,No,Asymptomatic
+Emily Davis,35,Male,Hypertension,LISINOPRIL,,120/80,160,patient@example.com,123-456-7890,17,97.2,494,74,0.013,118,115,5.5,5.8,152,101,139.4,No,Asymptomatic
+James Taylor,35,Male,,NONE,,120/80,160,name@hospital.org,Not Provided,21,95.6,447,80,0.01,153,112,5.9,11,110,81,138.8,Yes,Typical Angina
+John Doe,25,Other,,ALBUTEROL,,110/70,180,contact@domain.com,Not Provided,23,96.2,440,76,0.009,138,179,5.4,6.9,120,91,148.3,Yes,Typical Angina
+Laura Martinez,70,Other,Diabetes,METFORMIN,,110/70,200,Unknown,123-456-7890,15,94.5,454,87,0.008,167,114,11.1,26.1,138,73,141.7,No,Non-Anginal
+David Lee,35,Female,Hypertension,ATORVASTATIN,,130/85,220,Unknown,123-456-7890,19,98.9,446,86,0.008,125,112,5.7,13.2,151,103,150.1,No,Non-Anginal
+Jane Smith,25,Other,Heart Disease,LISINOPRIL,2020-01-15T00:00:00.000,,200,contact@domain.com,Not Provided,17,98.8,275,109,0.069,138,104,5.7,9.3,146,79,139.8,No,Typical Angina
+Laura Martinez,60,Female,Diabetes,METFORMIN,,120/80,180,patient@example.com,098-765-4321,17,94,472,68,0.007,133,177,7,19.9,134,81,138.6,Yes,Non-Anginal
+John Doe,25,Female,Diabetes,LISINOPRIL,,110/70,180,name@hospital.org,,15,96.2,548,99,0.015,99,146,10.1,22.4,134,79,139,No,Atypical Angina
+James Taylor,70,Female,,NONE,2020-01-15T00:00:00.000,120/80,200,Unknown,,18,95.3,460,76,0,140,157,6,19.5,116,88,140.7,No,Atypical Angina
+James Taylor,35,Other,Diabetes,ATORVASTATIN,2020-01-15T00:00:00.000,110/70,220,contact@domain.com,098-765-4321,21,96.2,412,73,0.009,119,209,8.4,13.1,127,84,134.8,No,Asymptomatic
+Jane Smith,35,Male,Diabetes,ATORVASTATIN,,140/90,200,name@hospital.org,123-456-7890,18,96.4,454,88,0.017,143,137,8.2,38.9,147,83,139,No,Non-Anginal
+David Lee,60,Female,Diabetes,NONE,,120/80,160,name@hospital.org,Not Provided,11,96.4,456,73,0.013,146,166,8.5,24.8,133,80,142.3,No,Asymptomatic
+Mary Clark,35,Male,,ATORVASTATIN,,140/90,180,name@hospital.org,,25,95.9,417,92,0.045,112,143,5,9.9,129,100,139.8,No,Atypical Angina
+Robert Brown,70,Male,Heart Disease,ALBUTEROL,2020-01-15T00:00:00.000,120/80,160,patient@example.com,Not Provided,13,97.6,376,100,0.051,140,108,5.1,14.2,120,82,140,No,Typical Angina
+David Lee,60,Other,Heart Disease,LISINOPRIL,,,180,Unknown,098-765-4321,11,94.7,327,71,0.043,113,83,5.7,16.1,123,68,140,No,Typical Angina
+Mary Clark,35,Male,Diabetes,METFORMIN,,130/85,180,name@hospital.org,Not Provided,14,99.3,465,73,0.008,135,175,7.4,24.4,108,85,142,No,Non-Anginal
+James Taylor,25,Male,,NONE,,140/90,220,Unknown,098-765-4321,20,99,356,119,0.074,145,91,5.4,8.2,117,77,151,No,Typical Angina
+Emily Davis,70,Other,Heart Disease,ALBUTEROL,,110/70,200,contact@domain.com,123-456-7890,15,97.4,452,102,0.052,122,98,4.4,7.5,106,91,135.7,No,Atypical Angina
+John Doe,35,Female,Heart Disease,METFORMIN,,,220,Unknown,098-765-4321,22,98.9,455,69,0.091,98,110,5.7,12.6,127,95,137.3,No,Non-Anginal
+Jane Smith,35,Male,Heart Disease,METFORMIN,,120/80,200,patient@example.com,098-765-4321,16,98.4,353,85,0.116,114,108,6.3,3.2,139,78,141.4,No,Typical Angina
+John Doe,35,Other,,NONE,2020-01-15T00:00:00.000,140/90,160,patient@example.com,,16,94.8,441,114,0.004,124,93,8.8,26.1,140,92,142.2,No,Typical Angina
+Michael Wilson,60,Male,,ALBUTEROL,,120/80,160,Unknown,Not Provided,22,94.4,478,96,0.015,136,75,5.2,9.4,124,85,143.1,No,Asymptomatic
+Michael Wilson,25,Male,Diabetes,METFORMIN,,120/80,200,Unknown,,17,96.7,489,67,0,160,151,8,29.4,128,76,141.2,No,Atypical Angina
+David Lee,60,Female,Asthma,METFORMIN,2020-01-15T00:00:00.000,120/80,220,patient@example.com,555-555-5555,20,93.2,206,54,0.01,153,76,5.7,5.4,118,76,141.6,Yes,Atypical Angina
+James Taylor,35,Male,Heart Disease,ALBUTEROL,,130/85,200,patient@example.com,098-765-4321,20,98.5,432,90,0.08,134,80,5.2,9.1,146,70,144,No,Typical Angina
+James Taylor,60,Other,Asthma,ATORVASTATIN,2020-01-15T00:00:00.000,130/85,180,Unknown,555-555-5555,31,92.4,271,91,0.008,151,82,5.6,12.8,110,71,140,Yes,Asymptomatic
+Robert Brown,25,Male,,METFORMIN,,110/70,160,patient@example.com,,19,95.2,418,62,0.02,84,136,6.1,8.8,122,86,137.7,No,Atypical Angina
+Robert Brown,35,Female,,LISINOPRIL,2020-01-15T00:00:00.000,140/90,180,Unknown,Not Provided,14,97.6,346,77,0.02,129,100,10.3,18.8,133,86,140,Yes,Non-Anginal
+Robert Brown,60,Female,,ALBUTEROL,2020-01-15T00:00:00.000,,160,Unknown,,20,98,446,67,0.011,167,92,6.3,9.3,154,99,144,No,Atypical Angina
+Emily Davis,35,Other,Asthma,METFORMIN,,,160,Unknown,Not Provided,23,93,285,69,0.004,163,79,5.8,6.6,120,63,139.6,Yes,Atypical Angina
+Laura Martinez,70,Female,,NONE,,,180,contact@domain.com,Not Provided,15,94.4,427,75,0.1,158,112,5.2,12.4,147,104,156.2,No,Atypical Angina
+Sarah Johnson,35,Male,Diabetes,LISINOPRIL,,120/80,180,Unknown,123-456-7890,17,98.3,407,89,0.005,130,187,8.9,26.3,127,89,140.5,No,Asymptomatic
+Laura Martinez,70,Female,,METFORMIN,,130/85,180,Unknown,098-765-4321,19,94.9,525,76,0.012,150,84,5.1,3.8,113,108,136.1,No,Non-Anginal
+John Doe,35,Other,Hypertension,LISINOPRIL,,140/90,180,contact@domain.com,,15,97.7,367,72,0.014,111,96,5.9,9.4,156,81,145.9,No,Typical Angina
+Laura Martinez,35,Female,Asthma,LISINOPRIL,2020-01-15T00:00:00.000,120/80,220,name@hospital.org,Not Provided,28,90.9,245,92,0.009,145,95,4.6,9.3,114,67,137,Yes,Atypical Angina
+Emily Davis,70,Female,Hypertension,ATORVASTATIN,,130/85,180,patient@example.com,,23,98.4,408,77,0.011,153,108,5.9,12.4,149,109,151.3,Yes,Non-Anginal
+John Doe,35,Female,,LISINOPRIL,,130/85,200,Unknown,,16,92.4,517,95,0.002,171,179,5.7,15.1,124,95,139.2,No,Asymptomatic
+Laura Martinez,25,Other,Diabetes,ATORVASTATIN,,140/90,180,patient@example.com,Not Provided,20,97,414,84,0.007,131,187,10,16.5,105,88,134.8,No,Non-Anginal
+Emily Davis,35,Female,Heart Disease,ALBUTEROL,2020-01-15T00:00:00.000,140/90,180,Unknown,555-555-5555,21,97.7,332,112,0.109,123,103,5.5,16.9,136,75,140,No,Atypical Angina
+Sarah Johnson,60,Female,,ATORVASTATIN,,140/90,220,patient@example.com,098-765-4321,17,98.2,258,61,0.018,148,180,7.6,7.6,140,72,142,No,Typical Angina
+Laura Martinez,35,Male,Diabetes,NONE,,120/80,180,contact@domain.com,098-765-4321,18,95,368,73,0.007,116,204,8.9,17.7,101,84,143.1,No,Non-Anginal
+Emily Davis,35,Other,Asthma,METFORMIN,2020-01-15T00:00:00.000,110/70,160,patient@example.com,123-456-7890,31,89.7,204,71,0.003,178,80,5.9,10.9,121,77,135.9,Yes,Typical Angina
+Robert Brown,35,Female,Hypertension,ALBUTEROL,,140/90,200,patient@example.com,123-456-7890,18,97,296,88,0.023,134,80,5.9,4.3,156,82,147.3,No,Asymptomatic
+James Taylor,60,Other,Hypertension,ALBUTEROL,2020-01-15T00:00:00.000,110/70,180,patient@example.com,123-456-7890,19,96.4,484,74,0.015,151,100,5.8,9.6,158,91,151.7,No,Non-Anginal
+Robert Brown,60,Female,Hypertension,NONE,2020-01-15T00:00:00.000,120/80,160,name@hospital.org,098-765-4321,17,97.8,375,65,0.018,138,99,5.6,7.2,165,97,142,No,Asymptomatic
+James Taylor,35,Female,Asthma,ATORVASTATIN,,110/70,220,name@hospital.org,555-555-5555,28,95.9,239,78,0.016,145,99,4.8,8.1,121,77,142.8,No,Asymptomatic
+Jane Smith,35,Female,Diabetes,METFORMIN,,,160,Unknown,098-765-4321,17,97.8,432,81,0,151,177,9.2,15.7,121,81,138.5,No,Asymptomatic
+Jane Smith,35,Male,Asthma,ATORVASTATIN,,110/70,160,contact@domain.com,098-765-4321,27,95.7,307,77,0.014,150,92,6,10.2,113,68,142.8,Yes,Non-Anginal
+Jane Smith,25,Male,Hypertension,LISINOPRIL,,140/90,220,patient@example.com,098-765-4321,22,97.5,435,76,0.009,135,113,5.5,9.4,173,98,148.9,No,Atypical Angina
+Sarah Johnson,35,Male,,ATORVASTATIN,,120/80,160,patient@example.com,098-765-4321,31,97.1,473,86,0.011,139,85,5.5,7.3,124,69,141.4,No,Asymptomatic
+Robert Brown,35,Other,Heart Disease,ALBUTEROL,,140/90,180,patient@example.com,555-555-5555,11,96.9,449,95,0.127,116,108,6,8,125,93,141.8,No,Atypical Angina
+James Taylor,70,Other,Asthma,METFORMIN,,,180,patient@example.com,123-456-7890,23,96,266,89,0.005,161,101,5.2,14.8,112,67,138.8,Yes,Asymptomatic
+Emily Davis,35,Male,Asthma,ATORVASTATIN,,140/90,160,name@hospital.org,,26,91,284,101,0.015,144,95,4.6,7.9,126,89,133,No,Typical Angina
+John Doe,70,Other,Diabetes,METFORMIN,,140/90,180,Unknown,123-456-7890,17,94.6,422,83,0.014,145,185,8.4,33.8,123,89,137.2,No,Non-Anginal
+Emily Davis,70,Female,Diabetes,METFORMIN,,140/90,180,Unknown,123-456-7890,14,96.4,406,55,0.02,148,157,8.8,28.1,125,87,136.3,No,Asymptomatic
+John Doe,60,Female,Asthma,LISINOPRIL,2020-01-15T00:00:00.000,130/85,180,contact@domain.com,,23,93.3,191,80,0.006,139,104,5.3,9,118,72,140.9,Yes,Atypical Angina
+Michael Wilson,25,Female,Hypertension,LISINOPRIL,,,160,patient@example.com,098-765-4321,16,98.4,385,82,0.009,139,100,5.8,2.7,153,102,148.9,No,Non-Anginal
+Emily Davis,35,Male,Heart Disease,ALBUTEROL,,140/90,180,Unknown,555-555-5555,15,99.3,592,106,0.108,90,99,5.3,10.4,130,71,139.2,Yes,Typical Angina
+Laura Martinez,35,Other,Diabetes,NONE,2020-01-15T00:00:00.000,140/90,160,Unknown,555-555-5555,18,98.8,508,80,0.015,157,155,7.2,21.8,121,87,144.3,No,Typical Angina
+Laura Martinez,35,Male,Hypertension,METFORMIN,,140/90,220,Unknown,123-456-7890,18,97.4,356,95,0.003,180,108,5.2,14.7,151,98,145.4,No,Atypical Angina
+David Lee,35,Other,,NONE,,120/80,180,name@hospital.org,,22,98.2,357,82,0.007,139,150,5.3,16.9,142,78,133.3,No,Atypical Angina
+Robert Brown,35,Female,Diabetes,ALBUTEROL,,130/85,160,Unknown,Not Provided,17,96.8,446,64,0.012,157,129,9.1,13.8,128,87,138.1,No,Atypical Angina
+John Doe,35,Male,Hypertension,METFORMIN,,120/80,180,Unknown,098-765-4321,17,98.5,437,90,0.011,129,70,5.5,11.3,183,92,148.6,No,Non-Anginal
+John Doe,35,Other,Hypertension,METFORMIN,2020-01-15T00:00:00.000,130/85,180,name@hospital.org,123-456-7890,10,97,464,74,0.015,141,105,5.4,6.3,174,96,148.3,No,Atypical Angina
+Robert Brown,25,Other,Heart Disease,NONE,,140/90,200,Unknown,555-555-5555,21,97,399,83,0.067,117,95,5.4,14.2,118,74,140.3,No,Typical Angina
+Sarah Johnson,70,Female,Heart Disease,ATORVASTATIN,,,160,Unknown,,23,98.1,461,92,0.077,136,103,5.8,14.5,133,77,138.4,No,Non-Anginal
+David Lee,35,Male,,LISINOPRIL,,110/70,160,Unknown,,20,98.8,295,78,0.027,131,163,5.7,19.9,132,93,134.9,Yes,Atypical Angina
+Sarah Johnson,60,Male,Hypertension,ATORVASTATIN,,110/70,180,name@hospital.org,123-456-7890,12,95,469,74,0.033,155,106,5.5,14.1,160,82,154.2,No,Atypical Angina
+Sarah Johnson,35,Male,Hypertension,NONE,,140/90,180,patient@example.com,Not Provided,13,95.5,430,71,0.01,147,107,5.8,9.5,176,107,159.8,No,Asymptomatic
+Sarah Johnson,35,Female,Heart Disease,LISINOPRIL,,120/80,220,contact@domain.com,555-555-5555,15,98.9,489,119,0.127,128,125,5.4,15.2,136,84,140.8,No,Non-Anginal
+Robert Brown,25,Male,Diabetes,ATORVASTATIN,2020-01-15T00:00:00.000,,180,Unknown,123-456-7890,19,96,322,90,0.01,141,137,8.6,18.8,128,95,137,No,Typical Angina
+Sarah Johnson,35,Female,Diabetes,LISINOPRIL,,130/85,160,name@hospital.org,Not Provided,20,95.4,363,95,0.011,156,195,8.3,10.8,114,89,140.4,No,Non-Anginal
+Laura Martinez,35,Female,Asthma,METFORMIN,,140/90,220,Unknown,,22,94.7,241,68,0.026,145,96,5.1,10.8,105,53,139.2,Yes,Asymptomatic
+Jane Smith,60,Female,Heart Disease,ATORVASTATIN,,,180,name@hospital.org,098-765-4321,16,98.9,453,97,0.07,131,78,5.2,11.3,138,92,142.8,Yes,Typical Angina
+Michael Wilson,25,Other,Asthma,LISINOPRIL,,,200,contact@domain.com,555-555-5555,25,95.1,278,67,0.002,116,87,5.5,18.9,137,88,136.1,No,Asymptomatic
+John Doe,25,Male,Heart Disease,LISINOPRIL,,130/85,180,contact@domain.com,555-555-5555,17,98.5,440,88,0.083,115,101,6,6.7,122,75,147.1,No,Asymptomatic
+John Doe,25,Male,,LISINOPRIL,,,180,patient@example.com,Not Provided,20,91.8,449,73,0.07,177,78,5.7,9,112,75,142.6,No,Asymptomatic
+Michael Wilson,25,Female,Hypertension,ATORVASTATIN,,120/80,180,patient@example.com,123-456-7890,12,96.7,418,94,0.006,157,106,5.8,7.6,149,95,151.2,No,Atypical Angina
+Robert Brown,25,Female,,ALBUTEROL,,120/80,200,contact@domain.com,,14,93.2,238,66,0,113,90,5.5,23.1,121,78,154.5,No,Typical Angina
+Emily Davis,60,Male,Heart Disease,ATORVASTATIN,,120/80,160,Unknown,Not Provided,18,95.3,456,111,0.096,117,87,5.6,9.7,129,86,142.6,No,Asymptomatic
+Robert Brown,35,Female,Hypertension,NONE,,,180,Unknown,098-765-4321,17,97.1,379,94,0.029,99,108,5.9,12.7,157,104,151.4,No,Non-Anginal
+John Doe,35,Male,Diabetes,ATORVASTATIN,,120/80,180,Unknown,098-765-4321,16,99.2,471,77,0.01,125,151,9.4,22.5,150,82,142.5,No,Atypical Angina
+John Doe,25,Other,Diabetes,LISINOPRIL,,130/85,220,patient@example.com,098-765-4321,17,99.7,389,87,0.006,129,125,8.3,33.9,124,87,143.1,No,Asymptomatic
+Michael Wilson,35,Female,Asthma,METFORMIN,,,180,Unknown,Not Provided,21,95.1,221,99,0.011,152,96,5.5,5.9,123,75,139.9,Yes,Non-Anginal
+Sarah Johnson,35,Male,Heart Disease,ATORVASTATIN,,110/70,180,patient@example.com,,23,97.7,414,104,0.051,127,81,4.8,14,107,82,144.2,Yes,Typical Angina
+Robert Brown,35,Female,Heart Disease,ATORVASTATIN,,,180,contact@domain.com,555-555-5555,14,94.8,484,101,0.119,121,88,5.3,10.7,128,54,138.1,No,Non-Anginal
+James Taylor,60,Male,Diabetes,LISINOPRIL,,130/85,200,Unknown,123-456-7890,13,97.5,491,80,0.01,141,103,8,26.6,130,76,138.1,No,Atypical Angina
+Michael Wilson,35,Male,,METFORMIN,2020-01-15T00:00:00.000,110/70,180,Unknown,555-555-5555,15,97.3,451,87,0.012,109,97,5.3,11.2,162,76,144.4,No,Typical Angina
+Laura Martinez,35,Female,Hypertension,METFORMIN,,,180,contact@domain.com,,18,95.6,329,89,0.009,172,110,6.5,7,156,96,146.5,No,Atypical Angina
+John Doe,35,Other,,NONE,2020-01-15T00:00:00.000,120/80,220,Unknown,555-555-5555,22,91.2,415,83,0.011,160,96,5.4,4.6,135,72,134.5,No,Non-Anginal
+Michael Wilson,70,Male,,ATORVASTATIN,,140/90,200,Unknown,Not Provided,16,94.1,453,78,0.087,145,110,5.8,9.6,119,79,140.4,Yes,Typical Angina
+Robert Brown,70,Male,Diabetes,METFORMIN,,140/90,200,name@hospital.org,098-765-4321,21,95.3,502,62,0.01,149,159,9.8,18.6,117,80,136.1,No,Non-Anginal
+John Doe,35,Male,Diabetes,METFORMIN,,120/80,180,patient@example.com,,17,96.4,541,68,0.006,166,163,5.2,23,109,81,139.7,Yes,Asymptomatic
+Emily Davis,35,Other,Diabetes,ALBUTEROL,,140/90,220,Unknown,,16,97.5,426,96,0.02,153,245,8.2,21.9,110,93,141.7,No,Asymptomatic
+Michael Wilson,35,Other,Asthma,ALBUTEROL,,140/90,180,contact@domain.com,555-555-5555,24,93.1,225,81,0.001,155,100,5,10.8,113,76,142.7,Yes,Non-Anginal
+David Lee,60,Female,,METFORMIN,,120/80,180,Unknown,Not Provided,18,97.3,364,88,0.015,142,157,5.6,13.1,122,103,142,Yes,Asymptomatic
+John Doe,35,Other,Heart Disease,NONE,,120/80,180,Unknown,555-555-5555,15,96.2,399,98,0.043,121,93,6.1,10.5,124,81,140.6,No,Typical Angina
+Robert Brown,35,Female,Hypertension,METFORMIN,,,180,patient@example.com,555-555-5555,16,95,486,92,0.02,148,105,5.1,10.9,149,107,146.1,No,Non-Anginal
+Jane Smith,35,Female,Asthma,LISINOPRIL,,,220,name@hospital.org,,25,95.5,334,73,0.004,164,84,5,10.5,127,66,138.7,Yes,Non-Anginal
+James Taylor,25,Other,Heart Disease,ATORVASTATIN,,120/80,160,patient@example.com,555-555-5555,13,97.1,343,104,0.096,102,84,5.5,12.1,125,76,136.5,No,Typical Angina
+Mary Clark,60,Female,,NONE,,130/85,180,Unknown,098-765-4321,13,94.1,337,108,0.019,122,101,5.4,3.2,102,80,147.2,Yes,Non-Anginal
+Sarah Johnson,25,Other,Diabetes,LISINOPRIL,,140/90,160,Unknown,555-555-5555,17,97.5,393,74,0.007,153,155,8.1,21.9,134,95,139,No,Atypical Angina
+Mary Clark,35,Female,,NONE,,,200,Unknown,098-765-4321,23,89.8,525,78,0.009,161,109,6.3,11.6,143,77,138.1,Yes,Typical Angina
+Robert Brown,25,Other,Hypertension,LISINOPRIL,,140/90,180,Unknown,,15,96.6,430,94,0.006,164,79,6,8.9,152,106,147.4,No,Atypical Angina
+Laura Martinez,25,Other,Asthma,ATORVASTATIN,,110/70,180,contact@domain.com,Not Provided,29,97,182,89,0.005,126,100,5.6,9.3,119,85,141.8,Yes,Asymptomatic
+Laura Martinez,35,Female,Asthma,ATORVASTATIN,,120/80,220,name@hospital.org,098-765-4321,17,94.6,286,66,0.015,146,91,5.6,8.7,125,68,140.7,Yes,Non-Anginal
+Jane Smith,70,Male,Hypertension,ALBUTEROL,,130/85,160,Unknown,Not Provided,22,98.1,417,86,0.022,122,99,5.6,11,121,121,142.3,Yes,Atypical Angina
+Sarah Johnson,35,Female,Heart Disease,LISINOPRIL,,110/70,180,Unknown,Not Provided,16,97.8,460,74,0.055,131,94,4.9,9.4,130,83,139,No,Typical Angina
+David Lee,60,Other,Heart Disease,ALBUTEROL,,110/70,180,Unknown,098-765-4321,17,98.8,552,97,0.053,117,82,5.9,10.8,113,84,138.2,No,Typical Angina
+Jane Smith,25,Male,Asthma,LISINOPRIL,,110/70,220,name@hospital.org,,22,93.9,251,99,0.006,141,80,5.2,10.1,124,82,138.6,Yes,Non-Anginal
+Mary Clark,60,Female,Asthma,ALBUTEROL,,120/80,220,patient@example.com,123-456-7890,24,90.6,199,71,0,165,100,4.8,9.4,109,82,136.1,Yes,Non-Anginal
+Jane Smith,70,Female,Diabetes,ATORVASTATIN,,,160,name@hospital.org,Not Provided,19,97.6,422,70,0.004,149,162,10.1,19.6,116,75,142.4,No,Typical Angina
+Mary Clark,70,Female,Heart Disease,NONE,,120/80,200,name@hospital.org,Not Provided,19,95.2,387,104,0.038,130,94,6.3,6.9,124,98,144.8,No,Typical Angina
+John Doe,25,Male,Hypertension,ALBUTEROL,,,200,name@hospital.org,,18,96.2,454,67,0.012,123,105,5.6,12.4,142,96,151.9,Yes,Asymptomatic
+Laura Martinez,35,Other,Heart Disease,LISINOPRIL,,110/70,180,Unknown,,17,97.7,386,89,0.083,100,99,6.4,9.4,122,89,143.8,No,Atypical Angina
+John Doe,25,Female,Diabetes,LISINOPRIL,,110/70,180,Unknown,555-555-5555,12,98.9,414,83,0.015,150,140,8.7,18.1,112,76,138,No,Asymptomatic
+James Taylor,35,Female,Asthma,ATORVASTATIN,,130/85,160,contact@domain.com,,21,93.5,182,74,0.007,144,117,5.2,11.3,100,73,138.1,No,Typical Angina
+Sarah Johnson,35,Female,Asthma,LISINOPRIL,,,180,patient@example.com,Not Provided,23,94.2,234,78,0.007,161,99,5.1,10.2,131,93,137.7,Yes,Asymptomatic
+David Lee,35,Female,Diabetes,METFORMIN,2020-01-15T00:00:00.000,110/70,160,Unknown,098-765-4321,17,99.6,450,85,0.013,147,166,10.4,15.4,110,79,140.9,No,Non-Anginal
+Mary Clark,25,Female,Hypertension,NONE,,140/90,160,name@hospital.org,123-456-7890,17,97.4,282,86,0.004,143,94,5.3,15,154,99,148.9,No,Asymptomatic
+David Lee,60,Other,Asthma,ALBUTEROL,,130/85,160,patient@example.com,555-555-5555,27,99.2,252,83,0.016,121,102,5.6,5.3,128,80,139.8,Yes,Non-Anginal
+Mary Clark,35,Other,,NONE,,120/80,180,patient@example.com,098-765-4321,16,97.2,286,82,0.004,126,105,5.2,5.5,144,87,145.5,No,Atypical Angina
+Robert Brown,35,Female,Asthma,ATORVASTATIN,,130/85,220,contact@domain.com,123-456-7890,25,91.6,254,71,0.012,142,100,4.8,12.6,90,81,141,Yes,Non-Anginal
+Jane Smith,25,Male,,ALBUTEROL,,140/90,180,Unknown,123-456-7890,16,92.1,584,67,0.013,138,92,5.7,12.3,104,78,143.4,No,Atypical Angina
+James Taylor,35,Other,Diabetes,ALBUTEROL,,,160,name@hospital.org,123-456-7890,17,97.7,379,68,0.011,138,209,8.9,18.1,153,80,142.5,No,Asymptomatic
+Laura Martinez,60,Male,Diabetes,METFORMIN,,120/80,180,Unknown,098-765-4321,20,96.6,521,78,0.02,135,166,10.1,13.8,124,82,145.2,No,Asymptomatic
+Mary Clark,70,Other,Asthma,ATORVASTATIN,,120/80,200,contact@domain.com,555-555-5555,27,93.5,285,73,0.007,161,89,4.7,11.5,107,73,145.1,Yes,Asymptomatic
+David Lee,35,Female,Heart Disease,LISINOPRIL,,,160,Unknown,555-555-5555,23,98.2,445,93,0.104,99,91,5.1,16.5,130,83,137.3,No,Atypical Angina
+James Taylor,70,Other,,METFORMIN,,130/85,180,patient@example.com,123-456-7890,15,91.5,319,77,0.012,157,109,5.6,13.4,119,79,142.8,No,Atypical Angina
+Emily Davis,60,Female,Hypertension,METFORMIN,,110/70,220,name@hospital.org,098-765-4321,21,95.7,489,78,0.006,141,106,6.5,6.1,191,103,139.1,No,Typical Angina
+Emily Davis,25,Other,Asthma,NONE,,130/85,160,Unknown,123-456-7890,22,92.1,236,105,0.018,129,99,5.5,10.2,103,90,145.7,No,Asymptomatic
+John Doe,35,Female,Hypertension,NONE,,140/90,180,contact@domain.com,,17,97.5,411,90,0.018,132,114,4.6,3.7,174,101,138.5,No,Non-Anginal
+Laura Martinez,35,Female,Asthma,NONE,,110/70,160,Unknown,555-555-5555,22,95.3,228,81,0.007,169,103,5.2,7.6,120,76,136.2,Yes,Asymptomatic
+Robert Brown,35,Female,Heart Disease,METFORMIN,,130/85,180,patient@example.com,Not Provided,16,98.7,445,99,0.082,106,100,5.5,10.8,117,80,134.7,No,Typical Angina
+David Lee,60,Female,Heart Disease,LISINOPRIL,2020-01-15T00:00:00.000,,180,name@hospital.org,123-456-7890,15,94.8,331,100,0.031,119,99,4.9,7.4,133,89,140.7,No,Typical Angina
+Jane Smith,35,Male,Heart Disease,ALBUTEROL,,140/90,180,Unknown,,18,97.4,503,101,0.016,127,103,5.7,11.8,111,78,139.9,No,Asymptomatic
+Jane Smith,70,Female,Heart Disease,NONE,,140/90,180,Unknown,555-555-5555,14,98.9,432,93,0.108,107,111,4.7,13.4,112,85,142.4,No,Typical Angina
+David Lee,35,Male,Diabetes,LISINOPRIL,,140/90,180,patient@example.com,098-765-4321,13,95.5,417,74,0.013,167,131,9.8,24.6,105,79,138.7,No,Atypical Angina
+Sarah Johnson,35,Male,Diabetes,ATORVASTATIN,2020-01-15T00:00:00.000,110/70,200,Unknown,555-555-5555,15,99.2,301,77,0.012,160,180,10.2,8.6,133,73,142.7,No,Atypical Angina
+Robert Brown,35,Female,,NONE,,120/80,180,contact@domain.com,098-765-4321,11,93.2,430,98,0.014,143,88,5.5,12.8,109,74,142.8,No,Asymptomatic
+James Taylor,35,Male,Hypertension,ALBUTEROL,2020-01-15T00:00:00.000,110/70,200,Unknown,098-765-4321,18,97,392,104,0.012,138,93,6.4,9.9,154,113,149.1,No,Typical Angina
+Mary Clark,35,Other,Asthma,ATORVASTATIN,,130/85,160,Unknown,123-456-7890,26,91.8,228,76,0.011,200,83,5.4,7.1,123,77,136.4,Yes,Atypical Angina
+Sarah Johnson,25,Female,Asthma,ATORVASTATIN,,120/80,160,Unknown,123-456-7890,27,94.9,282,73,0.013,145,100,5,3.7,119,87,132.7,Yes,Non-Anginal
+Mary Clark,70,Male,Diabetes,ALBUTEROL,,130/85,180,patient@example.com,555-555-5555,18,96.8,467,81,0,157,100,8.8,22.9,96,83,137.9,No,Non-Anginal
+Mary Clark,35,Female,Asthma,NONE,,120/80,160,patient@example.com,,29,94.4,242,83,0.023,138,83,5.2,14.6,126,82,139.8,Yes,Non-Anginal
+Sarah Johnson,35,Female,Diabetes,METFORMIN,,110/70,220,contact@domain.com,555-555-5555,18,95.7,451,89,0.007,153,161,9,15.8,144,78,136.3,No,Typical Angina
+John Doe,35,Female,,ALBUTEROL,,140/90,180,Unknown,Not Provided,17,96.3,215,82,0.075,136,94,9.2,9.7,121,104,140.4,No,Asymptomatic
+Emily Davis,60,Male,Hypertension,ALBUTEROL,,,180,patient@example.com,098-765-4321,13,97.3,473,91,0.016,155,98,5.3,9.6,159,106,151.5,Yes,Asymptomatic
+Mary Clark,35,Other,,ALBUTEROL,,140/90,200,contact@domain.com,098-765-4321,18,89.8,270,72,0.061,126,134,6.3,6,147,74,147.2,No,Atypical Angina
+Sarah Johnson,35,Other,Heart Disease,ATORVASTATIN,,110/70,160,contact@domain.com,123-456-7890,21,94.9,327,100,0.039,121,80,5.7,13.3,144,91,142.7,No,Atypical Angina
+Sarah Johnson,60,Male,Heart Disease,LISINOPRIL,,120/80,200,Unknown,,16,92.3,464,88,0.074,141,120,5,9.1,141,79,139.5,No,Atypical Angina
+Michael Wilson,35,Female,Heart Disease,METFORMIN,,140/90,180,name@hospital.org,123-456-7890,12,97.7,395,105,0.044,120,90,5.3,5.9,124,91,137,No,Typical Angina
+John Doe,35,Male,,NONE,,110/70,180,Unknown,Not Provided,21,97.5,365,94,0.013,108,159,5.6,15.6,139,98,136.5,No,Atypical Angina
+Laura Martinez,35,Male,Asthma,NONE,,130/85,160,name@hospital.org,555-555-5555,25,94.4,310,95,0.013,132,93,5.7,6.7,120,73,145.6,Yes,Non-Anginal
+Michael Wilson,25,Male,Hypertension,LISINOPRIL,,,220,contact@domain.com,555-555-5555,21,95.7,475,95,0.005,141,96,5.8,8.8,163,95,153.6,No,Non-Anginal
+Michael Wilson,35,Female,Heart Disease,ALBUTEROL,2020-01-15T00:00:00.000,140/90,220,patient@example.com,,18,95.7,350,105,0.082,125,97,5.3,10.4,139,77,136,No,Typical Angina
+David Lee,60,Male,Heart Disease,METFORMIN,,120/80,160,Unknown,123-456-7890,16,94.1,353,91,0.055,153,117,5.6,13.1,130,89,142.5,No,Non-Anginal
+Emily Davis,70,Female,Heart Disease,NONE,,130/85,160,contact@domain.com,123-456-7890,22,98.5,423,102,0.089,112,100,5.1,20,109,77,138.6,No,Typical Angina
+Sarah Johnson,25,Male,Hypertension,NONE,,110/70,200,patient@example.com,Not Provided,18,96.6,408,92,0.024,111,104,5.2,10.2,168,99,147.6,No,Non-Anginal
+Emily Davis,60,Other,Heart Disease,ALBUTEROL,,,160,contact@domain.com,555-555-5555,17,100,420,83,0.084,105,89,5.2,5.6,128,92,141.8,No,Typical Angina
+Robert Brown,35,Male,Hypertension,LISINOPRIL,,120/80,220,Unknown,123-456-7890,19,97.1,466,99,0.008,125,108,5.5,3.4,131,94,149.9,No,Non-Anginal
+David Lee,25,Male,Heart Disease,METFORMIN,2020-01-15T00:00:00.000,110/70,160,name@hospital.org,,20,96.1,447,77,0.094,115,105,5.6,8.8,132,85,138.3,No,Typical Angina
+Laura Martinez,60,Other,,LISINOPRIL,,110/70,200,contact@domain.com,555-555-5555,18,96.5,254,87,0.017,131,104,5.4,12,124,107,138.3,No,Non-Anginal
+Emily Davis,35,Female,,LISINOPRIL,,140/90,200,patient@example.com,Not Provided,21,97,388,71,0.106,167,92,5.5,16.4,126,105,139.1,No,Asymptomatic
+Jane Smith,35,Female,Hypertension,METFORMIN,,140/90,200,Unknown,,15,96,444,58,0.018,159,85,5.1,7,152,104,139.1,No,Asymptomatic
+Mary Clark,70,Male,,METFORMIN,,120/80,200,Unknown,098-765-4321,24,95.3,390,72,0.022,151,161,5,16.1,123,83,139.9,No,Atypical Angina
+Robert Brown,35,Other,Hypertension,NONE,,110/70,180,Unknown,Not Provided,19,98.2,435,96,0.012,150,82,5.4,11.7,155,111,144,No,Non-Anginal
+John Doe,35,Female,,NONE,,140/90,160,name@hospital.org,,18,98.6,509,72,0.011,158,166,5.2,11.9,128,101,143.2,Yes,Asymptomatic
+Laura Martinez,35,Male,,METFORMIN,,,180,Unknown,123-456-7890,18,94.9,308,91,0.015,143,157,8.4,3.8,116,72,138.6,No,Non-Anginal
+Robert Brown,35,Other,Hypertension,ATORVASTATIN,,,160,Unknown,098-765-4321,15,96.7,471,91,0.017,130,107,6.4,8.9,145,95,146,No,Typical Angina
+Mary Clark,70,Female,Asthma,NONE,,110/70,180,patient@example.com,Not Provided,23,92.5,268,78,0.006,120,98,5.6,6.1,117,80,140.1,Yes,Asymptomatic
+David Lee,35,Female,,ATORVASTATIN,,140/90,200,contact@domain.com,123-456-7890,10,96.7,467,76,0.017,164,95,5.8,15.8,124,73,142.2,Yes,Typical Angina
+Mary Clark,60,Other,Heart Disease,METFORMIN,,120/80,180,name@hospital.org,098-765-4321,16,99.1,380,90,0.078,155,78,4.5,5.2,141,70,139.8,No,Non-Anginal
+Michael Wilson,60,Other,Asthma,NONE,2020-01-15T00:00:00.000,120/80,220,Unknown,555-555-5555,22,91.5,311,76,0.012,164,86,5.3,15.3,107,79,135.5,No,Asymptomatic
+Mary Clark,35,Other,Hypertension,LISINOPRIL,,120/80,220,name@hospital.org,123-456-7890,20,96.5,369,87,0.018,150,100,5.6,11.3,140,85,141.4,No,Atypical Angina
+Michael Wilson,35,Other,Asthma,METFORMIN,,,160,Unknown,,22,91.6,188,90,0.008,130,110,4.9,7.4,124,86,141.1,Yes,Atypical Angina
+David Lee,35,Male,Diabetes,ALBUTEROL,2020-01-15T00:00:00.000,140/90,160,name@hospital.org,Not Provided,22,98.2,351,91,0.009,166,171,6.2,5,122,86,145.4,No,Non-Anginal
+James Taylor,70,Other,Diabetes,ATORVASTATIN,,140/90,180,Unknown,098-765-4321,19,96.1,413,79,0.019,131,141,8.5,6,133,79,135.8,No,Asymptomatic
+Michael Wilson,35,Female,,METFORMIN,,,180,contact@domain.com,123-456-7890,16,96.7,402,85,0.052,128,94,6,8.3,124,74,137.1,No,Typical Angina
+John Doe,60,Female,,METFORMIN,,120/80,220,contact@domain.com,555-555-5555,18,98.2,521,95,0.002,165,92,8.4,10.8,140,67,136.5,No,Atypical Angina
+Mary Clark,70,Male,Heart Disease,NONE,,120/80,200,name@hospital.org,Not Provided,17,98.3,410,97,0.02,124,113,4.9,14.8,139,66,140.9,No,Asymptomatic
+Mary Clark,25,Female,Asthma,NONE,,110/70,180,patient@example.com,Not Provided,30,91.6,246,67,0.004,129,86,5.7,12.3,129,86,139.9,Yes,Non-Anginal
+John Doe,60,Female,Diabetes,NONE,,130/85,180,name@hospital.org,123-456-7890,19,96.2,504,79,0.011,200,190,8.4,24.9,104,80,140,Yes,Non-Anginal
+Jane Smith,70,Other,,ALBUTEROL,2020-01-15T00:00:00.000,140/90,180,Unknown,555-555-5555,18,98.9,425,107,0.008,146,100,8.1,13.8,120,76,140.9,No,Non-Anginal
+Sarah Johnson,60,Female,Asthma,NONE,2020-01-15T00:00:00.000,140/90,200,contact@domain.com,098-765-4321,24,94.8,185,78,0.012,128,111,5.8,15.1,133,74,139.4,Yes,Non-Anginal
+James Taylor,35,Male,,METFORMIN,,140/90,200,contact@domain.com,123-456-7890,11,98.3,204,76,0,91,99,4.9,15.6,164,86,137.9,No,Typical Angina
+Laura Martinez,25,Other,,NONE,,130/85,160,contact@domain.com,098-765-4321,21,98.3,513,85,0.063,134,97,4.8,5.4,99,82,151.5,No,Typical Angina
+Michael Wilson,35,Other,Diabetes,LISINOPRIL,2020-01-15T00:00:00.000,110/70,180,patient@example.com,Not Provided,20,95.1,380,80,0,147,174,6,8.8,139,74,138.3,No,Asymptomatic
+John Doe,25,Male,Diabetes,NONE,,130/85,200,patient@example.com,098-765-4321,13,97.5,397,73,0.017,170,142,7.9,16.7,126,96,137.6,No,Asymptomatic
+David Lee,35,Other,,ALBUTEROL,,120/80,180,Unknown,555-555-5555,18,95.1,492,59,0.008,115,60,8.3,9.2,134,100,136.2,Yes,Typical Angina
+Michael Wilson,70,Other,Hypertension,LISINOPRIL,,120/80,180,name@hospital.org,,19,99.5,477,103,0.022,153,101,5.9,6.9,159,102,149.1,No,Atypical Angina
+Sarah Johnson,25,Male,,METFORMIN,,140/90,220,name@hospital.org,555-555-5555,17,96.8,442,74,0.111,154,117,8.4,6.2,103,81,139.8,No,Atypical Angina
+David Lee,35,Other,,METFORMIN,,,200,Unknown,098-765-4321,19,89.6,404,88,0.012,132,98,5.4,9.5,114,97,146.1,No,Asymptomatic
+Robert Brown,60,Male,Heart Disease,ATORVASTATIN,,140/90,160,contact@domain.com,123-456-7890,12,95.7,330,101,0.139,101,87,5.5,10.9,137,82,138.7,No,Typical Angina
+Mary Clark,25,Male,Heart Disease,LISINOPRIL,,,180,patient@example.com,Not Provided,21,97.6,316,106,0.115,118,93,5.3,16,104,82,140.6,No,Non-Anginal
+Robert Brown,70,Female,Heart Disease,ATORVASTATIN,,130/85,160,Unknown,,18,95.1,426,91,0.079,107,117,5.3,7.2,131,88,139.8,No,Typical Angina
+Michael Wilson,25,Female,Hypertension,LISINOPRIL,,120/80,180,Unknown,123-456-7890,13,93.7,460,75,0.016,147,104,5.7,15.5,160,84,150.8,No,Asymptomatic
+Sarah Johnson,35,Other,Hypertension,LISINOPRIL,,,160,patient@example.com,123-456-7890,18,92.9,520,94,0.018,162,89,6.3,3,146,117,150.9,No,Non-Anginal
+James Taylor,60,Other,,ALBUTEROL,,130/85,180,name@hospital.org,555-555-5555,11,95.8,573,88,0.024,184,85,5.2,26.2,157,103,147.7,No,Non-Anginal
+Michael Wilson,70,Male,Heart Disease,ATORVASTATIN,,120/80,180,contact@domain.com,098-765-4321,18,94.3,439,96,0.067,139,93,5.2,9.3,134,79,137.9,No,Typical Angina
+John Doe,70,Other,Hypertension,ALBUTEROL,,,180,name@hospital.org,555-555-5555,14,96.9,460,82,0.011,119,84,5.9,8.1,178,95,153.2,No,Asymptomatic
+Emily Davis,35,Male,Diabetes,LISINOPRIL,,140/90,180,Unknown,098-765-4321,15,97.3,375,76,0.011,127,150,8.7,23.5,114,82,137.1,No,Atypical Angina
+Michael Wilson,35,Male,,METFORMIN,,140/90,180,contact@domain.com,555-555-5555,13,95.7,381,86,0.083,164,102,6.9,25.6,114,81,144.5,No,Typical Angina
+Mary Clark,35,Other,Asthma,LISINOPRIL,,140/90,220,Unknown,123-456-7890,24,93.7,161,72,0.009,145,87,5.5,3.8,127,86,141.3,Yes,Non-Anginal
+Mary Clark,70,Male,,ALBUTEROL,,130/85,160,Unknown,Not Provided,20,97.2,424,125,0.002,126,155,5.4,10.8,169,99,139.1,No,Asymptomatic
+Michael Wilson,60,Female,Asthma,ATORVASTATIN,,140/90,220,name@hospital.org,098-765-4321,22,92.2,171,73,0.01,138,102,5.2,8.4,110,75,145.4,Yes,Asymptomatic
+David Lee,25,Other,Heart Disease,ATORVASTATIN,,110/70,220,name@hospital.org,,16,97.4,464,102,0.071,111,76,5.3,18.5,114,79,139.5,No,Typical Angina
+Emily Davis,25,Female,Asthma,ALBUTEROL,2020-01-15T00:00:00.000,120/80,200,name@hospital.org,,21,91.3,287,83,0.023,138,86,5.1,8.5,104,68,136,Yes,Asymptomatic
+John Doe,60,Other,Heart Disease,ATORVASTATIN,,130/85,200,patient@example.com,123-456-7890,15,97.1,460,98,0.13,116,95,5.7,13.3,130,78,138.5,Yes,Typical Angina
+Michael Wilson,70,Male,Diabetes,NONE,2020-01-15T00:00:00.000,140/90,200,Unknown,555-555-5555,12,98.1,479,69,0.007,137,190,8.7,26.6,140,73,141.3,No,Asymptomatic
+David Lee,25,Other,Asthma,METFORMIN,,120/80,180,contact@domain.com,555-555-5555,23,96.2,274,78,0,154,79,5.2,8.1,118,75,142.1,Yes,Asymptomatic
+Mary Clark,25,Female,,METFORMIN,,,200,name@hospital.org,123-456-7890,16,95.6,467,81,0.039,131,104,9.1,7.2,114,84,146,Yes,Non-Anginal
+Mary Clark,25,Male,Heart Disease,METFORMIN,,140/90,160,name@hospital.org,,15,94.6,468,95,0.047,129,99,5.8,8.6,104,69,133,No,Typical Angina
+Sarah Johnson,35,Other,,ATORVASTATIN,,120/80,220,patient@example.com,,14,94.8,375,91,0.012,164,82,9.6,13,122,107,136,No,Asymptomatic
+Michael Wilson,35,Other,Hypertension,ATORVASTATIN,2020-01-15T00:00:00.000,110/70,160,contact@domain.com,555-555-5555,18,95.6,322,90,0.003,118,79,5.7,5.4,166,103,145,No,Asymptomatic
+Emily Davis,35,Other,Heart Disease,LISINOPRIL,,,200,Unknown,098-765-4321,17,95.9,449,95,0.053,124,99,5.7,14.9,123,80,137.7,No,Atypical Angina
+Jane Smith,35,Female,Asthma,LISINOPRIL,,110/70,180,Unknown,Not Provided,23,96.9,170,75,0.014,132,110,5.7,8.2,104,72,143.6,Yes,Non-Anginal
+Emily Davis,60,Female,Heart Disease,METFORMIN,,120/80,180,patient@example.com,098-765-4321,19,95.4,435,90,0.118,96,130,5.7,15.5,138,84,134.3,No,Atypical Angina
+Mary Clark,60,Other,,NONE,,110/70,220,Unknown,,27,97,416,91,0.007,132,99,4.7,7.6,143,105,135.7,No,Non-Anginal
+Mary Clark,60,Male,Diabetes,LISINOPRIL,2020-01-15T00:00:00.000,120/80,160,Unknown,098-765-4321,16,98.6,365,87,0.013,132,145,7.5,22.9,143,83,144.5,No,Non-Anginal
+Robert Brown,35,Male,Heart Disease,LISINOPRIL,,120/80,180,name@hospital.org,Not Provided,18,100,412,102,0.077,122,112,5.1,11.5,139,78,141.1,No,Typical Angina
+Mary Clark,35,Female,Asthma,ATORVASTATIN,2020-01-15T00:00:00.000,110/70,160,name@hospital.org,098-765-4321,24,90.6,318,83,0.011,149,97,5.5,7.6,125,73,143,No,Non-Anginal
+John Doe,70,Male,Hypertension,NONE,,120/80,200,contact@domain.com,098-765-4321,17,95.4,436,86,0.02,143,79,5.5,14.7,142,97,154.3,No,Non-Anginal
+Laura Martinez,70,Female,Diabetes,METFORMIN,,140/90,180,Unknown,098-765-4321,16,96.7,544,77,0.02,140,157,9,14.2,125,78,139.6,No,Non-Anginal
+Michael Wilson,35,Other,Hypertension,LISINOPRIL,,120/80,180,name@hospital.org,098-765-4321,22,97.2,390,82,0.013,142,97,6,3.6,153,112,147.1,No,Atypical Angina
+Emily Davis,70,Female,Heart Disease,NONE,2020-01-15T00:00:00.000,130/85,220,name@hospital.org,123-456-7890,16,98.1,443,90,0.046,124,101,6.3,6.2,127,70,135.7,No,Atypical Angina
+Laura Martinez,60,Female,,NONE,,120/80,220,contact@domain.com,,16,95.7,223,78,0.015,136,100,5.4,13.1,119,80,138.9,Yes,Non-Anginal
+David Lee,35,Other,,METFORMIN,,130/85,180,Unknown,Not Provided,18,98.7,565,88,0.036,156,92,4.7,32,118,69,145.5,No,Typical Angina
+Jane Smith,25,Male,Asthma,NONE,,120/80,200,name@hospital.org,,21,92.7,187,61,0.008,156,85,4.9,16.2,113,80,136.1,No,Non-Anginal
+John Doe,35,Female,,NONE,,120/80,180,patient@example.com,123-456-7890,24,98.3,374,99,0.009,165,81,5.6,10.1,128,84,151.1,No,Asymptomatic
+Emily Davis,35,Female,Diabetes,NONE,2020-01-15T00:00:00.000,110/70,200,patient@example.com,123-456-7890,19,95.6,427,63,0.011,139,161,8.2,33.9,124,83,138.3,No,Asymptomatic
+Laura Martinez,35,Other,,LISINOPRIL,,140/90,180,Unknown,123-456-7890,23,94.8,420,107,0.011,149,214,9.1,18.8,159,78,142,Yes,Atypical Angina
+Jane Smith,35,Male,Asthma,METFORMIN,,140/90,180,Unknown,123-456-7890,27,94.8,238,77,0.008,163,78,5.3,4.9,136,82,139.7,Yes,Asymptomatic
+Robert Brown,60,Female,Heart Disease,NONE,2020-01-15T00:00:00.000,,200,contact@domain.com,098-765-4321,14,94,417,99,0.082,118,97,5.4,8.9,128,88,136.9,No,Typical Angina
+John Doe,70,Other,Heart Disease,NONE,,110/70,180,patient@example.com,,16,94.4,401,77,0.045,122,87,5.2,9.7,132,87,144,No,Asymptomatic
+John Doe,60,Female,,LISINOPRIL,,110/70,180,patient@example.com,555-555-5555,16,89.9,503,87,0.016,133,170,5.4,8.6,118,100,137.9,No,Typical Angina
+Robert Brown,35,Other,Hypertension,METFORMIN,2020-01-15T00:00:00.000,140/90,220,Unknown,Not Provided,17,98.7,465,76,0.013,133,103,5.9,12.9,163,120,148.3,No,Typical Angina
+Michael Wilson,60,Male,Heart Disease,ATORVASTATIN,,110/70,180,Unknown,123-456-7890,14,95,489,107,0.024,119,89,4.9,16.3,123,87,139.3,No,Typical Angina
+Robert Brown,70,Male,,LISINOPRIL,,140/90,160,Unknown,,15,95.8,541,91,0.085,91,210,5.7,4.4,121,78,138.2,No,Atypical Angina
+John Doe,35,Male,Asthma,METFORMIN,2020-01-15T00:00:00.000,110/70,180,Unknown,123-456-7890,19,94.5,161,81,0,159,111,5.7,11.6,126,67,143.7,Yes,Asymptomatic
+John Doe,35,Male,,NONE,,120/80,160,patient@example.com,123-456-7890,25,99.9,356,68,0.011,134,92,5,11.2,123,89,151.2,No,Asymptomatic
+Laura Martinez,35,Female,Heart Disease,METFORMIN,2020-01-15T00:00:00.000,140/90,180,contact@domain.com,123-456-7890,22,95.9,438,99,0.101,124,95,5.8,17.2,141,77,137.9,No,Non-Anginal
+Mary Clark,25,Female,Asthma,METFORMIN,,140/90,180,patient@example.com,123-456-7890,27,93.8,241,67,0.003,158,85,5.2,7.8,124,78,136,Yes,Non-Anginal
+Jane Smith,35,Male,,METFORMIN,,130/85,180,Unknown,123-456-7890,15,100,489,72,0.011,125,173,5.7,9.7,144,74,138.2,No,Atypical Angina
+Robert Brown,25,Male,Diabetes,ATORVASTATIN,,110/70,180,patient@example.com,Not Provided,21,98.4,504,67,0.011,157,150,8.3,18.8,116,94,141,No,Atypical Angina
+Jane Smith,25,Male,Asthma,METFORMIN,,110/70,200,contact@domain.com,,29,94.7,251,84,0.017,134,93,5.1,16.5,134,74,139.3,Yes,Typical Angina
+Robert Brown,35,Female,Diabetes,ATORVASTATIN,2020-01-15T00:00:00.000,140/90,180,name@hospital.org,123-456-7890,17,96.3,381,78,0.01,136,186,8,23.4,129,83,138,No,Asymptomatic
+David Lee,35,Male,Hypertension,NONE,,120/80,180,patient@example.com,123-456-7890,23,95.4,488,88,0.016,141,99,5.2,6.1,161,89,150.7,No,Typical Angina
+John Doe,70,Male,Asthma,ATORVASTATIN,,120/80,180,Unknown,123-456-7890,29,93,249,88,0.016,195,85,4.9,6.5,138,95,140.3,No,Asymptomatic
+Mary Clark,60,Male,Diabetes,NONE,,120/80,180,name@hospital.org,123-456-7890,11,95.3,358,89,0.009,151,128,10.6,21.2,110,81,136,No,Non-Anginal
+Laura Martinez,60,Other,Heart Disease,NONE,,110/70,220,Unknown,098-765-4321,20,97.8,353,97,0.085,81,93,5.5,2,137,76,140.1,No,Typical Angina
+Mary Clark,70,Male,Heart Disease,ATORVASTATIN,,130/85,200,Unknown,098-765-4321,19,99.8,513,110,0.127,112,84,5.4,8,107,88,144.2,No,Typical Angina
+Mary Clark,25,Other,Hypertension,LISINOPRIL,2020-01-15T00:00:00.000,140/90,180,Unknown,555-555-5555,16,96.6,504,72,0.02,152,95,5.4,9.6,150,117,151.1,No,Atypical Angina
+Mary Clark,25,Other,Asthma,ALBUTEROL,,,200,patient@example.com,123-456-7890,19,95.6,127,89,0.012,130,87,5.5,8.9,107,75,144.6,Yes,Non-Anginal
+Jane Smith,35,Male,Asthma,METFORMIN,,130/85,160,Unknown,555-555-5555,26,92,179,85,0.009,165,100,5.7,5.1,129,72,137.8,Yes,Asymptomatic
+Robert Brown,35,Other,Asthma,ALBUTEROL,,,180,name@hospital.org,Not Provided,17,92.8,291,82,0.006,153,93,5.6,7.9,99,96,143.2,Yes,Non-Anginal
+James Taylor,35,Male,Hypertension,METFORMIN,,130/85,200,contact@domain.com,555-555-5555,17,95.8,429,86,0.007,157,131,6,14.7,153,98,145.4,No,Typical Angina
+David Lee,25,Female,Asthma,METFORMIN,,120/80,220,Unknown,,22,88.8,272,70,0.019,140,72,5.1,12.9,107,76,136.3,No,Asymptomatic
+Emily Davis,60,Female,Heart Disease,NONE,,110/70,220,patient@example.com,098-765-4321,13,96.4,427,83,0.114,112,102,5.5,10.9,117,64,137.6,No,Typical Angina
+Mary Clark,35,Female,Diabetes,METFORMIN,,,180,Unknown,098-765-4321,19,97.2,476,93,0.008,158,149,8,20.4,118,80,139.4,No,Asymptomatic
+Michael Wilson,35,Female,Heart Disease,METFORMIN,,130/85,160,contact@domain.com,123-456-7890,17,98.6,430,94,0.085,122,87,5.5,9.9,145,70,143.1,Yes,Typical Angina
+Jane Smith,35,Other,Heart Disease,ATORVASTATIN,,110/70,220,name@hospital.org,123-456-7890,18,98.1,406,94,0.078,121,98,6,11.4,124,77,140.9,No,Typical Angina
+Laura Martinez,35,Male,Diabetes,ALBUTEROL,,,220,Unknown,Not Provided,18,98.2,498,68,0.019,175,159,9.1,21.8,147,64,138.5,No,Asymptomatic
+Emily Davis,35,Male,Heart Disease,ATORVASTATIN,,140/90,160,Unknown,Not Provided,17,94.6,441,80,0.086,132,111,6.2,11.8,153,91,136.9,No,Atypical Angina
+James Taylor,70,Male,Hypertension,METFORMIN,,130/85,200,contact@domain.com,,18,97.7,466,81,0.014,106,101,5.5,12,183,86,150.8,No,Typical Angina
+Michael Wilson,25,Female,Diabetes,NONE,,140/90,220,patient@example.com,123-456-7890,18,99.4,449,75,0.009,162,143,7.7,11.3,125,64,141.9,No,Atypical Angina
+James Taylor,35,Female,Heart Disease,ATORVASTATIN,,120/80,180,name@hospital.org,123-456-7890,19,97.3,403,96,0.085,133,102,5.7,9.3,131,74,140.9,No,Non-Anginal
+Emily Davis,35,Male,,ATORVASTATIN,,140/90,220,contact@domain.com,Not Provided,23,95.4,181,77,0.076,142,103,5.2,26.3,181,70,134.6,No,Typical Angina
+Mary Clark,70,Female,Heart Disease,LISINOPRIL,,140/90,200,Unknown,Not Provided,22,96.3,478,98,0.037,85,102,5.6,19.6,115,72,139.9,No,Typical Angina
+Michael Wilson,60,Male,Hypertension,METFORMIN,,130/85,200,name@hospital.org,Not Provided,20,96.7,452,72,0.03,168,127,5.5,7.8,159,89,141.9,No,Asymptomatic
+James Taylor,60,Male,Asthma,NONE,,120/80,180,Unknown,098-765-4321,21,100,194,70,0.009,158,65,5.3,7.9,106,76,146.6,Yes,Asymptomatic
+Laura Martinez,25,Male,Heart Disease,ATORVASTATIN,,140/90,180,contact@domain.com,555-555-5555,15,97.1,364,81,0.078,142,95,6,10.6,128,77,137.1,No,Atypical Angina
+Robert Brown,25,Male,Asthma,ATORVASTATIN,2020-01-15T00:00:00.000,110/70,200,Unknown,555-555-5555,20,91.8,257,64,0.014,122,105,4.9,3.9,124,86,139.5,Yes,Asymptomatic
+John Doe,35,Male,,NONE,2020-01-15T00:00:00.000,,160,Unknown,123-456-7890,18,91.7,435,120,0.018,163,175,5.7,13.4,130,78,151,No,Non-Anginal
+Robert Brown,70,Male,Heart Disease,METFORMIN,,140/90,180,Unknown,098-765-4321,15,96.1,401,82,0.051,114,110,5.7,8.1,138,72,134.8,No,Non-Anginal
+Emily Davis,60,Male,Diabetes,LISINOPRIL,,120/80,180,patient@example.com,Not Provided,21,95,475,70,0.024,120,213,7.3,23.6,116,71,136.5,No,Asymptomatic
+Jane Smith,35,Female,Asthma,ATORVASTATIN,,140/90,160,Unknown,123-456-7890,25,92.9,237,86,0.01,141,92,5.4,7.8,115,82,143.8,Yes,Non-Anginal
+John Doe,35,Male,,LISINOPRIL,,,220,Unknown,098-765-4321,19,94.3,515,94,0.015,145,84,5.4,13.6,107,69,144.6,No,Atypical Angina
+David Lee,25,Male,Diabetes,ALBUTEROL,,120/80,160,Unknown,,12,97.3,487,78,0.018,141,171,8.8,10.5,133,69,143.3,No,Asymptomatic
+Laura Martinez,35,Female,Diabetes,METFORMIN,,130/85,160,name@hospital.org,098-765-4321,16,97.5,463,85,0.013,169,124,9.1,25.3,136,78,142.5,No,Asymptomatic
+David Lee,35,Female,Diabetes,ALBUTEROL,,120/80,220,Unknown,123-456-7890,13,99.1,465,90,0.011,148,147,8.9,7.6,118,79,142,No,Atypical Angina
+Michael Wilson,35,Female,Diabetes,ALBUTEROL,,130/85,220,Unknown,555-555-5555,14,98.8,442,79,0.009,165,176,8.9,14.3,115,87,139.9,No,Non-Anginal
+John Doe,60,Male,Heart Disease,ALBUTEROL,,120/80,220,contact@domain.com,Not Provided,17,97.6,461,83,0.05,133,86,5.4,5.6,120,87,141.2,No,Asymptomatic
+David Lee,25,Other,Heart Disease,METFORMIN,,,220,patient@example.com,,14,98,291,94,0.054,104,117,5.5,13.6,127,86,137.6,No,Atypical Angina
+David Lee,35,Other,Heart Disease,METFORMIN,,,220,name@hospital.org,098-765-4321,16,96.1,414,88,0.034,95,113,5.4,10.2,131,79,140.4,No,Typical Angina
+James Taylor,25,Female,,NONE,,120/80,160,Unknown,123-456-7890,12,92.9,293,73,0.013,162,102,10.3,21.4,126,77,140.1,No,Non-Anginal
+Robert Brown,35,Other,,LISINOPRIL,,140/90,180,contact@domain.com,123-456-7890,18,98.6,446,71,0.006,142,88,4.6,24.7,127,100,143.8,No,Asymptomatic
+James Taylor,35,Female,,LISINOPRIL,2020-01-15T00:00:00.000,,180,patient@example.com,Not Provided,24,97.6,439,106,0.024,146,94,8.2,9.6,133,97,137.7,No,Asymptomatic
+John Doe,35,Male,Hypertension,NONE,,130/85,200,name@hospital.org,123-456-7890,15,95.3,413,93,0.02,131,91,6.2,11.2,157,100,146.4,No,Asymptomatic
+John Doe,25,Other,,NONE,,130/85,180,name@hospital.org,123-456-7890,17,92.9,404,83,0.079,163,183,5.1,24.1,153,71,146.3,No,Typical Angina
+Emily Davis,25,Male,Heart Disease,ALBUTEROL,,110/70,180,Unknown,Not Provided,16,97.5,422,95,0.059,114,93,4.9,6.5,132,75,134.5,No,Non-Anginal
+James Taylor,60,Other,Heart Disease,NONE,2020-01-15T00:00:00.000,130/85,160,name@hospital.org,,18,95.4,426,100,0.167,126,104,5.5,15.8,136,82,140.8,No,Typical Angina
+Sarah Johnson,35,Male,Hypertension,ATORVASTATIN,2020-01-15T00:00:00.000,110/70,220,contact@domain.com,555-555-5555,15,96.2,405,77,0.024,142,82,5,3.3,157,92,146.7,Yes,Asymptomatic
+Robert Brown,35,Other,Hypertension,LISINOPRIL,,120/80,220,name@hospital.org,555-555-5555,17,97.4,441,95,0.005,169,110,5.8,6.8,171,99,151.6,No,Atypical Angina
+John Doe,35,Male,,NONE,,120/80,160,Unknown,098-765-4321,17,98.1,388,90,0.011,123,93,5.8,15.4,134,78,140.4,No,Typical Angina
+Emily Davis,35,Male,Asthma,ATORVASTATIN,,120/80,180,contact@domain.com,,26,95.7,276,86,0.017,120,100,4.8,12.5,108,73,144.9,Yes,Non-Anginal
+James Taylor,70,Other,Hypertension,ATORVASTATIN,,140/90,160,patient@example.com,098-765-4321,19,96.1,371,95,0.008,144,109,5.1,4.9,167,102,147.6,No,Atypical Angina
+Robert Brown,35,Male,Diabetes,ATORVASTATIN,,140/90,200,patient@example.com,555-555-5555,17,97.5,442,71,0.009,156,122,7.8,21.5,113,74,145.9,No,Asymptomatic
+James Taylor,60,Male,Heart Disease,ATORVASTATIN,,110/70,220,Unknown,Not Provided,18,95.4,571,119,0.197,153,102,5.9,6,121,76,137.5,Yes,Asymptomatic
+David Lee,35,Male,Diabetes,ALBUTEROL,,130/85,180,Unknown,123-456-7890,15,95.4,507,93,0.01,155,194,10.3,16.1,137,70,135.2,No,Asymptomatic
+Emily Davis,35,Other,Heart Disease,ATORVASTATIN,,130/85,200,Unknown,555-555-5555,15,96.4,402,98,0.049,98,90,5.3,12.4,121,76,137,No,Non-Anginal
+Robert Brown,70,Other,Heart Disease,ALBUTEROL,2020-01-15T00:00:00.000,120/80,200,patient@example.com,,19,94.7,397,102,0.054,99,104,5.5,13.7,118,86,140.7,No,Typical Angina
+Mary Clark,60,Male,Hypertension,ALBUTEROL,,,160,patient@example.com,555-555-5555,18,98.8,395,91,0.012,161,86,5.8,13.1,153,87,140.9,No,Asymptomatic
+Michael Wilson,35,Male,Hypertension,ATORVASTATIN,,140/90,180,patient@example.com,,19,95.7,478,101,0.011,126,105,5.5,11,163,109,146.8,No,Asymptomatic
+Michael Wilson,60,Other,Diabetes,LISINOPRIL,2020-01-15T00:00:00.000,140/90,220,patient@example.com,,12,97.5,528,84,0.011,122,166,9.1,31.2,143,71,147.8,No,Asymptomatic
+Robert Brown,35,Other,Heart Disease,ATORVASTATIN,,120/80,180,name@hospital.org,,15,95.3,462,98,0.074,138,106,5.5,8.1,116,82,135.5,No,Typical Angina
+James Taylor,60,Male,Diabetes,ATORVASTATIN,,140/90,200,contact@domain.com,098-765-4321,21,97.4,449,84,0.012,140,179,8.3,17.9,116,84,137.4,No,Asymptomatic
+Emily Davis,60,Male,Asthma,ATORVASTATIN,,120/80,180,contact@domain.com,Not Provided,26,92.3,220,85,0.004,167,78,4.8,2,117,85,136.9,Yes,Asymptomatic
+Michael Wilson,25,Male,Diabetes,LISINOPRIL,,110/70,180,Unknown,555-555-5555,17,95.1,458,86,0.014,132,166,8.8,20.3,129,87,138.1,No,Atypical Angina
+Emily Davis,35,Female,,METFORMIN,,130/85,180,name@hospital.org,Not Provided,28,97.5,449,70,0.062,133,79,5.3,2,122,77,139.6,No,Asymptomatic
+Michael Wilson,60,Other,Diabetes,METFORMIN,,,180,patient@example.com,123-456-7890,14,96.6,457,75,0.015,111,181,8.5,10.6,102,80,142.5,No,Asymptomatic
+David Lee,70,Female,,ALBUTEROL,,130/85,220,patient@example.com,555-555-5555,11,97.4,457,97,0.014,105,89,6,12.4,172,107,149.9,Yes,Atypical Angina
+James Taylor,60,Other,,ALBUTEROL,2020-01-15T00:00:00.000,130/85,180,Unknown,Not Provided,18,95.1,328,80,0.104,158,94,5.8,8.2,117,77,138.4,Yes,Non-Anginal
+David Lee,35,Other,,LISINOPRIL,,110/70,180,Unknown,Not Provided,14,95.1,364,83,0,159,116,5.8,9.7,139,77,144.2,No,Non-Anginal
+Michael Wilson,35,Other,Asthma,NONE,2020-01-15T00:00:00.000,140/90,200,Unknown,123-456-7890,24,92.3,226,87,0.009,146,103,5.8,12.2,98,73,139.1,Yes,Asymptomatic
+Mary Clark,35,Other,Diabetes,METFORMIN,,,180,patient@example.com,,17,97.1,403,92,0.016,135,123,6.9,24.9,118,77,139,No,Non-Anginal
+Mary Clark,35,Other,Diabetes,ALBUTEROL,,140/90,180,Unknown,555-555-5555,12,98.6,438,79,0.018,172,141,7.4,32.4,123,84,140.4,No,Asymptomatic
+David Lee,35,Other,Asthma,METFORMIN,,130/85,160,name@hospital.org,555-555-5555,17,92.5,295,71,0.012,167,100,4.6,10.7,139,71,136.3,Yes,Non-Anginal
+Mary Clark,60,Other,Heart Disease,LISINOPRIL,,120/80,180,contact@domain.com,123-456-7890,15,95.9,290,103,0.095,141,107,5.2,12.9,126,90,139.5,No,Typical Angina
+Michael Wilson,60,Female,Hypertension,LISINOPRIL,,130/85,220,patient@example.com,,20,97.4,407,60,0.012,138,127,6,9.7,138,94,146,Yes,Asymptomatic
+Robert Brown,25,Male,Diabetes,NONE,2020-01-15T00:00:00.000,140/90,220,name@hospital.org,555-555-5555,19,96.3,413,57,0.009,180,137,8,17,130,62,141.9,No,Asymptomatic
+David Lee,70,Male,Hypertension,NONE,2020-01-15T00:00:00.000,130/85,160,patient@example.com,555-555-5555,22,98.3,361,85,0.033,118,118,5.1,12,173,104,155,No,Asymptomatic
+Jane Smith,35,Female,Asthma,LISINOPRIL,,120/80,220,Unknown,555-555-5555,24,93.1,266,57,0.015,140,83,5.4,14.8,132,56,137.7,No,Atypical Angina
+James Taylor,35,Female,Heart Disease,ALBUTEROL,,110/70,180,Unknown,,19,94.9,352,82,0.04,128,104,5.6,8,135,73,143.8,No,Typical Angina
+Mary Clark,25,Female,Heart Disease,METFORMIN,,140/90,160,Unknown,123-456-7890,20,97.7,359,92,0.023,141,109,5.1,9.5,131,100,135.6,No,Asymptomatic
+Mary Clark,35,Female,Heart Disease,ATORVASTATIN,,130/85,200,contact@domain.com,555-555-5555,16,94.2,477,88,0.061,133,62,5.3,10.6,99,89,140.6,No,Typical Angina
+John Doe,35,Other,Asthma,NONE,,140/90,180,Unknown,Not Provided,25,97.9,308,79,0.017,149,101,5.4,11.9,120,86,140.8,Yes,Asymptomatic
+Sarah Johnson,25,Male,,ATORVASTATIN,,110/70,180,patient@example.com,,22,98.5,443,92,0.007,160,86,5.8,22.3,159,90,136.2,Yes,Asymptomatic
+David Lee,60,Other,,ALBUTEROL,,130/85,180,Unknown,098-765-4321,17,96.4,372,78,0.016,127,131,5.5,13.3,111,77,138.3,Yes,Non-Anginal
+Laura Martinez,35,Male,Hypertension,NONE,,130/85,180,patient@example.com,123-456-7890,16,96.3,371,75,0.013,142,91,5.8,6.9,171,86,147.6,No,Typical Angina
+Mary Clark,60,Male,,ATORVASTATIN,,140/90,200,contact@domain.com,Not Provided,25,95,368,78,0.006,142,94,5.9,37.5,103,103,133.5,Yes,Non-Anginal
+James Taylor,25,Female,,ALBUTEROL,2020-01-15T00:00:00.000,140/90,160,Unknown,555-555-5555,14,96.3,436,66,0.011,161,87,5.2,11.6,140,83,138.7,No,Asymptomatic
+Jane Smith,60,Other,Heart Disease,METFORMIN,,120/80,160,Unknown,098-765-4321,10,97.1,424,98,0.075,108,113,5.6,11.8,115,79,139.7,No,Typical Angina
+Mary Clark,35,Female,Heart Disease,ALBUTEROL,,110/70,180,Unknown,123-456-7890,17,94.7,447,79,0.003,108,91,5.8,10.6,113,71,142.3,No,Typical Angina
+Jane Smith,35,Other,Hypertension,NONE,2020-01-15T00:00:00.000,120/80,200,Unknown,,25,97.8,428,85,0.014,131,101,4.9,12.4,174,107,140.2,Yes,Non-Anginal
+Michael Wilson,35,Male,Diabetes,LISINOPRIL,2020-01-15T00:00:00.000,130/85,200,Unknown,098-765-4321,13,98.3,525,75,0.006,137,185,8.6,18.9,119,90,137.9,No,Typical Angina
+Michael Wilson,70,Female,Hypertension,METFORMIN,,140/90,200,Unknown,098-765-4321,26,96.4,389,93,0.001,158,105,4.9,11.3,165,98,158.2,No,Asymptomatic
+Sarah Johnson,35,Female,Hypertension,ATORVASTATIN,,130/85,220,Unknown,Not Provided,21,96.1,382,89,0.025,147,116,5.5,4.8,133,102,151.5,No,Asymptomatic
+Robert Brown,60,Male,Asthma,NONE,,130/85,220,patient@example.com,123-456-7890,22,90.8,178,74,0.004,160,117,5.8,7.6,92,61,142.7,Yes,Asymptomatic
+Laura Martinez,35,Male,Asthma,LISINOPRIL,,,180,contact@domain.com,Not Provided,24,96.7,216,72,0.006,153,81,5,13.2,124,87,137,Yes,Asymptomatic
+John Doe,60,Male,Hypertension,ALBUTEROL,,,200,Unknown,Not Provided,17,96.2,370,79,0.009,144,96,4.9,14,154,106,147.2,No,Asymptomatic
+Sarah Johnson,35,Female,Hypertension,LISINOPRIL,2020-01-15T00:00:00.000,130/85,200,patient@example.com,555-555-5555,22,96.7,442,101,0.014,113,104,6.4,11,161,101,138.8,No,Atypical Angina
+Emily Davis,25,Other,Hypertension,NONE,,140/90,160,Unknown,,19,97.5,431,98,0.026,154,94,5.1,8.2,180,88,150.3,No,Non-Anginal
+John Doe,35,Female,,NONE,,130/85,160,patient@example.com,098-765-4321,13,94.9,221,100,0.005,136,92,5.4,3.4,130,102,135.6,No,Non-Anginal
+David Lee,35,Other,Asthma,LISINOPRIL,,,180,Unknown,123-456-7890,22,95.9,276,97,0.012,165,90,5,16,126,74,137.8,No,Asymptomatic
+James Taylor,35,Female,Hypertension,ALBUTEROL,,140/90,200,Unknown,,18,97.6,497,83,0.019,135,85,5.4,14.4,168,95,144.6,No,Asymptomatic
+Emily Davis,35,Female,Heart Disease,LISINOPRIL,,130/85,180,Unknown,,20,96,438,107,0.101,97,109,5.3,12.5,138,86,137.8,No,Asymptomatic
+Emily Davis,60,Male,Heart Disease,NONE,,110/70,160,Unknown,123-456-7890,14,97.8,365,81,0.073,140,97,5.7,10,126,81,139,No,Non-Anginal
+Sarah Johnson,70,Other,,NONE,,110/70,160,name@hospital.org,,10,99.8,403,84,0.007,126,113,4.9,4.7,154,76,139.2,No,Asymptomatic
+Robert Brown,35,Female,,ATORVASTATIN,,130/85,220,patient@example.com,555-555-5555,17,93.1,238,80,0.019,167,96,5.8,9.5,127,77,146.6,No,Typical Angina
+Sarah Johnson,35,Female,Diabetes,ATORVASTATIN,,140/90,180,name@hospital.org,,13,93.6,534,83,0,145,172,8.1,8.7,112,81,137.7,No,Asymptomatic
+David Lee,35,Male,Diabetes,METFORMIN,,130/85,180,patient@example.com,555-555-5555,22,97.2,509,90,0.021,128,135,7.8,18.7,139,78,141.3,No,Asymptomatic
+Mary Clark,70,Male,Diabetes,NONE,2020-01-15T00:00:00.000,130/85,200,contact@domain.com,098-765-4321,16,98.7,437,72,0.019,152,167,9.4,13,153,81,141,No,Non-Anginal
+Mary Clark,60,Other,,ATORVASTATIN,,,200,Unknown,098-765-4321,18,99,451,78,0.024,170,135,5.2,5.9,146,67,134.7,No,Typical Angina
+Robert Brown,60,Female,,LISINOPRIL,,110/70,220,contact@domain.com,Not Provided,22,96.4,416,80,0,121,139,5.1,6.6,128,109,142.6,No,Non-Anginal
+David Lee,35,Other,,ALBUTEROL,,,180,contact@domain.com,555-555-5555,15,96.9,401,76,0.015,135,92,5.1,10.7,146,92,137.2,No,Atypical Angina
+Robert Brown,35,Female,Heart Disease,LISINOPRIL,,,180,patient@example.com,098-765-4321,21,95.9,523,97,0.072,105,93,5.4,14.1,154,72,139.6,No,Typical Angina
+Jane Smith,60,Other,,ALBUTEROL,,130/85,180,name@hospital.org,,30,96.1,417,78,0.021,149,88,5.1,7.9,102,74,149.3,Yes,Non-Anginal
+Mary Clark,70,Male,Heart Disease,ATORVASTATIN,,,180,Unknown,123-456-7890,15,97.3,414,78,0.033,149,106,5.6,8.9,113,92,140.7,No,Non-Anginal
+Emily Davis,35,Female,Diabetes,METFORMIN,,110/70,180,patient@example.com,123-456-7890,14,96.3,545,85,0.016,120,150,11,21.8,121,89,138.2,No,Asymptomatic
+Laura Martinez,25,Other,Diabetes,LISINOPRIL,,,160,Unknown,555-555-5555,16,98.1,529,71,0.011,164,138,7.4,8.1,133,81,138.9,No,Non-Anginal
+James Taylor,25,Male,Diabetes,LISINOPRIL,,110/70,180,contact@domain.com,Not Provided,16,97.3,562,77,0.012,146,149,9.8,9.4,137,70,137.8,No,Non-Anginal
+David Lee,25,Male,Hypertension,LISINOPRIL,2020-01-15T00:00:00.000,,180,Unknown,,20,97.5,421,90,0.009,135,99,5.3,11.4,167,88,151.4,No,Atypical Angina
+John Doe,35,Other,Hypertension,ALBUTEROL,,110/70,180,name@hospital.org,555-555-5555,12,98.3,446,85,0.026,131,116,5.4,6.8,134,99,146.4,No,Atypical Angina
+Robert Brown,35,Female,Asthma,ATORVASTATIN,,,220,patient@example.com,123-456-7890,29,92.3,172,79,0.016,153,73,5.6,13.3,113,81,139.7,No,Atypical Angina
+James Taylor,60,Female,Asthma,LISINOPRIL,,,180,name@hospital.org,555-555-5555,23,95,306,74,0.006,149,92,5.2,10.3,110,75,142.2,Yes,Asymptomatic
+John Doe,35,Male,Asthma,LISINOPRIL,,140/90,200,name@hospital.org,,23,92.6,187,51,0.002,143,98,5.4,11.6,119,74,139,Yes,Asymptomatic
+James Taylor,70,Female,Hypertension,METFORMIN,,110/70,200,patient@example.com,098-765-4321,14,97.5,442,89,0.011,128,102,5.7,15.6,156,94,147.7,No,Typical Angina
+Laura Martinez,35,Female,Hypertension,METFORMIN,,110/70,160,name@hospital.org,,12,96,370,79,0.017,108,116,5.3,8.8,138,99,146.6,No,Atypical Angina
+John Doe,70,Female,Asthma,ATORVASTATIN,,110/70,220,Unknown,098-765-4321,27,91.5,214,95,0.011,137,91,5.6,7.5,115,59,139.7,No,Asymptomatic
+Sarah Johnson,35,Male,Asthma,ATORVASTATIN,,120/80,200,Unknown,098-765-4321,24,93.7,202,84,0.018,141,90,5.3,12.6,126,69,139,No,Asymptomatic
+Michael Wilson,25,Other,,NONE,,,220,Unknown,098-765-4321,12,96.7,288,91,0.011,125,136,5.2,7.3,128,90,155,No,Typical Angina
+Sarah Johnson,35,Female,Asthma,METFORMIN,,110/70,220,Unknown,555-555-5555,14,92.2,229,71,0.006,156,78,5.8,6.7,120,76,141.7,Yes,Asymptomatic
+Mary Clark,35,Male,,NONE,,120/80,160,name@hospital.org,123-456-7890,12,98.2,451,76,0.107,166,91,4.7,10.3,123,83,141.3,No,Atypical Angina
+Michael Wilson,35,Male,Heart Disease,ALBUTEROL,,140/90,220,patient@example.com,555-555-5555,16,93.3,420,107,0.081,95,90,5.3,8.2,142,78,138.6,Yes,Typical Angina
+Sarah Johnson,70,Other,Hypertension,NONE,,110/70,180,patient@example.com,123-456-7890,14,95.4,434,96,0.017,154,105,6,12.5,158,92,143.7,No,Typical Angina
+Michael Wilson,60,Female,Asthma,LISINOPRIL,,110/70,220,Unknown,,23,91.2,260,87,0.01,165,97,5.6,11.9,112,101,140.8,Yes,Asymptomatic
+Michael Wilson,60,Female,Hypertension,NONE,2020-01-15T00:00:00.000,120/80,160,patient@example.com,Not Provided,17,98.4,411,86,0.006,156,101,6,10.3,171,96,149.3,No,Typical Angina
+Emily Davis,70,Other,Hypertension,ATORVASTATIN,,,160,Unknown,,13,99.6,375,86,0.013,161,70,5.2,13.3,159,97,141.4,No,Typical Angina
+Robert Brown,35,Other,Hypertension,ALBUTEROL,,140/90,160,name@hospital.org,555-555-5555,19,96.8,401,76,0.018,177,80,6.2,10.8,156,107,151,Yes,Atypical Angina
+Robert Brown,35,Male,Heart Disease,LISINOPRIL,,110/70,200,patient@example.com,555-555-5555,17,96.2,496,95,0.071,116,95,5.1,7,130,75,136.7,No,Atypical Angina
+Emily Davis,35,Male,Diabetes,NONE,,,180,patient@example.com,123-456-7890,19,97.1,446,93,0.017,150,148,8.8,19.4,113,83,143.7,No,Atypical Angina
+James Taylor,35,Other,Asthma,ALBUTEROL,,140/90,200,contact@domain.com,555-555-5555,18,96.1,202,71,0.008,143,92,5.3,10,114,82,139.9,No,Non-Anginal
+Jane Smith,35,Female,Diabetes,ALBUTEROL,,130/85,180,contact@domain.com,098-765-4321,13,95.6,462,93,0.01,148,149,8.4,28.4,126,82,135.3,No,Non-Anginal
+James Taylor,35,Male,Diabetes,LISINOPRIL,,130/85,180,contact@domain.com,555-555-5555,17,97.4,466,75,0.017,174,205,10.1,22.8,124,98,135.6,No,Atypical Angina
+John Doe,25,Male,Diabetes,NONE,,140/90,220,name@hospital.org,123-456-7890,14,98.5,469,90,0.013,125,98,7.8,16.4,141,74,140,No,Non-Anginal
+John Doe,35,Female,Hypertension,ALBUTEROL,,120/80,160,Unknown,123-456-7890,17,97.8,376,68,0.011,125,104,5.1,13.9,159,113,146.4,No,Typical Angina
+Michael Wilson,70,Male,,ALBUTEROL,,140/90,180,Unknown,098-765-4321,22,96.2,246,71,0.076,153,167,5.2,19.6,131,91,138.3,No,Typical Angina
+Sarah Johnson,25,Female,Hypertension,METFORMIN,,140/90,180,Unknown,123-456-7890,14,97.4,338,89,0.013,149,122,5.1,12.3,136,99,154.7,No,Non-Anginal
+Sarah Johnson,35,Female,Hypertension,ALBUTEROL,,120/80,200,name@hospital.org,Not Provided,14,96.9,569,84,0.016,165,112,5.4,12.4,164,93,145.7,No,Atypical Angina
+Robert Brown,70,Female,Diabetes,METFORMIN,,120/80,160,name@hospital.org,,12,98.3,474,70,0.005,140,186,8.6,21.3,112,70,137.1,No,Typical Angina
+David Lee,25,Other,Hypertension,NONE,2020-01-15T00:00:00.000,,200,contact@domain.com,555-555-5555,21,96.4,467,77,0.012,131,108,5.6,10.4,163,106,154.1,Yes,Non-Anginal
+James Taylor,70,Other,Diabetes,NONE,,,180,patient@example.com,Not Provided,15,95.7,515,78,0.012,132,184,8.2,22.1,121,66,138,No,Asymptomatic
+Mary Clark,35,Other,,NONE,,120/80,180,Unknown,555-555-5555,15,100,459,73,0.116,170,138,7.4,2,131,85,132.9,No,Non-Anginal
+Laura Martinez,35,Female,Asthma,ATORVASTATIN,2020-01-15T00:00:00.000,130/85,180,Unknown,Not Provided,22,91.1,295,54,0.011,200,88,4.6,11.2,116,76,139.3,Yes,Asymptomatic
+Sarah Johnson,35,Female,Diabetes,NONE,,130/85,220,patient@example.com,555-555-5555,16,98.8,405,79,0.014,174,170,9.9,26.3,137,91,140.8,No,Asymptomatic
+Laura Martinez,35,Other,,ALBUTEROL,,140/90,200,contact@domain.com,098-765-4321,15,97.3,261,89,0,159,99,5.3,12.1,125,58,149.4,No,Asymptomatic
+Michael Wilson,70,Male,Asthma,LISINOPRIL,,110/70,180,patient@example.com,123-456-7890,18,96.6,178,95,0.005,132,91,6,11.4,109,67,138.8,Yes,Asymptomatic
+Laura Martinez,60,Female,Heart Disease,METFORMIN,,140/90,160,patient@example.com,123-456-7890,19,98.7,444,107,0.109,107,93,5.1,13.9,138,90,139.7,No,Atypical Angina
+Mary Clark,35,Male,Diabetes,ATORVASTATIN,,140/90,220,Unknown,098-765-4321,17,96.5,385,79,0.005,173,189,9.1,41.6,132,85,141.3,No,Non-Anginal
+Emily Davis,35,Male,Diabetes,NONE,,110/70,180,contact@domain.com,Not Provided,21,96.2,397,97,0.009,184,169,9.6,16,106,72,138.5,No,Atypical Angina
+Mary Clark,35,Female,Heart Disease,NONE,2020-01-15T00:00:00.000,120/80,200,name@hospital.org,,12,94.7,469,89,0.02,122,96,5.4,10.6,117,67,137,No,Atypical Angina
+Laura Martinez,35,Female,Heart Disease,LISINOPRIL,,130/85,180,Unknown,Not Provided,25,94.6,440,95,0.093,149,86,4.9,10.8,114,87,136.4,No,Asymptomatic
+Mary Clark,35,Male,Diabetes,LISINOPRIL,,140/90,160,name@hospital.org,123-456-7890,20,97.5,464,78,0.013,135,206,8.3,26.6,130,67,139.5,No,Non-Anginal
+Jane Smith,60,Male,Heart Disease,ATORVASTATIN,,110/70,200,contact@domain.com,,17,96.5,505,95,0.058,113,99,5.8,14,142,82,138.1,No,Atypical Angina
+Michael Wilson,35,Other,Hypertension,METFORMIN,,,220,patient@example.com,555-555-5555,16,96.1,478,71,0.007,165,85,5.8,14.2,162,95,146.4,No,Non-Anginal
+James Taylor,60,Other,Asthma,NONE,,140/90,220,Unknown,,21,90.1,308,64,0.018,164,93,5.3,13,112,84,142.9,Yes,Non-Anginal
+Emily Davis,35,Female,Asthma,ATORVASTATIN,,130/85,180,Unknown,Not Provided,24,93.7,244,84,0.009,179,90,5.6,4.3,116,84,141.3,Yes,Non-Anginal
+Sarah Johnson,25,Other,Asthma,ALBUTEROL,,120/80,180,contact@domain.com,098-765-4321,23,92.5,313,74,0.005,158,90,5.6,2,105,71,144.8,Yes,Asymptomatic
+John Doe,70,Other,Hypertension,ALBUTEROL,,140/90,160,Unknown,555-555-5555,19,96.7,450,101,0.027,123,107,5.4,7.9,139,107,143.9,No,Atypical Angina
+James Taylor,35,Other,Heart Disease,ATORVASTATIN,2020-01-15T00:00:00.000,140/90,160,name@hospital.org,Not Provided,16,97.1,439,95,0.055,126,96,4.9,10.4,139,79,137.9,No,Atypical Angina
+John Doe,35,Other,,NONE,,110/70,180,Unknown,555-555-5555,16,93.7,494,83,0.005,177,86,4.8,36.3,152,87,140.7,No,Asymptomatic
+Michael Wilson,35,Male,Heart Disease,ATORVASTATIN,2020-01-15T00:00:00.000,,180,contact@domain.com,,17,96.3,410,100,0.003,110,106,5.9,6.3,125,78,145,No,Non-Anginal
+Emily Davis,35,Female,Diabetes,NONE,,,220,contact@domain.com,123-456-7890,17,94.7,407,89,0.014,126,168,8,20.8,131,89,134.4,No,Atypical Angina
+Robert Brown,35,Other,Asthma,LISINOPRIL,2020-01-15T00:00:00.000,120/80,180,name@hospital.org,Not Provided,21,95.2,190,67,0.021,134,93,5.2,13.6,111,81,144.7,Yes,Asymptomatic
+Sarah Johnson,70,Male,Heart Disease,ATORVASTATIN,,130/85,180,Unknown,098-765-4321,17,96.7,563,92,0.026,101,128,5.1,8.2,140,69,140.2,No,Typical Angina
+Jane Smith,35,Male,,NONE,,120/80,200,Unknown,,16,93.6,250,71,0.012,163,211,5.8,17.1,143,82,141.5,No,Atypical Angina
+Robert Brown,60,Male,Diabetes,ATORVASTATIN,,140/90,180,patient@example.com,Not Provided,14,97.4,524,64,0.011,138,165,8.3,37,115,77,139.8,No,Asymptomatic
+Michael Wilson,35,Other,Hypertension,ATORVASTATIN,2020-01-15T00:00:00.000,140/90,160,Unknown,098-765-4321,15,97.4,420,92,0.007,159,95,6.3,6.8,160,92,144.7,No,Atypical Angina
+James Taylor,25,Other,Hypertension,NONE,,,180,contact@domain.com,Not Provided,25,96.5,447,84,0.016,140,76,6.1,3.3,157,102,151.8,No,Typical Angina
+Jane Smith,35,Female,,NONE,,130/85,160,patient@example.com,,25,89.6,380,66,0.016,144,198,5.8,30,133,85,139.5,No,Atypical Angina
+Mary Clark,60,Other,Diabetes,METFORMIN,,110/70,180,contact@domain.com,Not Provided,15,97.7,325,86,0.016,126,160,9.7,21,103,89,138.6,No,Asymptomatic
+Laura Martinez,25,Other,Asthma,ATORVASTATIN,2020-01-15T00:00:00.000,130/85,180,patient@example.com,555-555-5555,26,99.5,318,76,0.002,138,102,5.1,5.8,112,87,135.4,Yes,Non-Anginal
+Jane Smith,60,Male,Heart Disease,ALBUTEROL,,140/90,200,Unknown,,13,97.3,414,97,0.106,110,107,4.9,5.5,116,84,140.1,No,Atypical Angina
+Michael Wilson,60,Female,Diabetes,ATORVASTATIN,,110/70,160,patient@example.com,Not Provided,18,96.7,456,77,0.015,146,170,6.2,13,118,84,136.8,No,Asymptomatic
+David Lee,35,Other,Hypertension,ATORVASTATIN,,130/85,180,contact@domain.com,123-456-7890,16,95.8,427,79,0.009,138,105,6.3,7.1,150,103,146.1,No,Asymptomatic
+Laura Martinez,35,Other,,NONE,,130/85,220,Unknown,Not Provided,16,93.1,221,86,0.071,164,97,5.6,11.5,125,65,139.6,No,Asymptomatic
+John Doe,35,Male,,ATORVASTATIN,2020-01-15T00:00:00.000,110/70,180,contact@domain.com,555-555-5555,18,92.8,444,83,0.01,161,119,8.8,34.5,117,72,140.7,No,Atypical Angina
+Sarah Johnson,70,Male,Heart Disease,ATORVASTATIN,,140/90,200,name@hospital.org,098-765-4321,18,94.9,381,87,0.084,123,107,5.1,7.7,143,82,135.7,No,Typical Angina
+John Doe,35,Other,,ALBUTEROL,2020-01-15T00:00:00.000,130/85,180,name@hospital.org,098-765-4321,12,96.3,442,82,0.008,143,103,9.7,18.5,148,102,141.2,No,Atypical Angina
+Jane Smith,70,Female,,NONE,,110/70,220,name@hospital.org,098-765-4321,14,97.1,467,64,0.12,107,80,5.5,9.6,117,97,143.3,No,Atypical Angina
+John Doe,35,Female,Diabetes,ATORVASTATIN,,140/90,200,name@hospital.org,123-456-7890,17,96.4,415,84,0,160,113,11.2,22.4,124,81,139,No,Asymptomatic
+Michael Wilson,35,Male,Asthma,LISINOPRIL,2020-01-15T00:00:00.000,110/70,220,Unknown,555-555-5555,20,92.1,297,61,0.022,148,94,5.3,12,122,76,141.5,Yes,Typical Angina
+Mary Clark,35,Male,Heart Disease,METFORMIN,,110/70,180,Unknown,,20,93.7,401,101,0.08,148,101,6.2,13,115,86,138,No,Typical Angina
+James Taylor,25,Other,Diabetes,ALBUTEROL,,130/85,180,Unknown,098-765-4321,16,94.2,460,86,0.014,191,204,8.9,17.2,120,75,140,No,Asymptomatic
+Sarah Johnson,70,Male,Asthma,ATORVASTATIN,,140/90,180,contact@domain.com,555-555-5555,22,95.3,207,86,0.01,163,79,5.4,7.6,137,86,144,Yes,Asymptomatic
+John Doe,35,Other,Diabetes,LISINOPRIL,2020-01-15T00:00:00.000,130/85,180,patient@example.com,Not Provided,19,96.7,482,77,0.008,152,194,10.6,26.1,135,78,138.2,No,Asymptomatic
+John Doe,35,Female,Diabetes,ATORVASTATIN,,120/80,180,contact@domain.com,123-456-7890,14,98.2,478,81,0.011,159,228,9.5,26.7,131,77,144.7,No,Asymptomatic
+Jane Smith,60,Female,,ATORVASTATIN,,120/80,160,contact@domain.com,555-555-5555,12,99.3,542,84,0,104,95,9,8.1,131,78,140.1,No,Asymptomatic
+James Taylor,60,Other,Asthma,NONE,,140/90,220,contact@domain.com,555-555-5555,28,95.8,231,81,0.015,159,116,5.3,12.5,115,82,138.5,No,Asymptomatic
+Robert Brown,60,Male,Heart Disease,NONE,,110/70,220,contact@domain.com,,15,94.5,465,86,0.056,107,108,5.4,8.8,114,66,137.9,No,Typical Angina
+John Doe,35,Female,Heart Disease,NONE,2020-01-15T00:00:00.000,130/85,220,Unknown,555-555-5555,20,98.1,492,102,0.077,126,85,5.4,12.4,116,79,139.6,No,Asymptomatic
+Michael Wilson,35,Male,Asthma,LISINOPRIL,,130/85,160,patient@example.com,,23,94.7,203,85,0.024,144,111,5.7,18.3,97,81,137.9,No,Asymptomatic
+David Lee,70,Female,,ATORVASTATIN,,140/90,180,contact@domain.com,123-456-7890,18,97,524,100,0.013,188,79,9.5,6.8,163,90,149.2,No,Typical Angina
+Sarah Johnson,35,Other,Hypertension,METFORMIN,,140/90,180,Unknown,123-456-7890,17,98.3,438,95,0.021,125,80,5.9,10.5,157,95,154.4,No,Atypical Angina
+John Doe,25,Other,Diabetes,ALBUTEROL,,120/80,180,contact@domain.com,Not Provided,15,96.6,401,74,0.015,157,219,7,18.1,123,84,142.6,No,Asymptomatic
+Michael Wilson,60,Other,,NONE,,,160,name@hospital.org,,19,95.7,186,84,0.013,110,125,6,5.6,138,76,138.6,Yes,Asymptomatic
+Michael Wilson,35,Female,Asthma,NONE,,140/90,220,contact@domain.com,,30,92,185,82,0.012,174,103,5.7,9.9,116,82,140.6,Yes,Atypical Angina
+Sarah Johnson,35,Male,Diabetes,ATORVASTATIN,2020-01-15T00:00:00.000,,180,contact@domain.com,098-765-4321,16,97.4,385,86,0.024,144,175,9,33.4,145,90,135.5,No,Typical Angina
+Robert Brown,25,Male,Heart Disease,ATORVASTATIN,,140/90,200,Unknown,098-765-4321,15,98.8,437,87,0.093,123,81,5.3,13,121,74,141.5,Yes,Non-Anginal
+Michael Wilson,35,Male,Hypertension,LISINOPRIL,2020-01-15T00:00:00.000,110/70,200,name@hospital.org,Not Provided,22,100,408,88,0.025,157,112,5.2,11.3,158,90,145.2,No,Asymptomatic
+David Lee,35,Female,Heart Disease,LISINOPRIL,,110/70,180,patient@example.com,123-456-7890,19,96.1,523,94,0.106,152,84,6,9.6,137,83,136.8,No,Typical Angina
+Michael Wilson,70,Female,Asthma,NONE,2020-01-15T00:00:00.000,120/80,220,contact@domain.com,098-765-4321,20,95.4,289,59,0.018,163,98,4.9,11,123,68,142.6,Yes,Non-Anginal
+Michael Wilson,35,Female,Diabetes,ATORVASTATIN,2020-01-15T00:00:00.000,120/80,200,patient@example.com,555-555-5555,13,98.7,407,64,0.014,150,131,8.5,16.2,139,65,137.2,No,Asymptomatic
+Michael Wilson,60,Female,Asthma,METFORMIN,,,180,name@hospital.org,123-456-7890,23,91.7,199,73,0.013,158,84,6.1,6.8,116,87,143.3,Yes,Non-Anginal
+Mary Clark,35,Female,Diabetes,ALBUTEROL,,140/90,160,contact@domain.com,555-555-5555,17,99.7,516,82,0.014,143,135,8,15.5,134,91,142.3,No,Asymptomatic
+Mary Clark,25,Male,,ATORVASTATIN,2020-01-15T00:00:00.000,130/85,180,Unknown,,26,94.4,521,73,0.012,141,100,5,14.2,100,69,146.1,No,Typical Angina
+Robert Brown,25,Female,Hypertension,ATORVASTATIN,,120/80,180,Unknown,123-456-7890,18,98.8,381,77,0.017,137,92,6.2,5.1,158,84,147.5,No,Typical Angina
+John Doe,35,Female,,LISINOPRIL,,130/85,180,Unknown,Not Provided,14,93,493,85,0.024,127,115,6.5,6.4,104,101,139.8,No,Typical Angina
+Michael Wilson,35,Male,,ALBUTEROL,,130/85,180,Unknown,,23,97.9,485,117,0.025,171,171,8.7,13.5,176,98,141.5,Yes,Atypical Angina
+James Taylor,35,Female,Asthma,NONE,,140/90,180,Unknown,,27,94,287,72,0.007,177,95,5.9,11.3,135,73,135.1,Yes,Atypical Angina
+John Doe,35,Male,Hypertension,ATORVASTATIN,2020-01-15T00:00:00.000,,180,Unknown,555-555-5555,16,98.4,370,65,0.014,126,94,5.5,11.8,166,100,147.5,No,Typical Angina
+Robert Brown,35,Male,Diabetes,NONE,2020-01-15T00:00:00.000,140/90,180,Unknown,,17,97.4,370,74,0.001,123,140,8.3,28.1,127,75,139.4,No,Asymptomatic
+Emily Davis,70,Other,Diabetes,ATORVASTATIN,,120/80,180,contact@domain.com,098-765-4321,20,96.1,434,60,0.008,153,134,8.7,21.1,126,83,138.1,Yes,Atypical Angina
+John Doe,25,Other,Heart Disease,NONE,,130/85,160,patient@example.com,123-456-7890,22,97.2,386,104,0.018,113,87,5.5,13,138,66,139.5,No,Non-Anginal
+John Doe,25,Other,Diabetes,ALBUTEROL,,140/90,220,patient@example.com,098-765-4321,13,95.3,395,59,0.015,180,157,8.4,17.3,121,89,134.2,No,Non-Anginal
+Laura Martinez,60,Other,Asthma,LISINOPRIL,,140/90,200,Unknown,555-555-5555,26,93.7,184,80,0.015,151,88,5.7,12.5,99,65,141.1,Yes,Asymptomatic
+Jane Smith,60,Female,,ALBUTEROL,,140/90,200,Unknown,555-555-5555,23,94.2,448,98,0.014,158,225,5.2,10.5,152,88,137.8,No,Typical Angina
+Laura Martinez,35,Other,,METFORMIN,2020-01-15T00:00:00.000,120/80,180,name@hospital.org,123-456-7890,20,99.9,432,98,0.023,144,114,5.2,10.7,123,66,138.7,No,Typical Angina
+David Lee,70,Male,,LISINOPRIL,,,160,Unknown,,11,93.1,354,83,0.012,160,95,5,36,143,86,142.4,Yes,Non-Anginal
+Mary Clark,35,Female,Hypertension,ALBUTEROL,,140/90,180,Unknown,Not Provided,14,95.8,418,77,0.029,163,95,5.5,5.1,154,89,154.1,No,Non-Anginal
+Mary Clark,35,Other,Diabetes,METFORMIN,,120/80,200,Unknown,555-555-5555,16,96.7,413,76,0.012,141,177,7.8,8.4,146,99,139.4,No,Asymptomatic
+Jane Smith,35,Male,Asthma,ATORVASTATIN,,130/85,180,contact@domain.com,123-456-7890,23,90.2,211,75,0.008,178,82,5,8.3,115,90,143.3,Yes,Asymptomatic
+Sarah Johnson,60,Female,Hypertension,ATORVASTATIN,2020-01-15T00:00:00.000,110/70,220,contact@domain.com,Not Provided,19,98.6,374,70,0.021,143,103,6.4,13.1,141,89,152.8,Yes,Non-Anginal
+Sarah Johnson,35,Female,Heart Disease,NONE,,120/80,160,patient@example.com,,17,95.8,482,110,0.05,132,98,5.2,12,140,83,136.9,No,Typical Angina
+Robert Brown,60,Other,Asthma,LISINOPRIL,2020-01-15T00:00:00.000,110/70,180,patient@example.com,555-555-5555,27,91.9,211,74,0.006,166,85,5.1,13.2,126,86,134.8,Yes,Asymptomatic
+Jane Smith,35,Female,Asthma,ATORVASTATIN,,140/90,220,name@hospital.org,123-456-7890,29,93.1,150,72,0.006,125,81,5.6,8.1,122,73,138.5,Yes,Asymptomatic
+John Doe,35,Male,Asthma,LISINOPRIL,,140/90,160,name@hospital.org,123-456-7890,24,96,252,65,0.008,132,117,5.1,2.7,105,67,140.3,Yes,Asymptomatic
+Sarah Johnson,35,Female,,ATORVASTATIN,,120/80,160,name@hospital.org,123-456-7890,19,96.8,470,67,0.011,130,81,5.1,4.7,113,82,135.4,No,Asymptomatic
+Michael Wilson,35,Male,Asthma,NONE,,110/70,200,name@hospital.org,555-555-5555,24,96.6,279,75,0,161,96,6.2,9.3,99,84,138.8,Yes,Typical Angina
+James Taylor,70,Female,Diabetes,ALBUTEROL,,140/90,180,Unknown,Not Provided,16,96.6,449,84,0.005,144,173,7.1,27.7,125,78,139.4,No,Non-Anginal
+John Doe,25,Other,Asthma,NONE,,130/85,160,Unknown,123-456-7890,26,94.1,265,80,0.011,151,94,4.6,7.1,123,88,138.9,Yes,Asymptomatic
+David Lee,70,Male,,METFORMIN,,,160,patient@example.com,,12,97.4,468,68,0.016,142,95,5.4,8.3,125,84,140.1,No,Non-Anginal
+Michael Wilson,70,Female,Asthma,ATORVASTATIN,,,220,contact@domain.com,123-456-7890,25,92.7,231,82,0.013,162,92,4.9,10.1,132,83,137.6,Yes,Asymptomatic
+Michael Wilson,25,Female,Heart Disease,METFORMIN,,140/90,200,contact@domain.com,Not Provided,14,97,511,96,0.065,125,83,5.2,6.9,145,78,145.6,No,Atypical Angina
+Jane Smith,70,Female,Heart Disease,METFORMIN,,110/70,180,Unknown,555-555-5555,11,96,408,112,0.063,115,110,5.5,4.9,114,68,141.3,No,Typical Angina
+Robert Brown,35,Male,,LISINOPRIL,2020-01-15T00:00:00.000,140/90,200,Unknown,123-456-7890,16,96.9,472,78,0.008,116,97,6,5.5,111,114,140.6,Yes,Typical Angina
+David Lee,35,Male,Diabetes,ATORVASTATIN,,110/70,180,name@hospital.org,123-456-7890,16,95.5,491,89,0.005,140,146,7.2,14.6,125,100,138,No,Typical Angina
+Sarah Johnson,35,Male,Diabetes,METFORMIN,,130/85,180,name@hospital.org,,20,99.2,427,76,0.011,138,231,10.5,16.6,124,94,135.7,No,Non-Anginal
+Jane Smith,25,Other,Hypertension,ALBUTEROL,,110/70,180,Unknown,,15,96.6,492,77,0.018,128,124,5.8,8.5,165,112,145.2,No,Non-Anginal
+Sarah Johnson,70,Other,,METFORMIN,,140/90,160,contact@domain.com,123-456-7890,21,95.2,190,79,0.028,144,162,8.1,13.5,148,78,143.3,No,Atypical Angina
+Jane Smith,25,Male,Asthma,ALBUTEROL,,130/85,180,name@hospital.org,123-456-7890,27,93.2,315,90,0.005,172,79,4.9,9.8,100,82,133.7,Yes,Asymptomatic
+Jane Smith,35,Female,,LISINOPRIL,,120/80,160,contact@domain.com,,22,97.4,416,83,0.015,122,90,5.4,6.9,125,83,133.1,No,Typical Angina
+Jane Smith,70,Other,Hypertension,METFORMIN,,,200,Unknown,Not Provided,13,99,384,63,0.025,137,96,5.6,9.5,157,100,147.3,No,Typical Angina
+Robert Brown,70,Male,,NONE,,140/90,180,contact@domain.com,098-765-4321,16,99.1,155,90,0.013,124,99,5,19.3,91,75,140.5,No,Non-Anginal
+Jane Smith,60,Female,,LISINOPRIL,,140/90,200,contact@domain.com,098-765-4321,18,96.8,449,79,0.007,120,108,5.7,13.6,136,81,141.9,Yes,Atypical Angina
+Emily Davis,60,Other,Hypertension,ALBUTEROL,2020-01-15T00:00:00.000,140/90,200,contact@domain.com,123-456-7890,19,95.9,399,74,0.015,142,101,5.2,10.2,151,97,146,No,Non-Anginal
+James Taylor,35,Female,Diabetes,LISINOPRIL,,130/85,180,name@hospital.org,,17,98.7,340,80,0.013,115,167,8.4,29.4,114,78,135.7,No,Asymptomatic
+Sarah Johnson,35,Female,Asthma,METFORMIN,2020-01-15T00:00:00.000,120/80,200,patient@example.com,555-555-5555,28,90.9,252,77,0.004,166,84,5.6,8.8,110,83,142.3,Yes,Asymptomatic
+John Doe,60,Female,Hypertension,ATORVASTATIN,,110/70,180,Unknown,555-555-5555,20,94.6,325,85,0.021,118,79,5.8,11.5,136,102,148.5,No,Atypical Angina
+Laura Martinez,25,Female,Heart Disease,ATORVASTATIN,,120/80,180,contact@domain.com,098-765-4321,18,99,426,107,0.145,94,101,5,10.3,112,81,132.9,No,Typical Angina
+David Lee,60,Other,Diabetes,ALBUTEROL,,130/85,180,contact@domain.com,Not Provided,16,99.8,365,68,0.012,142,187,9,20.2,108,92,142,No,Asymptomatic
+Mary Clark,35,Other,Heart Disease,ALBUTEROL,,140/90,180,contact@domain.com,098-765-4321,12,95.6,539,107,0.09,149,95,5.7,11.5,115,57,140.2,No,Atypical Angina
+Robert Brown,70,Other,Diabetes,ATORVASTATIN,,,200,patient@example.com,123-456-7890,17,96.9,490,71,0.013,160,202,8.7,25.3,113,84,141.3,No,Asymptomatic
+John Doe,35,Male,Asthma,ALBUTEROL,,140/90,220,Unknown,Not Provided,25,91,245,101,0.006,115,85,5.7,5.1,124,84,139.3,Yes,Non-Anginal
+Michael Wilson,70,Other,Asthma,LISINOPRIL,,110/70,180,name@hospital.org,555-555-5555,25,93.5,297,96,0,126,81,5.1,14.5,124,87,144.8,Yes,Atypical Angina
+Emily Davis,70,Female,,NONE,,,200,patient@example.com,,13,96.3,383,95,0.054,116,99,5.4,6.1,124,80,137.9,No,Non-Anginal
+Mary Clark,35,Other,Heart Disease,NONE,,140/90,160,contact@domain.com,,15,93,380,86,0.056,155,92,6,8,141,82,137.1,No,Atypical Angina
+Laura Martinez,60,Female,Diabetes,LISINOPRIL,,,180,patient@example.com,123-456-7890,15,94.8,450,76,0.013,154,173,9,28.4,154,83,138.6,No,Non-Anginal
+John Doe,25,Male,Asthma,NONE,2020-01-15T00:00:00.000,120/80,180,patient@example.com,098-765-4321,21,91.7,243,82,0.004,148,77,4.8,16.8,123,70,136.6,Yes,Atypical Angina
+Mary Clark,25,Female,Hypertension,METFORMIN,,130/85,220,patient@example.com,123-456-7890,19,96.3,489,69,0.019,161,114,5.4,10.5,175,96,152.4,No,Asymptomatic
+John Doe,35,Female,Asthma,LISINOPRIL,,140/90,180,Unknown,,23,91.1,207,69,0.014,124,90,5.2,9.2,116,83,139.3,Yes,Non-Anginal
+Emily Davis,70,Female,Hypertension,ALBUTEROL,,110/70,180,Unknown,555-555-5555,14,96.9,521,75,0.016,132,88,5.6,8.9,163,98,143.5,No,Atypical Angina
+Laura Martinez,25,Male,Diabetes,LISINOPRIL,,120/80,180,name@hospital.org,,18,96.4,477,69,0.012,137,130,8.8,12.5,120,80,138.7,No,Atypical Angina
+Michael Wilson,35,Other,Asthma,ATORVASTATIN,,140/90,200,Unknown,Not Provided,27,95.9,244,80,0.014,157,92,5,12.4,125,86,141.4,No,Non-Anginal
+Jane Smith,70,Other,Asthma,ALBUTEROL,,120/80,160,Unknown,,24,92.5,232,84,0.015,166,89,5.3,9.3,124,63,137.8,Yes,Asymptomatic
+Sarah Johnson,35,Male,Diabetes,ATORVASTATIN,,110/70,160,Unknown,,14,93.6,423,80,0.015,156,119,8.3,19.8,101,83,133,No,Non-Anginal
+Michael Wilson,25,Female,Asthma,ALBUTEROL,,140/90,200,Unknown,Not Provided,32,93.8,229,82,0.002,159,86,5.7,11.9,113,92,140.4,Yes,Typical Angina
+Jane Smith,25,Other,Hypertension,NONE,,110/70,180,patient@example.com,098-765-4321,18,97,439,99,0.008,134,90,5.2,13.1,159,96,143.1,No,Typical Angina
+Robert Brown,35,Male,Asthma,LISINOPRIL,2020-01-15T00:00:00.000,,160,patient@example.com,,20,91.6,231,84,0.008,156,105,5.3,7.4,95,68,137.6,Yes,Non-Anginal
+James Taylor,25,Other,Heart Disease,METFORMIN,,110/70,180,contact@domain.com,123-456-7890,21,96.7,395,105,0.031,109,100,5.2,8.2,127,78,141.4,No,Atypical Angina
+David Lee,70,Male,,ALBUTEROL,2020-01-15T00:00:00.000,,200,Unknown,,14,96.8,448,82,0.076,137,84,6.3,14,107,76,137.8,Yes,Typical Angina
+David Lee,70,Female,Hypertension,ALBUTEROL,,140/90,220,contact@domain.com,123-456-7890,21,97.7,393,84,0.02,156,108,5.7,8.3,161,106,147.3,No,Non-Anginal
+Sarah Johnson,70,Other,Heart Disease,ATORVASTATIN,,,180,name@hospital.org,Not Provided,16,93.4,453,85,0.077,79,110,5.3,17.4,114,78,137.7,No,Typical Angina
+Laura Martinez,35,Male,Diabetes,NONE,,140/90,200,patient@example.com,,16,95.3,554,80,0.006,145,141,7.2,18.2,131,70,137.1,No,Atypical Angina
+Emily Davis,35,Other,Hypertension,ATORVASTATIN,,140/90,160,name@hospital.org,Not Provided,18,95.2,334,97,0.016,116,86,5.8,9.2,154,83,157.1,No,Atypical Angina
+Laura Martinez,25,Other,,ATORVASTATIN,2020-01-15T00:00:00.000,130/85,180,Unknown,Not Provided,17,93.8,266,86,0.045,141,140,5.3,6.7,122,82,151.8,No,Typical Angina
+Emily Davis,35,Other,,NONE,,140/90,180,patient@example.com,098-765-4321,20,97,154,81,0.01,123,149,5.8,17.5,159,98,142.8,No,Non-Anginal
+Laura Martinez,35,Other,Diabetes,METFORMIN,,,180,name@hospital.org,,12,97.4,393,86,0.004,165,171,9.5,24.1,111,67,133.4,No,Non-Anginal
+James Taylor,35,Male,Diabetes,ATORVASTATIN,,130/85,180,Unknown,123-456-7890,17,96.7,417,80,0.011,127,175,9.1,13.6,119,67,138.7,No,Asymptomatic
+Robert Brown,25,Female,Hypertension,ATORVASTATIN,2020-01-15T00:00:00.000,130/85,180,name@hospital.org,123-456-7890,20,98.8,534,90,0.018,117,63,5,5.2,156,99,153,No,Typical Angina
+Robert Brown,35,Male,Asthma,ALBUTEROL,,140/90,180,Unknown,,24,91.2,265,76,0.02,152,102,5.3,13.8,107,67,139.9,Yes,Atypical Angina
+Jane Smith,25,Male,Diabetes,NONE,,110/70,180,Unknown,098-765-4321,19,95.7,367,71,0.008,165,202,9.7,26.8,143,97,139.8,No,Non-Anginal
+Mary Clark,25,Male,Asthma,LISINOPRIL,,110/70,180,patient@example.com,098-765-4321,22,90.7,262,88,0.001,187,81,5.5,9.7,101,62,138.7,Yes,Asymptomatic
+Robert Brown,25,Female,Heart Disease,METFORMIN,,130/85,200,contact@domain.com,098-765-4321,21,94.8,345,108,0.1,131,86,5.6,17.2,125,75,140.4,No,Typical Angina
+Robert Brown,60,Other,,METFORMIN,,140/90,180,Unknown,123-456-7890,33,97.3,445,69,0.057,131,87,9.3,9.8,131,80,137.4,No,Atypical Angina
+Michael Wilson,70,Other,Asthma,NONE,,110/70,180,Unknown,Not Provided,22,96.3,260,84,0.002,126,85,5.2,7.8,128,66,137.9,Yes,Non-Anginal
+Michael Wilson,25,Other,,ALBUTEROL,,140/90,180,patient@example.com,098-765-4321,12,91.1,311,79,0.008,121,125,5.9,25.8,133,72,135.7,No,Typical Angina
+Jane Smith,60,Female,Asthma,ALBUTEROL,,140/90,200,contact@domain.com,123-456-7890,18,94,225,79,0.004,138,95,5.2,9.8,116,66,146.6,Yes,Asymptomatic
+Mary Clark,35,Other,Heart Disease,NONE,,130/85,220,Unknown,123-456-7890,14,100,493,91,0.055,138,116,6,12,124,81,136.5,No,Typical Angina
+Sarah Johnson,35,Female,Diabetes,ALBUTEROL,,130/85,220,Unknown,Not Provided,18,95.6,411,79,0.016,150,140,6,31.9,122,71,139.7,No,Asymptomatic
+Michael Wilson,70,Other,Heart Disease,METFORMIN,,120/80,160,contact@domain.com,,16,91.4,371,92,0.073,114,83,6.3,12.8,127,89,134.8,No,Atypical Angina
+Sarah Johnson,35,Other,Diabetes,METFORMIN,,110/70,180,name@hospital.org,,14,96.6,405,60,0.007,126,135,6.7,22.6,136,92,137.8,No,Non-Anginal
+John Doe,70,Male,Diabetes,LISINOPRIL,,110/70,180,patient@example.com,098-765-4321,13,98.7,436,75,0.016,133,150,7.9,6.2,130,78,140.3,No,Typical Angina
+Michael Wilson,35,Female,,NONE,2020-01-15T00:00:00.000,110/70,200,contact@domain.com,098-765-4321,14,100,383,79,0.014,112,98,5.3,7.4,132,92,136.5,No,Non-Anginal
+James Taylor,70,Male,Heart Disease,ATORVASTATIN,,,220,Unknown,Not Provided,12,99.9,437,100,0.048,113,98,6.2,18.5,141,71,139.1,No,Typical Angina
+Mary Clark,35,Male,Asthma,ATORVASTATIN,,140/90,160,Unknown,098-765-4321,26,92.9,278,84,0.002,164,102,5.3,12.6,110,85,137.2,No,Non-Anginal
+Jane Smith,35,Male,Heart Disease,LISINOPRIL,,130/85,200,Unknown,Not Provided,16,96.7,413,79,0.115,125,103,6.2,4.5,140,94,138.6,No,Atypical Angina
+John Doe,35,Female,,LISINOPRIL,,110/70,180,Unknown,123-456-7890,14,93.3,425,71,0.016,141,105,5.1,7.8,115,75,143,No,Asymptomatic
+Mary Clark,35,Female,Diabetes,ALBUTEROL,,120/80,220,patient@example.com,098-765-4321,18,94.7,417,79,0.008,156,175,9.5,28.8,119,92,144.5,No,Asymptomatic
+James Taylor,35,Other,,LISINOPRIL,,110/70,160,Unknown,123-456-7890,16,97.4,292,87,0.055,164,106,7.5,9,143,76,149.3,No,Non-Anginal
+Mary Clark,25,Male,Hypertension,LISINOPRIL,,140/90,180,contact@domain.com,555-555-5555,19,99.5,382,95,0.015,115,92,4.9,7.2,164,108,146.4,No,Typical Angina
+James Taylor,35,Other,Hypertension,ATORVASTATIN,,140/90,220,Unknown,Not Provided,18,99.3,394,97,0.016,110,128,5.5,17.8,143,100,144.2,No,Atypical Angina
+James Taylor,60,Male,Asthma,ALBUTEROL,2020-01-15T00:00:00.000,130/85,160,name@hospital.org,555-555-5555,23,92.2,234,78,0.012,119,104,5.2,9.1,105,88,143.1,Yes,Typical Angina
+Sarah Johnson,35,Female,,LISINOPRIL,,,200,contact@domain.com,098-765-4321,22,92.3,388,67,0.017,133,97,8.8,9.7,129,91,140.7,Yes,Non-Anginal
+Laura Martinez,35,Female,Asthma,LISINOPRIL,,130/85,180,patient@example.com,123-456-7890,28,94.2,239,69,0.007,165,110,5.4,7.7,122,89,139.5,Yes,Asymptomatic
+John Doe,70,Female,Asthma,ALBUTEROL,,110/70,160,contact@domain.com,098-765-4321,30,92.6,217,94,0.016,139,115,5.6,10,100,81,141,Yes,Non-Anginal
+Mary Clark,25,Male,Hypertension,NONE,,120/80,160,name@hospital.org,555-555-5555,12,97.4,367,81,0.015,145,107,5.4,13.5,162,94,143.7,No,Typical Angina
+Emily Davis,70,Female,Asthma,ALBUTEROL,,130/85,180,patient@example.com,098-765-4321,24,92.7,226,82,0.017,143,93,5,4.5,119,88,143.8,Yes,Non-Anginal
+John Doe,25,Male,Hypertension,ATORVASTATIN,2020-01-15T00:00:00.000,,220,Unknown,,15,97.9,439,94,0.02,137,97,5.8,18,171,99,136.9,No,Asymptomatic
+Laura Martinez,25,Other,Diabetes,NONE,2020-01-15T00:00:00.000,130/85,180,name@hospital.org,555-555-5555,15,96.4,443,69,0.005,106,149,8.6,30.4,118,81,138.7,No,Non-Anginal
+John Doe,35,Male,,METFORMIN,,140/90,180,patient@example.com,098-765-4321,26,95.6,208,73,0.011,168,139,8.3,13.4,121,81,148.4,No,Typical Angina
+Robert Brown,35,Other,Asthma,ALBUTEROL,,110/70,160,Unknown,123-456-7890,28,93.6,206,64,0.008,166,80,5,14.2,135,75,138.6,Yes,Asymptomatic
+Emily Davis,35,Male,Hypertension,ATORVASTATIN,,110/70,180,contact@domain.com,098-765-4321,17,96.9,515,75,0.016,171,100,5.8,7.1,145,90,148.1,No,Asymptomatic
+Laura Martinez,35,Other,Heart Disease,NONE,,110/70,220,patient@example.com,123-456-7890,13,99.8,434,89,0.078,111,117,5.3,14.9,137,92,136.8,No,Typical Angina
+Sarah Johnson,70,Female,Asthma,ALBUTEROL,,110/70,180,contact@domain.com,,26,93.3,243,79,0,175,89,5.5,11.7,127,78,140.3,Yes,Asymptomatic
+Mary Clark,35,Other,Diabetes,LISINOPRIL,2020-01-15T00:00:00.000,110/70,200,Unknown,098-765-4321,22,94.1,430,75,0.016,157,188,8,24.3,142,88,139.6,No,Non-Anginal
+David Lee,70,Female,Diabetes,ALBUTEROL,2020-01-15T00:00:00.000,110/70,180,patient@example.com,,16,100,373,65,0.014,125,138,8.4,10.7,124,71,142.6,No,Non-Anginal
+Laura Martinez,35,Female,Heart Disease,METFORMIN,,120/80,180,Unknown,555-555-5555,12,98.4,467,90,0.075,80,83,5.5,5.5,145,86,145.7,No,Typical Angina
+Jane Smith,35,Other,Hypertension,ALBUTEROL,,,200,name@hospital.org,123-456-7890,18,100,453,96,0.021,126,105,6,6.7,163,109,146.9,No,Asymptomatic
+Mary Clark,35,Male,Asthma,NONE,,110/70,180,patient@example.com,555-555-5555,24,91,248,93,0.017,155,110,5.2,8.4,133,76,136.2,Yes,Asymptomatic
+Laura Martinez,35,Male,Hypertension,NONE,,,180,Unknown,123-456-7890,17,96.7,424,87,0.02,147,103,6.1,17.2,187,95,149.5,No,Typical Angina
+Robert Brown,70,Male,Diabetes,ALBUTEROL,,110/70,180,patient@example.com,,18,98,424,84,0.007,147,185,7.6,15.7,125,70,138.6,No,Asymptomatic
+David Lee,35,Male,Hypertension,NONE,,130/85,180,contact@domain.com,Not Provided,21,97.8,480,103,0.008,139,118,5.7,13.1,158,91,147.3,No,Typical Angina
+Robert Brown,70,Male,Diabetes,LISINOPRIL,,110/70,180,patient@example.com,098-765-4321,18,97.5,432,83,0.019,146,161,7.8,17.3,122,76,134.2,No,Asymptomatic
+David Lee,35,Female,Hypertension,ALBUTEROL,,140/90,160,Unknown,,17,93.7,426,88,0.001,158,98,6,11.9,176,90,148.4,No,Non-Anginal
+Jane Smith,35,Male,Heart Disease,LISINOPRIL,,120/80,180,patient@example.com,123-456-7890,20,93.1,459,79,0.071,99,104,5.2,10.2,162,75,141.3,No,Typical Angina
+Mary Clark,25,Female,,LISINOPRIL,,130/85,180,name@hospital.org,123-456-7890,15,97.6,525,69,0.017,128,104,5.8,11.3,115,91,142.9,Yes,Typical Angina
+Sarah Johnson,35,Female,Heart Disease,ATORVASTATIN,,130/85,200,patient@example.com,123-456-7890,16,99.5,383,119,0.104,130,95,5.1,8.2,114,95,137,No,Non-Anginal
+Robert Brown,35,Female,Heart Disease,ALBUTEROL,,140/90,200,contact@domain.com,123-456-7890,18,98.8,399,87,0.06,128,84,5.5,13.6,138,79,137.1,No,Typical Angina
+Robert Brown,70,Other,,NONE,,110/70,160,patient@example.com,098-765-4321,18,96.7,451,89,0.009,143,216,4.9,7.5,133,90,140.4,Yes,Non-Anginal
+James Taylor,35,Other,,LISINOPRIL,,120/80,180,Unknown,555-555-5555,21,97.9,409,80,0.007,119,91,5.2,10.3,144,64,154.7,Yes,Non-Anginal
+David Lee,35,Female,Asthma,ATORVASTATIN,,130/85,180,Unknown,Not Provided,24,87,224,61,0.007,168,81,5.9,6.7,121,67,139,Yes,Asymptomatic
+Michael Wilson,70,Other,Asthma,ALBUTEROL,,120/80,180,patient@example.com,098-765-4321,18,94.9,186,75,0.003,140,98,5,11.5,116,85,147.5,Yes,Non-Anginal
+Mary Clark,35,Male,Heart Disease,ALBUTEROL,,130/85,200,patient@example.com,123-456-7890,13,96.9,414,85,0.083,116,109,4.6,12.9,108,87,140.1,No,Typical Angina
+David Lee,35,Male,Heart Disease,METFORMIN,,110/70,160,name@hospital.org,098-765-4321,20,96.5,438,89,0.116,164,94,5.7,7.6,132,79,137.1,No,Typical Angina
+James Taylor,60,Female,Diabetes,METFORMIN,,130/85,200,Unknown,,14,96.4,496,77,0.006,153,205,7.4,30.9,113,81,137.1,No,Asymptomatic
+John Doe,25,Male,Diabetes,LISINOPRIL,,130/85,200,Unknown,123-456-7890,14,98.7,441,87,0,141,140,9.7,38.9,116,82,132.2,No,Non-Anginal
+David Lee,60,Female,Asthma,METFORMIN,,,160,contact@domain.com,Not Provided,24,95.6,169,82,0.017,110,107,5.2,5.7,107,82,144.8,Yes,Non-Anginal
+Sarah Johnson,35,Female,Asthma,LISINOPRIL,,110/70,180,patient@example.com,123-456-7890,26,91.8,256,83,0.019,175,98,5.5,8.9,115,81,144.8,Yes,Asymptomatic
+Mary Clark,35,Male,Diabetes,NONE,,140/90,180,Unknown,Not Provided,13,97.6,426,68,0,125,128,10.1,23.7,126,69,136,No,Asymptomatic
+James Taylor,35,Other,Diabetes,LISINOPRIL,,140/90,180,contact@domain.com,Not Provided,10,95.5,515,70,0.015,131,217,7.3,39.2,129,60,138.3,No,Typical Angina
+John Doe,70,Male,Hypertension,METFORMIN,,110/70,220,Unknown,555-555-5555,14,94.9,509,100,0.016,134,95,5.4,7.1,148,90,148.4,No,Asymptomatic
+Emily Davis,35,Male,Hypertension,NONE,,140/90,220,Unknown,555-555-5555,21,96.1,511,75,0.008,164,114,5.6,6.2,170,98,144.2,No,Non-Anginal
+James Taylor,60,Female,Diabetes,METFORMIN,,110/70,220,Unknown,098-765-4321,17,98.3,409,93,0.004,161,166,10.3,13.4,124,88,133.7,No,Atypical Angina
+Emily Davis,60,Female,Hypertension,LISINOPRIL,,140/90,160,contact@domain.com,098-765-4321,21,98.4,539,80,0.021,137,104,5.3,14.9,146,101,147.2,No,Atypical Angina
+Mary Clark,60,Female,,ATORVASTATIN,,,200,Unknown,Not Provided,13,97.8,256,82,0.011,145,111,5.3,7.7,159,82,139,Yes,Non-Anginal
+Robert Brown,35,Female,Asthma,ALBUTEROL,,140/90,180,Unknown,123-456-7890,25,96.2,188,83,0,168,105,5.1,11.1,117,78,136.4,Yes,Asymptomatic
+James Taylor,35,Other,Asthma,METFORMIN,,130/85,180,Unknown,,26,90.3,145,76,0.011,162,71,5.3,13.8,117,72,136.5,Yes,Non-Anginal
+Jane Smith,35,Other,Diabetes,LISINOPRIL,,110/70,220,Unknown,,19,97.3,457,93,0.02,162,180,8.3,22.5,115,72,136.5,No,Atypical Angina
+Emily Davis,70,Other,Heart Disease,NONE,2020-01-15T00:00:00.000,120/80,180,Unknown,123-456-7890,17,96.8,471,97,0.047,110,92,5.6,7,118,68,143.3,No,Typical Angina
+Sarah Johnson,35,Female,Diabetes,METFORMIN,,120/80,220,name@hospital.org,123-456-7890,14,96.1,418,79,0.006,122,191,8.2,33.1,134,86,143.3,No,Non-Anginal
+Jane Smith,35,Female,Hypertension,METFORMIN,,110/70,220,contact@domain.com,555-555-5555,16,97.5,415,62,0.008,150,87,5.8,9,156,100,152.1,No,Atypical Angina
+Laura Martinez,70,Female,Heart Disease,ALBUTEROL,,,180,Unknown,,16,99.6,430,95,0.043,136,129,4.8,9.6,153,76,143.2,No,Typical Angina
+Laura Martinez,60,Other,Hypertension,LISINOPRIL,2020-01-15T00:00:00.000,140/90,160,Unknown,Not Provided,14,96,517,93,0.011,167,105,5.6,4.3,147,98,154.6,No,Non-Anginal
+John Doe,25,Female,,ATORVASTATIN,,,200,contact@domain.com,098-765-4321,28,93.2,427,111,0.018,130,103,6,8.2,139,88,145.3,No,Asymptomatic
+Robert Brown,35,Male,Hypertension,NONE,2020-01-15T00:00:00.000,120/80,160,contact@domain.com,555-555-5555,21,94.6,497,86,0.012,147,110,6.4,7.8,150,104,151.1,No,Non-Anginal
+Mary Clark,35,Male,,LISINOPRIL,2020-01-15T00:00:00.000,110/70,180,contact@domain.com,,14,97.4,457,84,0.099,130,165,5.6,12.2,135,83,138.5,Yes,Atypical Angina
+James Taylor,35,Female,,NONE,,110/70,160,contact@domain.com,123-456-7890,26,92.8,415,95,0.013,118,82,5.2,19.9,150,81,152.2,No,Atypical Angina
+Michael Wilson,35,Male,Hypertension,METFORMIN,,,180,patient@example.com,,16,94.2,418,86,0.016,156,93,5.8,13.7,175,98,148.8,No,Atypical Angina
+Sarah Johnson,35,Male,Hypertension,ALBUTEROL,2020-01-15T00:00:00.000,,180,Unknown,Not Provided,14,97.3,425,81,0.013,157,89,5.3,16.7,144,97,150.6,No,Asymptomatic
+Emily Davis,35,Other,,ALBUTEROL,,140/90,200,patient@example.com,555-555-5555,22,96.8,470,105,0.021,172,177,5,10.3,128,83,139,Yes,Asymptomatic
+Mary Clark,60,Female,Heart Disease,ATORVASTATIN,,130/85,180,Unknown,123-456-7890,18,93.3,476,101,0.015,132,104,5.8,2.4,107,79,140.6,No,Typical Angina
+Jane Smith,60,Female,,ALBUTEROL,2020-01-15T00:00:00.000,130/85,200,Unknown,Not Provided,18,96.2,425,88,0.019,143,96,6.1,12.3,127,73,136.1,Yes,Atypical Angina
+Laura Martinez,70,Other,Asthma,METFORMIN,2020-01-15T00:00:00.000,140/90,160,Unknown,098-765-4321,24,91.9,259,80,0.007,124,106,5.9,8.3,128,76,140.4,Yes,Asymptomatic
+Sarah Johnson,25,Male,,ATORVASTATIN,,130/85,180,Unknown,555-555-5555,23,97.6,260,75,0,137,111,5.3,12.8,113,68,142.3,No,Non-Anginal
+Michael Wilson,35,Male,Heart Disease,LISINOPRIL,,120/80,220,contact@domain.com,Not Provided,14,95.8,410,101,0.07,114,102,5.5,10,143,90,140.7,No,Typical Angina
+James Taylor,25,Female,Asthma,ALBUTEROL,2020-01-15T00:00:00.000,130/85,220,patient@example.com,Not Provided,23,90,229,75,0.006,168,120,5.2,12.1,124,94,143,Yes,Asymptomatic
+John Doe,70,Male,Diabetes,ATORVASTATIN,2020-01-15T00:00:00.000,140/90,180,contact@domain.com,123-456-7890,14,95.9,511,86,0.016,126,153,9.2,16,122,81,142.3,No,Asymptomatic
+Michael Wilson,60,Other,Diabetes,METFORMIN,,130/85,200,Unknown,098-765-4321,16,96.3,423,79,0.013,155,179,9.8,8.6,121,93,144.4,No,Non-Anginal
+Sarah Johnson,35,Other,Heart Disease,NONE,,110/70,180,patient@example.com,Not Provided,16,95.1,377,68,0.052,109,101,5.7,16.1,123,96,143.5,No,Non-Anginal
+Michael Wilson,60,Female,,NONE,2020-01-15T00:00:00.000,,200,contact@domain.com,555-555-5555,21,96,444,76,0.005,133,99,5.4,11.8,127,88,137,No,Asymptomatic
+Sarah Johnson,35,Other,Hypertension,METFORMIN,,120/80,180,Unknown,Not Provided,13,94,411,90,0.018,121,79,5.8,16.4,148,127,145.6,No,Asymptomatic
+Sarah Johnson,60,Other,Heart Disease,METFORMIN,2020-01-15T00:00:00.000,110/70,180,contact@domain.com,,18,97.8,501,93,0.076,116,106,5.5,5,138,82,141.2,No,Asymptomatic
+David Lee,35,Female,Asthma,NONE,,110/70,180,Unknown,555-555-5555,25,90.8,289,78,0,139,70,5.5,4.6,119,77,141.1,Yes,Non-Anginal
+Emily Davis,35,Other,Asthma,ATORVASTATIN,,140/90,160,patient@example.com,555-555-5555,23,93.6,260,90,0.007,146,89,5.4,8.9,110,69,137.5,Yes,Non-Anginal
+Laura Martinez,35,Other,Diabetes,NONE,,,160,Unknown,Not Provided,15,97.4,377,72,0.014,124,114,9.1,21.5,115,79,135.5,No,Asymptomatic
+David Lee,70,Other,Asthma,METFORMIN,2020-01-15T00:00:00.000,,180,patient@example.com,123-456-7890,23,96.5,208,65,0.008,167,98,5.1,8.3,104,70,140.8,Yes,Asymptomatic
+James Taylor,35,Male,Heart Disease,ALBUTEROL,,120/80,160,Unknown,555-555-5555,18,93.9,373,94,0,140,99,5.6,20.3,121,80,139.5,No,Asymptomatic
+David Lee,35,Female,Asthma,LISINOPRIL,,140/90,220,patient@example.com,,18,86.9,139,75,0.018,115,84,5,8.4,132,101,146.5,Yes,Atypical Angina
+Robert Brown,35,Female,Heart Disease,ALBUTEROL,,120/80,160,Unknown,123-456-7890,20,96.9,499,85,0.08,138,115,6,8.3,130,82,140.1,No,Atypical Angina
+Robert Brown,25,Female,Hypertension,ALBUTEROL,,130/85,160,Unknown,123-456-7890,16,99.7,412,80,0.017,126,89,5.3,10.5,149,94,155.3,No,Typical Angina
+Laura Martinez,35,Male,Diabetes,METFORMIN,,110/70,160,name@hospital.org,123-456-7890,16,98.9,421,82,0.009,163,77,9.8,28.8,136,78,135.5,No,Non-Anginal
+Michael Wilson,25,Male,Asthma,NONE,,120/80,220,patient@example.com,555-555-5555,25,94,307,80,0.013,149,97,5.2,7,111,75,135.3,Yes,Atypical Angina
+Emily Davis,35,Female,Heart Disease,ATORVASTATIN,,110/70,160,patient@example.com,123-456-7890,15,95.5,404,99,0.13,122,77,5.6,9.9,129,89,136.6,No,Typical Angina
+Laura Martinez,35,Male,,ALBUTEROL,2020-01-15T00:00:00.000,140/90,220,contact@domain.com,Not Provided,19,93.4,482,79,0.02,167,89,5.5,22.7,109,92,146.9,No,Typical Angina
+Sarah Johnson,60,Female,Diabetes,NONE,,130/85,180,Unknown,123-456-7890,15,96.7,501,72,0.01,156,146,7.5,26.1,123,74,140.2,No,Asymptomatic
+Jane Smith,35,Male,Hypertension,ATORVASTATIN,,140/90,200,name@hospital.org,,17,95.4,490,74,0.019,149,102,6,13.2,160,104,149.3,No,Atypical Angina
+Emily Davis,35,Other,Heart Disease,ALBUTEROL,,130/85,180,Unknown,098-765-4321,13,94.5,399,82,0.078,83,91,6,10.3,125,84,137.9,No,Typical Angina
+Emily Davis,35,Other,Hypertension,ATORVASTATIN,2020-01-15T00:00:00.000,130/85,200,contact@domain.com,,17,95.5,398,84,0.03,113,103,5.9,10,136,99,153.6,No,Atypical Angina
+Sarah Johnson,35,Female,Hypertension,NONE,,110/70,180,name@hospital.org,555-555-5555,20,97.3,418,101,0.008,126,94,4.6,12,137,107,146.9,No,Atypical Angina
+Sarah Johnson,35,Male,Asthma,LISINOPRIL,,140/90,200,Unknown,123-456-7890,22,94,269,93,0.007,139,98,5.3,11.3,122,69,140.2,Yes,Asymptomatic
+John Doe,70,Male,Asthma,NONE,2020-01-15T00:00:00.000,140/90,200,name@hospital.org,123-456-7890,27,94.4,217,87,0.001,165,89,5.5,5.9,126,93,134.1,No,Non-Anginal
+Laura Martinez,35,Other,Heart Disease,METFORMIN,,120/80,180,patient@example.com,Not Provided,18,94.3,423,103,0.042,108,113,5.3,11.4,132,77,136,No,Typical Angina
+Sarah Johnson,35,Other,,ATORVASTATIN,2020-01-15T00:00:00.000,140/90,200,patient@example.com,123-456-7890,19,95.9,252,77,0.016,159,106,8.8,10.6,164,98,143.4,Yes,Asymptomatic
+Robert Brown,35,Male,Heart Disease,LISINOPRIL,,120/80,200,contact@domain.com,,13,97.2,457,94,0.104,128,119,6,11.2,143,76,137.3,No,Atypical Angina
+James Taylor,35,Male,,ATORVASTATIN,,,180,Unknown,555-555-5555,27,95.6,410,89,0.012,158,120,5.3,40.2,128,87,141.4,No,Non-Anginal
+Jane Smith,70,Male,Hypertension,ATORVASTATIN,,,160,Unknown,098-765-4321,18,96,409,91,0.002,168,106,5.3,14.5,146,96,145.6,Yes,Non-Anginal
+Laura Martinez,60,Male,Diabetes,ALBUTEROL,,,160,name@hospital.org,123-456-7890,17,94.7,364,78,0.012,143,126,9.8,21.5,122,87,136.3,No,Asymptomatic
+Mary Clark,35,Male,Heart Disease,METFORMIN,,140/90,180,contact@domain.com,098-765-4321,16,97.9,392,95,0.05,132,110,5,6.2,142,83,139.9,No,Typical Angina
+Robert Brown,35,Male,Heart Disease,ATORVASTATIN,,140/90,220,Unknown,123-456-7890,22,98.4,487,112,0.093,130,123,5.2,10.4,140,79,140.2,No,Asymptomatic
+Michael Wilson,60,Female,,NONE,2020-01-15T00:00:00.000,120/80,200,patient@example.com,555-555-5555,18,95.8,445,52,0.008,170,105,5.5,7.9,123,100,141,No,Asymptomatic
+Sarah Johnson,35,Male,Hypertension,NONE,,130/85,200,name@hospital.org,,16,97.2,402,88,0.02,117,105,6.3,11.2,173,77,148.6,No,Non-Anginal
+Mary Clark,60,Other,Hypertension,ALBUTEROL,,120/80,180,Unknown,555-555-5555,15,98.2,449,84,0.01,132,107,5.7,7.8,164,103,150,No,Non-Anginal
+Sarah Johnson,25,Female,,METFORMIN,,,180,patient@example.com,098-765-4321,15,91.6,426,84,0.055,143,136,5.9,8.7,147,102,136.6,Yes,Non-Anginal
+Emily Davis,35,Male,Hypertension,METFORMIN,,120/80,220,contact@domain.com,123-456-7890,18,97.3,433,89,0.006,147,121,6,6.3,155,89,141.6,No,Typical Angina
+Robert Brown,35,Other,Asthma,NONE,,130/85,160,Unknown,098-765-4321,26,91.2,208,96,0.01,159,99,5.7,9.2,115,81,142.5,Yes,Non-Anginal
+Emily Davis,35,Female,Diabetes,LISINOPRIL,,140/90,180,patient@example.com,,13,97.3,526,74,0.013,162,155,8.3,12,145,89,139.8,No,Asymptomatic
+John Doe,70,Other,Heart Disease,ALBUTEROL,,120/80,160,Unknown,555-555-5555,25,98.6,453,109,0.068,112,95,5.1,4.4,135,81,141.2,No,Typical Angina
+Emily Davis,35,Male,Diabetes,ALBUTEROL,,,200,Unknown,098-765-4321,13,94.2,442,93,0,137,100,8.7,3.9,124,87,135.8,No,Non-Anginal
+John Doe,35,Male,Heart Disease,NONE,,,180,contact@domain.com,098-765-4321,17,94.1,369,92,0.1,123,88,6.4,2,102,85,138.7,No,Atypical Angina
+John Doe,70,Male,Asthma,NONE,,140/90,220,patient@example.com,,23,93.9,188,74,0.007,162,88,4.9,11.8,112,82,135,Yes,Asymptomatic
+Mary Clark,70,Male,Hypertension,LISINOPRIL,2020-01-15T00:00:00.000,120/80,160,name@hospital.org,123-456-7890,13,97.7,413,80,0.023,139,102,5.4,8.2,145,96,144.6,No,Typical Angina
+Sarah Johnson,35,Female,,LISINOPRIL,,130/85,220,patient@example.com,098-765-4321,19,93.4,401,76,0.012,115,91,4.9,10.4,127,74,133.3,No,Non-Anginal
+Michael Wilson,60,Female,Asthma,METFORMIN,,140/90,160,Unknown,,29,97.9,208,77,0.013,183,92,5.3,9.7,121,74,141.1,Yes,Asymptomatic
+Emily Davis,60,Other,Diabetes,ALBUTEROL,,120/80,200,contact@domain.com,123-456-7890,16,99.4,434,77,0.019,153,129,8.3,19.3,156,81,139.1,No,Atypical Angina
+Robert Brown,70,Male,,ALBUTEROL,,110/70,180,contact@domain.com,123-456-7890,19,95,200,84,0.05,138,86,5,8.5,147,74,138.1,No,Asymptomatic
+John Doe,60,Other,Hypertension,NONE,,,220,name@hospital.org,555-555-5555,22,95.7,351,93,0.009,171,96,6.2,10.4,145,96,155.1,No,Atypical Angina
+Sarah Johnson,25,Female,Asthma,METFORMIN,,130/85,220,contact@domain.com,,29,94.4,279,74,0.015,146,98,5.4,8.1,122,86,137.3,Yes,Non-Anginal
+Jane Smith,70,Male,,ALBUTEROL,,130/85,180,contact@domain.com,123-456-7890,13,95.6,477,80,0.01,120,104,5.6,9.3,128,71,149.5,No,Typical Angina
+Laura Martinez,70,Male,Asthma,METFORMIN,2020-01-15T00:00:00.000,130/85,220,contact@domain.com,555-555-5555,23,96.2,205,86,0.014,147,89,5.4,12,121,85,140,No,Asymptomatic
+Mary Clark,35,Female,Asthma,METFORMIN,2020-01-15T00:00:00.000,,220,contact@domain.com,Not Provided,21,93.7,240,99,0.012,151,85,5.2,8.9,127,89,140.4,Yes,Non-Anginal
+Michael Wilson,60,Female,Hypertension,NONE,,120/80,160,contact@domain.com,,17,97.3,394,77,0.021,141,83,6.5,9.1,147,93,145.4,No,Atypical Angina
+David Lee,70,Female,Heart Disease,METFORMIN,,140/90,160,Unknown,Not Provided,12,95.3,324,100,0.086,115,102,5.5,10.6,122,92,142.9,No,Non-Anginal
+Mary Clark,25,Female,,LISINOPRIL,,120/80,180,patient@example.com,123-456-7890,19,96.5,393,62,0.003,142,185,6,9.8,109,76,137.7,No,Typical Angina
+Jane Smith,35,Female,Hypertension,LISINOPRIL,,140/90,200,Unknown,,18,97,458,81,0.018,148,103,6.7,7.8,160,100,153.2,No,Asymptomatic
+Laura Martinez,35,Male,Asthma,ATORVASTATIN,,130/85,220,contact@domain.com,555-555-5555,24,91.4,323,79,0.008,130,86,5.7,5.1,113,86,137.8,Yes,Asymptomatic
+Jane Smith,70,Female,Hypertension,NONE,,120/80,200,Unknown,123-456-7890,17,98.5,394,79,0.034,155,76,6.1,12.9,135,93,147.4,Yes,Asymptomatic
+Emily Davis,25,Male,Heart Disease,ATORVASTATIN,,130/85,180,Unknown,,13,95.9,395,89,0.124,115,75,6,3.2,144,102,141.6,No,Atypical Angina
+John Doe,35,Male,,LISINOPRIL,,110/70,180,Unknown,,16,94.8,213,110,0.031,140,71,8.6,15.2,126,94,137.7,No,Typical Angina
+Michael Wilson,25,Female,Heart Disease,ATORVASTATIN,,130/85,160,contact@domain.com,Not Provided,10,96.1,455,89,0.037,117,100,5.2,11,110,70,135.3,No,Typical Angina
+James Taylor,25,Female,Diabetes,NONE,2020-01-15T00:00:00.000,130/85,220,Unknown,123-456-7890,12,94.9,415,74,0.007,138,216,10.2,20.6,121,86,139.4,No,Asymptomatic
+John Doe,35,Male,,NONE,,140/90,180,contact@domain.com,555-555-5555,27,94.9,392,68,0.012,91,94,5,11.6,126,90,145.5,No,Asymptomatic
+James Taylor,35,Female,Heart Disease,METFORMIN,,110/70,180,name@hospital.org,555-555-5555,18,95.9,376,95,0.064,114,92,4.8,17,131,72,141.6,No,Typical Angina
+Laura Martinez,35,Female,Asthma,ALBUTEROL,,130/85,220,name@hospital.org,123-456-7890,26,94.2,229,78,0.018,143,83,5.2,8,131,75,139.6,Yes,Asymptomatic
+Sarah Johnson,60,Female,,METFORMIN,,130/85,200,name@hospital.org,123-456-7890,15,94.2,516,61,0.083,166,152,5,8.1,123,84,139.8,Yes,Atypical Angina
+David Lee,60,Other,,NONE,,110/70,160,Unknown,098-765-4321,23,97.5,201,91,0.024,167,98,9.1,10,137,113,136.4,No,Asymptomatic
+Robert Brown,25,Male,Hypertension,LISINOPRIL,2020-01-15T00:00:00.000,110/70,200,name@hospital.org,Not Provided,16,98.4,359,73,0.008,147,113,4.8,12.4,170,114,146.4,No,Asymptomatic
+John Doe,35,Other,Asthma,LISINOPRIL,,120/80,180,Unknown,123-456-7890,24,92.8,184,86,0.018,119,104,5.8,13.6,111,75,135.5,Yes,Asymptomatic
+Michael Wilson,35,Female,Diabetes,METFORMIN,,140/90,180,Unknown,123-456-7890,12,98.3,399,71,0.003,152,150,7.5,11.3,141,67,138.6,No,Asymptomatic
+Jane Smith,60,Other,Heart Disease,NONE,,110/70,200,Unknown,098-765-4321,17,99.1,410,105,0.119,150,101,5.5,11.5,130,84,136.9,No,Non-Anginal
+Michael Wilson,35,Female,Hypertension,LISINOPRIL,,110/70,180,contact@domain.com,098-765-4321,21,98,447,79,0.022,161,102,5.3,10.4,150,102,148.3,No,Atypical Angina
+Laura Martinez,35,Other,Heart Disease,NONE,,,220,patient@example.com,,15,98,386,92,0.066,112,64,6.2,10.9,124,82,136.7,No,Non-Anginal
+James Taylor,35,Female,Diabetes,LISINOPRIL,,110/70,180,contact@domain.com,555-555-5555,19,96.9,455,78,0.008,156,123,8.1,25.4,138,84,140.1,No,Asymptomatic
+Jane Smith,70,Other,Diabetes,NONE,,140/90,160,contact@domain.com,Not Provided,16,96.3,460,66,0.017,153,188,9.2,22.2,129,91,144,No,Asymptomatic
+Robert Brown,70,Other,,ATORVASTATIN,,130/85,220,contact@domain.com,,14,98.9,484,83,0.016,147,132,5.6,11.1,125,99,135.5,No,Non-Anginal
+Robert Brown,35,Other,Diabetes,NONE,,130/85,180,contact@domain.com,123-456-7890,15,98.2,469,82,0.014,150,148,10.4,20.9,95,83,142.9,No,Typical Angina
+John Doe,60,Male,Heart Disease,NONE,,130/85,180,patient@example.com,098-765-4321,22,98.7,369,108,0.069,156,92,5.3,8.9,144,96,142.8,No,Atypical Angina
+Laura Martinez,35,Other,Asthma,METFORMIN,,130/85,180,name@hospital.org,555-555-5555,26,90.5,225,82,0.008,125,113,5.2,4.7,134,79,135.4,No,Asymptomatic
+Sarah Johnson,35,Male,Asthma,ATORVASTATIN,,,160,contact@domain.com,,22,96.9,205,96,0.015,151,64,5.7,13,125,83,139,Yes,Non-Anginal
+Laura Martinez,70,Female,,ALBUTEROL,,110/70,160,Unknown,555-555-5555,17,95,503,84,0.015,158,157,6.3,7.4,136,72,136.4,Yes,Atypical Angina
+James Taylor,25,Other,Heart Disease,METFORMIN,,130/85,200,Unknown,098-765-4321,18,94.9,427,85,0.045,119,125,5.8,7.9,117,72,139.5,No,Atypical Angina
+Michael Wilson,25,Female,Heart Disease,ALBUTEROL,,120/80,200,Unknown,,17,96.8,404,93,0.099,135,90,5.9,15.1,119,77,142.5,Yes,Typical Angina
+Robert Brown,60,Female,Diabetes,LISINOPRIL,2020-01-15T00:00:00.000,130/85,200,Unknown,,20,97.2,383,83,0.027,140,163,9.3,28,118,65,143.6,No,Non-Anginal
+Michael Wilson,35,Other,Heart Disease,ALBUTEROL,2020-01-15T00:00:00.000,110/70,160,contact@domain.com,555-555-5555,21,95.9,431,79,0.05,127,103,5.3,9.4,132,85,137.4,No,Typical Angina
+Michael Wilson,35,Male,Hypertension,NONE,2020-01-15T00:00:00.000,130/85,200,patient@example.com,098-765-4321,12,97.8,405,76,0.024,153,92,5.8,16.8,150,107,151,No,Asymptomatic
+Michael Wilson,35,Other,Diabetes,ALBUTEROL,,,200,name@hospital.org,123-456-7890,18,97.9,383,81,0.014,138,166,8.5,10.5,89,69,137.8,No,Asymptomatic
+Robert Brown,25,Female,Hypertension,METFORMIN,,140/90,180,Unknown,,21,95.6,432,93,0.014,130,111,5.6,9.2,141,100,139.1,No,Typical Angina
+Mary Clark,25,Female,,METFORMIN,,140/90,200,name@hospital.org,123-456-7890,17,96.7,528,120,0.065,171,86,7.7,11.1,122,77,141.4,Yes,Asymptomatic
+Emily Davis,70,Other,Asthma,ALBUTEROL,,110/70,180,patient@example.com,098-765-4321,24,93,227,88,0.009,158,91,5.8,9.4,130,80,142.8,Yes,Asymptomatic
+James Taylor,35,Male,,METFORMIN,,140/90,160,Unknown,,20,91.3,330,79,0.116,170,84,4.9,14.5,146,86,148,No,Typical Angina
+Mary Clark,35,Male,Asthma,METFORMIN,,140/90,220,name@hospital.org,,24,91.6,164,87,0.01,126,83,5.8,11.5,120,76,137.5,Yes,Non-Anginal
+James Taylor,25,Female,,ALBUTEROL,2020-01-15T00:00:00.000,120/80,180,patient@example.com,123-456-7890,20,98.8,316,92,0.013,117,91,5.8,9.2,156,79,137,No,Non-Anginal
+Jane Smith,35,Female,Heart Disease,ATORVASTATIN,,110/70,160,name@hospital.org,Not Provided,22,96.3,469,117,0.082,122,110,5.8,11,155,79,141,No,Typical Angina
+Laura Martinez,60,Male,Hypertension,ATORVASTATIN,2020-01-15T00:00:00.000,110/70,160,contact@domain.com,123-456-7890,18,97,326,85,0.006,167,81,5.4,12.5,174,108,153.8,No,Asymptomatic
+Laura Martinez,60,Other,Asthma,LISINOPRIL,,140/90,180,patient@example.com,123-456-7890,22,94.7,223,89,0.017,133,94,5.7,13.7,119,75,141.3,Yes,Non-Anginal
+David Lee,35,Female,Diabetes,METFORMIN,,140/90,200,name@hospital.org,Not Provided,15,96.9,464,70,0.013,177,175,6.9,9.1,129,80,138.7,No,Atypical Angina
+Laura Martinez,60,Male,Hypertension,ALBUTEROL,,140/90,180,contact@domain.com,098-765-4321,16,100,440,66,0.015,157,99,5.4,9,139,103,153.9,No,Asymptomatic
+Robert Brown,25,Female,Diabetes,METFORMIN,,,200,contact@domain.com,098-765-4321,17,97.3,463,67,0.012,132,140,8.3,24.6,121,72,141.2,No,Atypical Angina
+Sarah Johnson,25,Other,Hypertension,NONE,,130/85,200,patient@example.com,,19,98.6,442,81,0.01,129,112,5.7,12.3,164,105,153.2,No,Asymptomatic
+John Doe,35,Male,Hypertension,METFORMIN,,,160,Unknown,555-555-5555,15,95.9,500,62,0.016,131,95,4.8,10,137,114,143.2,No,Typical Angina
+David Lee,35,Female,,METFORMIN,,110/70,200,Unknown,555-555-5555,17,96.3,461,81,0.012,149,101,5.8,10.5,129,97,132.1,Yes,Atypical Angina
+John Doe,70,Other,Asthma,ATORVASTATIN,,120/80,180,patient@example.com,,17,92.8,349,96,0.004,148,89,5.4,9.9,104,75,139.9,Yes,Non-Anginal
+James Taylor,35,Female,Asthma,ALBUTEROL,,130/85,180,contact@domain.com,555-555-5555,21,94,231,81,0.003,145,102,4.6,8.3,102,76,143.6,Yes,Atypical Angina
+John Doe,35,Other,Hypertension,METFORMIN,,120/80,180,contact@domain.com,123-456-7890,17,98.6,339,97,0.016,131,120,5.6,14,159,113,148.5,No,Non-Anginal
+John Doe,60,Other,Heart Disease,ATORVASTATIN,,110/70,160,patient@example.com,123-456-7890,13,96.1,353,109,0.053,165,90,5.7,9.3,130,86,144.1,No,Typical Angina
+David Lee,35,Male,Heart Disease,LISINOPRIL,2020-01-15T00:00:00.000,110/70,180,Unknown,Not Provided,16,95.1,428,103,0.073,135,87,5.1,10.4,125,98,138.6,No,Atypical Angina
+Jane Smith,35,Other,Diabetes,ATORVASTATIN,,120/80,220,Unknown,Not Provided,13,95.3,505,75,0.022,130,147,8.3,13.8,132,89,138.5,No,Asymptomatic
+Michael Wilson,70,Female,Diabetes,ATORVASTATIN,,120/80,200,name@hospital.org,,15,96.3,475,87,0.021,193,174,7.2,2.6,141,79,142.7,No,Typical Angina
+Laura Martinez,35,Other,,ATORVASTATIN,2020-01-15T00:00:00.000,120/80,220,patient@example.com,,19,97.2,472,74,0.015,133,100,5.7,20.5,139,78,143.1,No,Asymptomatic
+Laura Martinez,25,Other,Hypertension,METFORMIN,,110/70,180,Unknown,,17,99.3,408,84,0.009,143,94,5.5,11.8,152,99,142.9,No,Atypical Angina
+Robert Brown,60,Male,Diabetes,METFORMIN,,140/90,180,Unknown,123-456-7890,18,95.1,415,92,0.015,155,201,8.6,10.4,103,77,142.3,No,Atypical Angina
+David Lee,35,Other,Diabetes,LISINOPRIL,,120/80,160,contact@domain.com,555-555-5555,18,94.8,489,83,0.01,146,199,7.5,24.1,120,78,142.1,No,Asymptomatic
+Robert Brown,35,Other,Hypertension,NONE,,130/85,180,name@hospital.org,,11,97.2,480,87,0.009,109,123,5,12.6,157,90,144.2,Yes,Non-Anginal
+Sarah Johnson,60,Female,,NONE,2020-01-15T00:00:00.000,110/70,180,patient@example.com,,14,97.1,523,91,0.012,127,92,5.9,12.6,133,81,154.4,No,Atypical Angina
+Sarah Johnson,25,Male,Diabetes,NONE,,,180,contact@domain.com,123-456-7890,16,97.8,478,75,0.019,118,120,8.6,29.1,117,80,139,No,Atypical Angina
+Robert Brown,35,Male,,LISINOPRIL,,,160,contact@domain.com,123-456-7890,22,99.9,238,95,0.088,98,104,5.5,14.1,136,59,137.7,Yes,Asymptomatic
+David Lee,70,Male,Asthma,NONE,,130/85,160,Unknown,123-456-7890,25,95,302,76,0.008,159,77,5.5,9.9,119,75,138.2,Yes,Asymptomatic
+Robert Brown,60,Other,,NONE,,140/90,200,Unknown,555-555-5555,20,98,468,92,0.125,120,80,5.3,10.6,175,81,140.8,Yes,Typical Angina
+Laura Martinez,60,Male,Heart Disease,ATORVASTATIN,2020-01-15T00:00:00.000,120/80,180,patient@example.com,,17,95.6,472,79,0.043,116,112,5.3,14.1,115,75,139.7,No,Typical Angina
+Mary Clark,35,Other,Heart Disease,METFORMIN,,110/70,180,patient@example.com,098-765-4321,16,95.7,361,95,0.083,111,95,5.8,12.6,161,74,137.8,No,Non-Anginal
+Emily Davis,60,Other,,METFORMIN,2020-01-15T00:00:00.000,120/80,220,patient@example.com,098-765-4321,12,96.8,288,69,0.014,129,88,5.5,15.8,125,76,147.3,No,Non-Anginal
+John Doe,25,Female,Heart Disease,ATORVASTATIN,,110/70,180,contact@domain.com,,15,93.2,448,97,0,109,112,5.9,10.5,131,79,142.5,Yes,Typical Angina
+Emily Davis,25,Female,Asthma,ATORVASTATIN,2020-01-15T00:00:00.000,,200,Unknown,,27,93.1,227,70,0.017,173,91,5.5,11,115,91,139.3,No,Non-Anginal
+David Lee,35,Female,Hypertension,ATORVASTATIN,,120/80,160,name@hospital.org,,18,99.5,314,74,0.008,142,94,5.3,6.3,152,90,148.9,No,Atypical Angina
+Emily Davis,70,Female,Heart Disease,METFORMIN,,130/85,180,contact@domain.com,,19,96.5,419,91,0.087,113,113,5,5.9,129,63,143.4,No,Typical Angina
+Sarah Johnson,35,Female,Heart Disease,NONE,2020-01-15T00:00:00.000,140/90,180,name@hospital.org,555-555-5555,13,97,459,81,0.086,130,87,5.4,5.4,131,76,142.4,No,Non-Anginal
+James Taylor,35,Other,,ATORVASTATIN,,130/85,220,Unknown,098-765-4321,16,99.2,434,96,0.023,134,85,5.7,6.6,141,90,149.7,No,Atypical Angina
+John Doe,35,Other,Asthma,LISINOPRIL,2020-01-15T00:00:00.000,140/90,200,Unknown,Not Provided,26,94.2,226,78,0.004,183,87,5.4,10.7,102,79,144.1,Yes,Non-Anginal
+Michael Wilson,60,Male,Hypertension,ATORVASTATIN,,120/80,200,patient@example.com,098-765-4321,16,98,454,80,0.006,116,99,5.5,11,145,118,141.9,No,Asymptomatic
+David Lee,35,Other,,ALBUTEROL,,120/80,180,name@hospital.org,098-765-4321,21,95.7,461,92,0.02,91,177,5.3,4.5,137,68,135.7,Yes,Non-Anginal
+John Doe,35,Other,,ATORVASTATIN,,140/90,220,contact@domain.com,123-456-7890,13,94.2,468,91,0.023,178,85,5.5,2,126,93,139.7,No,Non-Anginal
+Emily Davis,35,Female,Asthma,METFORMIN,,,200,name@hospital.org,,29,91.4,290,70,0.017,172,91,5.3,9.2,125,76,143,No,Non-Anginal
+Sarah Johnson,70,Other,Hypertension,ATORVASTATIN,,110/70,180,Unknown,,10,97,427,69,0.018,129,64,5.4,15.9,152,98,153.4,No,Non-Anginal
+Jane Smith,35,Female,Asthma,ALBUTEROL,,130/85,200,patient@example.com,,25,94.3,321,72,0,137,99,5.7,9.2,127,95,140.3,Yes,Asymptomatic
+Mary Clark,25,Male,Hypertension,LISINOPRIL,,130/85,220,name@hospital.org,123-456-7890,17,98.7,494,73,0.018,151,108,5.1,16,142,103,145.7,No,Atypical Angina
+Michael Wilson,35,Male,Asthma,NONE,2020-01-15T00:00:00.000,130/85,160,Unknown,555-555-5555,21,94.6,263,79,0.013,155,104,5,9.1,112,75,144.4,No,Asymptomatic
+Mary Clark,60,Other,,ATORVASTATIN,,120/80,160,contact@domain.com,555-555-5555,17,96.6,519,91,0,164,103,6.2,30.4,175,95,136.5,No,Asymptomatic
+John Doe,25,Male,,ALBUTEROL,,130/85,180,Unknown,Not Provided,20,97.7,537,90,0.007,134,86,5.2,9.5,132,67,135.6,Yes,Non-Anginal
+Sarah Johnson,35,Other,Diabetes,ALBUTEROL,2020-01-15T00:00:00.000,110/70,220,contact@domain.com,555-555-5555,21,95.9,479,73,0.013,137,140,9.1,21,112,74,141.8,No,Non-Anginal
+Sarah Johnson,35,Male,Heart Disease,LISINOPRIL,,110/70,200,patient@example.com,555-555-5555,20,96.6,314,89,0.062,103,104,5.9,7.2,123,80,140.6,No,Typical Angina
+Emily Davis,35,Female,Asthma,METFORMIN,,140/90,200,contact@domain.com,,25,96,257,73,0.01,150,92,5.8,10.7,91,54,142.4,Yes,Atypical Angina
+Laura Martinez,70,Female,Diabetes,ATORVASTATIN,,120/80,160,contact@domain.com,098-765-4321,14,98.7,457,84,0.02,152,187,7.9,18,130,69,138.9,No,Non-Anginal
+Emily Davis,35,Female,Heart Disease,ALBUTEROL,,110/70,160,contact@domain.com,555-555-5555,14,96.5,437,98,0.077,112,90,5,16.4,137,83,144,No,Atypical Angina
+Laura Martinez,70,Female,Asthma,LISINOPRIL,2020-01-15T00:00:00.000,,180,contact@domain.com,555-555-5555,18,95.2,234,78,0.006,130,99,5.2,8,110,77,137.4,No,Non-Anginal
+Laura Martinez,60,Other,Hypertension,NONE,,120/80,160,patient@example.com,123-456-7890,22,94.5,342,71,0.015,147,73,5.3,10.4,146,108,153.7,No,Asymptomatic
+Michael Wilson,35,Male,Heart Disease,ALBUTEROL,2020-01-15T00:00:00.000,120/80,180,Unknown,Not Provided,22,95.1,478,94,0.095,110,96,5.7,12.9,131,79,137.9,Yes,Typical Angina
+Emily Davis,35,Other,,LISINOPRIL,,110/70,200,name@hospital.org,123-456-7890,17,96.5,257,74,0.152,114,161,5.7,10.8,123,82,141,No,Non-Anginal
+Jane Smith,35,Female,Diabetes,METFORMIN,2020-01-15T00:00:00.000,,180,Unknown,,17,94.6,448,62,0,127,200,9.5,23.6,125,75,139,Yes,Asymptomatic
+Robert Brown,35,Other,Heart Disease,METFORMIN,,140/90,180,name@hospital.org,098-765-4321,17,95.4,382,106,0.093,140,106,5.8,11.1,137,77,138.9,No,Typical Angina
+Robert Brown,35,Male,Heart Disease,ALBUTEROL,,110/70,180,name@hospital.org,Not Provided,13,96.9,391,108,0.058,103,88,5.5,9.3,139,82,136.6,No,Non-Anginal
+Emily Davis,60,Other,,ALBUTEROL,,,160,Unknown,123-456-7890,14,93.9,386,88,0.043,161,68,6.1,8.2,108,81,140.7,No,Asymptomatic
+Emily Davis,25,Male,Asthma,ATORVASTATIN,2020-01-15T00:00:00.000,120/80,180,patient@example.com,555-555-5555,25,93.9,223,105,0.01,182,84,4.9,10.3,118,72,140.3,Yes,Atypical Angina
+Mary Clark,60,Other,Hypertension,LISINOPRIL,,,200,Unknown,555-555-5555,24,100,399,59,0.012,164,105,5.9,11.4,142,105,153.3,No,Typical Angina
+Michael Wilson,70,Male,,ALBUTEROL,,120/80,220,patient@example.com,Not Provided,13,93.4,426,86,0.021,141,97,5,3.4,123,71,152.6,No,Typical Angina
+Emily Davis,60,Male,Hypertension,ATORVASTATIN,,110/70,180,name@hospital.org,555-555-5555,14,94.9,494,65,0.011,126,105,5.5,12.6,151,109,150.6,No,Non-Anginal
+Mary Clark,70,Female,Asthma,ATORVASTATIN,,110/70,160,patient@example.com,123-456-7890,26,92.9,184,85,0.004,141,100,5.6,6.9,118,77,139,Yes,Non-Anginal
+Laura Martinez,35,Male,Heart Disease,ALBUTEROL,2020-01-15T00:00:00.000,130/85,180,Unknown,123-456-7890,20,95.6,322,73,0.043,130,99,5.1,12.8,145,71,143.2,No,Atypical Angina
+Sarah Johnson,25,Female,Hypertension,METFORMIN,,130/85,200,Unknown,555-555-5555,21,97.9,469,79,0.017,129,103,5.3,9.8,173,91,144,Yes,Non-Anginal
+Sarah Johnson,35,Female,Diabetes,LISINOPRIL,2020-01-15T00:00:00.000,130/85,180,Unknown,555-555-5555,19,94.6,398,86,0.01,149,155,9,27.9,123,72,135.2,No,Asymptomatic
+Laura Martinez,35,Female,Diabetes,LISINOPRIL,2020-01-15T00:00:00.000,110/70,220,name@hospital.org,,16,97.7,456,80,0.004,143,125,9.5,11.9,118,73,144.8,No,Asymptomatic
+David Lee,35,Other,,METFORMIN,,140/90,180,Unknown,098-765-4321,20,91.7,356,100,0,135,186,5.4,23.8,171,78,140.3,No,Non-Anginal
+Mary Clark,70,Other,Asthma,ALBUTEROL,,110/70,180,name@hospital.org,Not Provided,23,96.4,282,84,0.011,145,91,5.1,7.5,118,80,142.7,Yes,Asymptomatic
+Mary Clark,35,Other,,LISINOPRIL,2020-01-15T00:00:00.000,,160,Unknown,123-456-7890,16,93.6,380,60,0.015,129,76,9.8,7.9,144,75,135.5,Yes,Typical Angina
+Laura Martinez,35,Other,,ALBUTEROL,,110/70,180,name@hospital.org,Not Provided,16,97.6,515,79,0.011,105,85,5.6,29.6,111,93,137.2,No,Atypical Angina
+Jane Smith,25,Male,,ALBUTEROL,,110/70,200,Unknown,,17,95.2,431,60,0.108,146,87,5.7,10.5,130,102,147.4,Yes,Non-Anginal
+James Taylor,35,Male,Diabetes,ATORVASTATIN,,120/80,220,Unknown,123-456-7890,14,97.7,423,78,0.003,153,152,9.1,11.3,110,75,142,No,Non-Anginal

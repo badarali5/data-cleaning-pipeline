@@ -28,10 +28,7 @@ class DataValidator:
             and sum(report["missing_values"].values()) == 0
         )
 
-        with open(
-            "validation_report/validation_report.json",
-            "w"
-        ) as file:
+        with open( "validation_report/validation_report.json","w") as file:
             json.dump(report, file, indent=4)
 
         print("Validation report generated successfully.")
