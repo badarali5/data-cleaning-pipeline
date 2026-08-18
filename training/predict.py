@@ -21,6 +21,7 @@ def predict_new(raw_row_df, model, scaler, target_encoder, feature_columns):
     pred_encoded = model.predict(X_scaled)
     pred_labels = target_encoder.inverse_transform(pred_encoded)
 
+
     if hasattr(model, "predict_proba"):
         proba = model.predict_proba(X_scaled)
         proba_df = pd.DataFrame(proba, columns=target_encoder.classes_)

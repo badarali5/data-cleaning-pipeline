@@ -44,7 +44,6 @@ class HealthcareDataCleaner:
         )
 
         median_age = self.df["Age"].median()
-
         self.df["Age"] = self.df["Age"].fillna(median_age)
 
     def clean_cholesterol(self):
