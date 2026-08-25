@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-
+import matplotlib.pyplot as plt
 class HealthcareDataCleaner:
 
     def __init__(self, file_path):
@@ -93,6 +93,13 @@ class HealthcareDataCleaner:
     def save_dataset(self, output_file):
         self.df.to_json(output_file, orient="records", indent=4, date_format="iso")
         print(f"\nCleaned dataset saved as '{output_file}'")
+
+    def outliers():
+        df=pd.read_json('data/cleaned/healthcare_clean.json')
+        plt.boxplot(df["Age"])
+        plt.ylabel('Age')
+        plt.show
+
 
     def clean_dataset(self):
         self.remove_duplicates()
