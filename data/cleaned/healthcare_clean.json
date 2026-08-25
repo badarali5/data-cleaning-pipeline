@@ -26998,5 +26998,41 @@
         "Sodium_Level": 142.0,
         "Wheezing_Present": "No",
         "Chest_Pain_Type": "Non-Anginal"
+    },
+    {
+        "patient_id": 1001,
+        "Patient Name": "Ahmed",
+        "Age": 30,
+        "Gender": "Male",
+        "Condition": "Asthma",
+        "Medication": "ALBUTEROL",
+        "Cholesterol": 190,
+        "Respiratory_Rate": 20,
+        "Oxygen_Saturation": 96,
+        "Fasting_Blood_Sugar": 100,
+        "HbA1c": 5.5,
+        "Insulin_Level": 10,
+        "Systolic_BP_Reading": 120,
+        "Diastolic_BP_Reading": 80,
+        "Wheezing_Present": "Yes",
+        "Chest_Pain_Type": "Asymptomatic"
+    },
+    {
+        "patient_id": 1001,
+        "Patient Name": "Ahmed",
+        "Age": 30,
+        "Gender": "Male",
+        "Condition": "Asthma",
+        "Medication": "ALBUTEROL",
+        "Cholesterol": 190,
+        "Respiratory_Rate": 20,
+        "Oxygen_Saturation": 96,
+        "Fasting_Blood_Sugar": 100,
+        "HbA1c": 5.5,
+        "Insulin_Level": 10,
+        "Systolic_BP_Reading": 120,
+        "Diastolic_BP_Reading": 80,
+        "Wheezing_Present": "Yes",
+        "Chest_Pain_Type": "Asymptomatic"
     }
 ]

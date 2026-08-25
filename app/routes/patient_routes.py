@@ -1,5 +1,6 @@
-from fastapi import APIRouter, HTTPException
 from typing import Dict, Any
+from fastapi import APIRouter, HTTPException, Body
+
 
 from app.services.patient_service import (
     get_all_patients,
@@ -34,6 +35,6 @@ def get_patient_by_id(patient_id: int):
 
 
 @router.post("/")
-def create_new_patient(patient: Dict[str, Any]):
+def create_new_patient(patient: Dict[str, Any] = Body(...)):
 
     return create_patient(patient)

@@ -3,6 +3,7 @@ from typing import Optional
 
 
 class Patient(BaseModel):
+    patient_id: int
     patient_name: str
     age: int
     gender: str
