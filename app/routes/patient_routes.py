@@ -21,7 +21,6 @@ def get_patients():
 
 @router.get("/{patient_id}")
 def get_patient_by_id(patient_id: int):
-
     patient = get_patient(patient_id)
 
     if patient is None:
