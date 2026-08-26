@@ -1,11 +1,13 @@
 from typing import Dict, Any
-from fastapi import APIRouter, HTTPException, Body
 
+from fastapi import APIRouter, Body, status
 
 from app.services.patient_service import (
     get_all_patients,
     get_patient,
-    create_patient
+    create_patient,
+    update_patient,
+    delete_patient
 )
 
 router = APIRouter(
@@ -16,24 +18,67 @@ router = APIRouter(
 
 @router.get("/")
 def get_patients():
-    return get_all_patients()
+
+    patients = get_all_patients()
+
+    return {
+        "status": "success",
+        "message": "Patients retrieved successfully",
+        "data": patients
+    }
 
 
 @router.get("/{patient_id}")
 def get_patient_by_id(patient_id: int):
+
     patient = get_patient(patient_id)
 
-    if patient is None:
-        raise HTTPException(
-            status_code=404,
-            detail="Patient not found"
-        )
+    return {
+        "status": "success",
+        "message": "Patient retrieved successfully",
+        "data": patient
+    }
 
 
-    return patient
+@router.post("/", status_code=status.HTTP_201_CREATED)
+def create_new_patient(
+    patient: Dict[str, Any] = Body(...)
+):
+
+    new_patient = create_patient(patient)
+
+    return {
+        "status": "success",
+        "message": "Patient created successfully",
+        "data": new_patient
+    }
 
 
-@router.post("/")
-def create_new_patient(patient: Dict[str, Any] = Body(...)):
+@router.put("/{patient_id}")
+def update_existing_patient(
+    patient_id: int,
+    patient: Dict[str, Any] = Body(...)
+):
 
-    return create_patient(patient)
+    updated_patient = update_patient(
+        patient_id,
+        patient
+    )
+
+    return {
+        "status": "success",
+        "message": "Patient updated successfully",
+        "data": updated_patient
+    }
+
+
+@router.delete("/{patient_id}")
+def delete_existing_patient(patient_id: int):
+
+    deleted_patient = delete_patient(patient_id)
+
+    return {
+        "status": "success",
+        "message": "Patient deleted successfully",
+        "data": deleted_patient
+    }

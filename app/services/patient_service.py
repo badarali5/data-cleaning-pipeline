@@ -1,5 +1,5 @@
 import json
-
+from fastapi import HTTPException
 FILE_PATH = "data/cleaned/healthcare_clean.json"
 
 
@@ -17,14 +17,18 @@ def get_all_patients():
     return read_patients()
 
 
-def get_patient(patient_id):
-    patients = read_patients()
 
-    if patient_id < 0 or patient_id >= len(patients):
-        return None
+def get_patient(patient_id: int):
+    patients = get_all_patients()
 
-    return patients[patient_id]
+    for patient in patients:
+        if patient["patient_id"] == patient_id:
+            return patient
 
+    raise HTTPException(
+        status_code=404,
+        detail="Patient not found"
+    )
 
 def create_patient(patient):
     patients = read_patients()
