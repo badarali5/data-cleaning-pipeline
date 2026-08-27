@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-from app.routes.patient_routes import router as patient_router
+from app.controller.patient_routes import router as patient_router
 
 app = FastAPI(
     title="Healthcare API",

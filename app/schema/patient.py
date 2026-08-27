@@ -2,8 +2,7 @@ from pydantic import BaseModel
 from typing import Optional
 
 
-class Patient(BaseModel):
-    patient_id: int
+class PatientBase(BaseModel):
     patient_name: str
     age: int
     gender: str
@@ -19,3 +18,15 @@ class Patient(BaseModel):
     diastolic_bp_reading: float
     wheezing_present: str
     chest_pain_type: str
+
+
+class PatientCreate(PatientBase):
+    pass
+
+
+class PatientUpdate(PatientBase):
+    pass
+
+
+class Patient(PatientBase):
+    patient_id: int
