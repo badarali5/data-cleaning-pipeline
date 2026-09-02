@@ -1,23 +1,24 @@
-from pydantic import BaseModel
 from typing import Optional
+from pydantic import BaseModel
 
 
 class PatientBase(BaseModel):
-    patient_name: str
-    age: int
-    gender: str
+    patient_id: int
+    patient_name: Optional[str] = None
+    age: Optional[int] = None
+    gender: Optional[str] = None
     condition: Optional[str] = None
-    medication: str
-    cholesterol: float
-    respiratory_rate: int
-    oxygen_saturation: float
-    fasting_blood_sugar: float
-    hba1c: float
-    insulin_level: float
-    systolic_bp_reading: float
-    diastolic_bp_reading: float
-    wheezing_present: str
-    chest_pain_type: str
+    medication: Optional[str] = None
+    cholesterol: Optional[float] = None
+    respiratory_rate: Optional[int] = None
+    oxygen_saturation: Optional[float] = None
+    fasting_blood_sugar: Optional[float] = None
+    hba1c: Optional[float] = None
+    insulin_level: Optional[float] = None
+    systolic_bp_reading: Optional[float] = None
+    diastolic_bp_reading: Optional[float] = None
+    wheezing_present: Optional[str] = None
+    chest_pain_type: Optional[str] = None
 
 
 class PatientCreate(PatientBase):
